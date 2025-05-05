@@ -1,10 +1,4 @@
 [
-  {
-    "title": "Teri Galiyan",
-    "url": "https://raw.githubusercontent.com/Khiyamturk01/KT/main/Teri%20Galiyan.mp3"
-  },
-  {
-    "title": "Tu Jo Nahi",
-    "url": "https://raw.githubusercontent.com/Khiyamturk01/KT/main/Tu%20Jo%20Nahi%20Hai.mp3"
-  }
+  { "title": "Teri Galiyan", "filename": "Teri Galiyan.mp3" },
+  { "title": "Tu Jo Nahi", "filename": "Tu Jo Nahi Hai.mp3" }
 ]
