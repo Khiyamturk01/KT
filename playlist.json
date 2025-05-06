@@ -1,16 +1,16 @@
 [
   {
-    "name": "Test Song",
+    "name": "Teri Galiyan",
     "artist": "Khiyam Turk",
-    "album": "My Album",
-    "url": "https://khiyamturk01.github.io/KT/audio/test.mp3",
-    "cover_art_url": "https://khiyamturk01.github.io/KT/art/test.jpg"
+    "album": "Bollywood Hits",
+    "url": "https://khiyamturk01.github.io/KT/Teri%20Galiyan.mp3",
+    "cover_art_url": "https://via.placeholder.com/300x300.png?text=Teri+Galiyan"
   },
   {
-    "name": "Another Song",
+    "name": "Tu Jo Nahi Hai",
     "artist": "Khiyam Turk",
-    "album": "Album 2",
-    "url": "https://khiyamturk01.github.io/KT/audio/another.mp3",
-    "cover_art_url": "https://khiyamturk01.github.io/KT/art/another.jpg"
+    "album": "Bollywood Hits",
+    "url": "https://khiyamturk01.github.io/KT/Tu%20Jo%20Nahi%20Hai.mp3",
+    "cover_art_url": "https://via.placeholder.com/300x300.png?text=Tu+Jo+Nahi+Hai"
   }
 ]
