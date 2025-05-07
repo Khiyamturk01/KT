@@ -9,26 +9,26 @@
   <ul id="playlist"></ul>
   <audio id="player" controls></audio>
 
-  <script>
-    const playlistUrl = "/playlist.json";
-    const listEl = document.getElementById("playlist");
-    const player = document.getElementById("player");
+ <script>
+  const playlistUrl = "/playlist.json";
+  const listEl = document.getElementById("playlist");
+  const player = document.getElementById("player");
 
-    fetch(playlistUrl)
-      .then(res => res.json())
-      .then(tracks => {
-        tracks.forEach((track, i) => {
-          const li = document.createElement("li");
-          li.textContent = track.title;
-          li.style.cursor = "pointer";
-          li.onclick = () => {
-            const fileName = track.url.split('/').pop();
-            player.src = `/api/stream?file=${encodeURIComponent(fileName)}`;
-            player.play();
-          };
-          listEl.appendChild(li);
-        });
+  fetch(playlistUrl)
+    .then(res => res.json())
+    .then(tracks => {
+      tracks.forEach((track, i) => {
+        const li = document.createElement("li");
+        li.textContent = track.title;
+        li.style.cursor = "pointer";
+        li.onclick = () => {
+          const fileName = track.url.split('/').pop();
+          player.src = `/api/stream?file=${encodeURIComponent(fileName)}`;
+          player.play();
+        };
+        listEl.appendChild(li);
       });
-  </script>
+    });
+</script>
 </body>
 </html>
