@@ -1,10 +1,20 @@
 [
   {
     "title": "Teri Galiyan",
-    "url": "https://archive.org/download/songs_20250506/Teri%20Galiyan.mp3"
+    "artist": "Khiyam Turk",
+    "album": "Bollywood Hits",
+    "audioUrl": "https://khiyamturk01.github.io/KT/Teri%20Galiyan.mp3",
+    "cover_art_url": "https://via.placeholder.com/300x300.png?text=Teri+Galiyan",
+    "duration": "3:45",
+    "source": "spotify"
   },
   {
     "title": "Tu Jo Nahi Hai",
-    "url": "https://archive.org/download/songs_20250506/Tu%20Jo%20Nahi%20Hai.mp3"
+    "artist": "Khiyam Turk",
+    "album": "Bollywood Hits",
+    "audioUrl": "https://khiyamturk01.github.io/KT/Tu%20Jo%20Nahi%20Hai.mp3",
+    "cover_art_url": "https://via.placeholder.com/300x300.png?text=Tu+Jo+Nahi+Hai",
+    "duration": "4:10",
+    "source": "bandcamp"
   }
 ]
