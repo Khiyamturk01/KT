@@ -1,18 +1,10 @@
 [
   {
-    "name": "Disney",
-    "url": "https://www.youtube.com/embed/TJNjTOGwXCg"
-  },
-  {
-    "name": "ABCD",
+    "name": "KT Music Live",
     "url": "https://www.youtube.com/embed/kpy6QEAuLJw?si=1mMISrAxwhRg9VEf"
   },
   {
-    "name": "NASA TV",
-    "url": "https://www.youtube.com/embed/21X5lGlDOfg"
-  },
-  {
-    "name": "Bloomberg Global",
-    "url": "https://www.youtube.com/embed/dZyQkFheWds"
-  },
+    "name": "KT News",
+    "url": "https://www.youtube.com/embed/VIDEO_ID_2"
+  }
 ]
