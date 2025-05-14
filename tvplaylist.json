@@ -1,5 +1,5 @@
 [
-  { "name": "Booba TV", "url": "https://www.youtube.com/embed/hBRQ0C-O5-A", "category": "Kids" },
+  { "name": "AL Jazeera", "url": "https://www.youtube.com/embed/gCNeDWCI0vo", "category": "International News" },
   { "name": "Disney Junior", "url": "https://www.youtube.com/embed/TJNjTOGwXCg", "category": "Kids" },
   { "name": "PAW Patrol", "url": "https://www.youtube.com/embed/Ui_6vrFvqRI", "category": "Kids" },
   { "name": "Talking Tom", "url": "https://www.youtube.com/embed/uHp29wxqaUo", "category": "Kids" },
@@ -17,7 +17,6 @@
   { "name": "K POP TV", "url": "https://www.youtube.com/embed/JVocS7Yftw8", "category": "Music" },
   { "name": "Calcio Sports", "url": "https://www.youtube.com/embed/Nu2JGd0TJaM", "category": "Sports" },
   { "name": "Arirang TV", "url": "https://www.youtube.com/embed/CJVBX7KI5nU", "category": "International News" },
-  { "name": "AL Jazeera", "url": "https://www.youtube.com/embed/gCNeDWCI0vo", "category": "International News" },
   { "name": "24 News", "url": "https://www.youtube.com/embed/hyySa56qEVI", "category": "News" },
   { "name": "92 News", "url": "https://www.youtube.com/embed/V4WX74-brjw", "category": "News" },
   { "name": "Turkish News", "url": "https://www.youtube.com/embed/nmY9i63t6qo", "category": "International News" },
