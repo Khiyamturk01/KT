@@ -51,6 +51,6 @@
   { "name": "UN News", "url": "https://www.youtube.com/embed/wfAa1GiNdgM", "category": "International News" },
   { "name": "US News", "url": "https://www.youtube.com/embed/Yv7wY1K3aBQ", "category": "News" },
   { "name": "ZEE News", "url": "https://www.youtube.com/embed/IGz3_vVgNzQ", "category": "International News" },
-  { "name": "HSN Shopping", "url": "https://www.youtube.com/embed/q-BvtDrTnxc", "category": "Shopping" },
+  { "name": "Geo TV", "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8", "category": "ETC" },
   { "name": "QVC Shopping", "url": "https://www.youtube.com/embed/UqFzfqlb60g", "category": "Shopping" }
 ]
