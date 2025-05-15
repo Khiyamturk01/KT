@@ -56,7 +56,7 @@
   { "name": "Fashion TV", "url": "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8", "category": "Shopping" },
   { "name": "Iran News", "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8", "category": "News" },
   { "name": "Japan News 2", "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8", "category": "News" },
-  { "name": "Korean News", "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU", "category": "News" }
+  { "name": "Korean News", "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU", "category": "News" },
   { "name": "Sky Sports", "url": "https://af7a8b4e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/cc93d7ae-885b-4f61-9b87-82ab54058fa8/3.m3u8", "category": "Sports" },
   { "name": "Dubai Sports", "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8", "category": "Sports" },
   { "name": "Russian Music", "url": "https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8", "category": "Music" },
