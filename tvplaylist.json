@@ -2,7 +2,7 @@
   { "name": "AL Jazeera", "url": "https://www.youtube.com/embed/gCNeDWCI0vo", "category": "International News" },
   { "name": "Disney Junior", "url": "https://www.youtube.com/embed/TJNjTOGwXCg", "category": "Kids" },
   { "name": "PAW Patrol", "url": "https://www.youtube.com/embed/Ui_6vrFvqRI", "category": "Kids" },
-  { "name": "Talking Tom", "url": "https://www.youtube.com/embed/uHp29wxqaUo", "category": "Kids" },
+  { "name": "Sky Toons", "url": "https://stream.ads.ottera.tv/cl/250515d0irkln79mk4tgoeebtg/1280x720_2300000_0_f.m3u8?i=475_50", "category": "Kids" },
   { "name": "NASA TV", "url": "https://www.youtube.com/embed/jKHvbJe9c_Y", "category": "Science & Nature" },
   { "name": "Amazing Facts", "url": "https://www.youtube.com/embed/WoqwB8Et_G4", "category": "Science & Nature" },
   { "name": "Fox Weather", "url": "https://www.youtube.com/embed/wt6SIE7BXS8", "category": "Weather" },
@@ -52,5 +52,9 @@
   { "name": "US News", "url": "https://www.youtube.com/embed/Yv7wY1K3aBQ", "category": "News" },
   { "name": "ZEE News", "url": "https://www.youtube.com/embed/IGz3_vVgNzQ", "category": "International News" },
   { "name": "Geo TV", "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8", "category": "ETC" },
-  { "name": "QVC Shopping", "url": "https://www.youtube.com/embed/UqFzfqlb60g", "category": "Shopping" }
+  { "name": "QVC Shopping", "url": "https://www.youtube.com/embed/UqFzfqlb60g", "category": "Shopping" }, 
+  { "name": "Fashion TV", "url": "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8", "category": "Shopping" },
+    { "name": "Iran News", "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8", "category": "International News" },
+  { "name": "Japan News", "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8", "category": "International News" },
+  { "name": "Korean News", "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU", "category": "International News" },
 ]
