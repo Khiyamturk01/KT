@@ -5,6 +5,81 @@
     "category": "News"
   },
   {
+    "name": "Disney Junior",
+    "url": "https://www.youtube.com/embed/TJNjTOGwXCg",
+    "category": "Kids"
+  },
+  {
+    "name": "PAW Patrol",
+    "url": "https://www.youtube.com/embed/Ui_6vrFvqRI",
+    "category": "Kids"
+  },
+  {
+    "name": "NASA TV",
+    "url": "https://www.youtube.com/embed/jKHvbJe9c_Y",
+    "category": "Science & Nature"
+  },
+  {
+    "name": "Amazing Facts",
+    "url": "https://www.youtube.com/embed/WoqwB8Et_G4",
+    "category": "Science & Nature"
+  },
+  {
+    "name": "Fox Weather",
+    "url": "https://www.youtube.com/embed/wt6SIE7BXS8",
+    "category": "Weather"
+  },
+  {
+    "name": "Trading",
+    "url": "https://www.youtube.com/embed/nSxZaePaqlU",
+    "category": "Finance"
+  },
+  {
+    "name": "CAM Earth",
+    "url": "https://www.youtube.com/embed/HfgIFGbdGJ0",
+    "category": "Cams"
+  },
+  {
+    "name": "CAM NASA",
+    "url": "https://www.youtube.com/embed/Jm8wRjD3xVA",
+    "category": "Cams"
+  },
+  {
+    "name": "CAM Times Square",
+    "url": "https://www.youtube.com/embed/jtvmwjzZY0c",
+    "category": "Cams"
+  },
+  {
+    "name": "CAM Venice",
+    "url": "https://www.youtube.com/embed/ph1vpnYIxJk",
+    "category": "Cams"
+  },
+  {
+    "name": "CAM Stockholm",
+    "url": "https://www.youtube.com/embed/hoWIK0Lj_cI",
+    "category": "Cams"
+  },
+  {
+    "name": "CAM Norway",
+    "url": "https://www.youtube.com/embed/kRbPEg89tjA",
+    "category": "Cams"
+  },
+  {
+    "name": "CNBC A",
+    "url": "https://www.youtube.com/embed/1Kag7BP35PI",
+    "category": "Finance"
+  },
+  {
+    "name": "K POP TV",
+    "url": "https://www.youtube.com/embed/JVocS7Yftw8",
+    "category": "Music"
+  },
+  {
+    "name": "Calcio Sports",
+    "url": "https://www.youtube.com/embed/Nu2JGd0TJaM",
+    "category": "Sports"
+  },
+  {
     "name": "Arirang TV",
     "url": "https://www.youtube.com/embed/CJVBX7KI5nU",
     "category": "News"
@@ -70,6 +145,21 @@
     "category": "News"
   },
   {
+    "name": "Geo TV",
+    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "QVC Shopping",
+    "url": "https://www.youtube.com/embed/UqFzfqlb60g",
+    "category": "Shopping"
+  },
+  {
+    "name": "Fashion TV",
+    "url": "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8",
+    "category": "Shopping"
+  },
+  {
     "name": "Iran News",
     "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8",
     "category": "News"
@@ -85,94 +175,19 @@
     "category": "News"
   },
   {
-    "name": "FOX News",
-    "url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8",
-    "category": "News"
+    "name": "Russian Music",
+    "url": "https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8",
+    "category": "Music"
   },
   {
-    "name": "BBC News",
-    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8",
-    "category": "News"
+    "name": "Turkish TRT Music",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "category": "Music"
   },
   {
-    "name": "Palestine News",
-    "url": "https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Such News",
-    "url": "https://video.primexsports.com/suchnews/live/chunklist_w503462030.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "China News",
-    "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "GNN News",
-    "url": "https://www.youtube.com/embed/2bk3gVrO8aQ",
-    "category": "News"
-  },
-  {
-    "name": "ABC News",
-    "url": "https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Fox News",
-    "url": "https://dcs-live-uc1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177626881-n6da743ecbc5b1868281848762c99e4e6&ts=1748496141&anvtrid=cfbc0bfa4112a6a44e32ae838d814e59",
-    "category": "News"
-  },
-  {
-    "name": "Philippines News",
-    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "DW News",
-    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "CAM Earth",
-    "url": "https://www.youtube.com/embed/HfgIFGbdGJ0",
-    "category": "Cams"
-  },
-  {
-    "name": "CAM NASA",
-    "url": "https://www.youtube.com/embed/Jm8wRjD3xVA",
-    "category": "Cams"
-  },
-  {
-    "name": "CAM Times Square",
-    "url": "https://www.youtube.com/embed/jtvmwjzZY0c",
-    "category": "Cams"
-  },
-  {
-    "name": "CAM Venice",
-    "url": "https://www.youtube.com/embed/ph1vpnYIxJk",
-    "category": "Cams"
-  },
-  {
-    "name": "CAM Stockholm",
-    "url": "https://www.youtube.com/embed/hoWIK0Lj_cI",
-    "category": "Cams"
-  },
-  {
-    "name": "CAM Norway",
-    "url": "https://www.youtube.com/embed/kRbPEg89tjA",
-    "category": "Cams"
-  },
-  {
-    "name": "Cam Earth TV",
-    "url": "https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4rci6b0CgOEgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.Ff8AN9vEWkHpltgvoHGCkopB2_xxDL5qyqY1fcLArX72XV5e2YkN6eZcvy_HWyA3zgCHlhh_zKfn2cnb7TEOIA&domain=www.earthtv.com",
-    "category": "Cams"
-  },
-  {
-    "name": "Geo TV",
-    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks.m3u8",
-    "category": "Entertainment"
+    "name": "Turkish POP Music",
+    "url": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
+    "category": "Music"
   },
   {
     "name": "Turkish Movies 360",
@@ -183,6 +198,21 @@
     "name": "TRT Movies Turkish",
     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
     "category": "Entertainment"
+  },
+  {
+    "name": "FOX News",
+    "url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "BBC News",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Hindi Music",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8",
+    "category": "Music"
   },
   {
     "name": "Iran TV",
@@ -220,6 +250,51 @@
     "category": "Entertainment"
   },
   {
+    "name": "Punjabi Music",
+    "url": "https://mhoneshaddha.com/hls/1/stream.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Show Box Music",
+    "url": "https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Palestine News",
+    "url": "https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Such News",
+    "url": "https://video.primexsports.com/suchnews/live/chunklist_w503462030.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "China News",
+    "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Pokemon Kids",
+    "url": "https://www.youtube.com/embed/p3rUnBdYWpo",
+    "category": "Kids"
+  },
+  {
+    "name": "EBS Kids",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "YOYO Kids",
+    "url": "https://www.youtube.com/embed/31cBsZ9DdRQ?si=dsiA7deCw_FMrl4i",
+    "category": "Kids"
+  },
+  {
+    "name": "ESports Kids",
+    "url": "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
+    "category": "Kids"
+  },
+  {
     "name": "Mongolia TV",
     "url": "https://10st.vcast.im/MYASIATV/TV5/chunklist_w2059638884.m3u8",
     "category": "Entertainment"
@@ -245,6 +320,16 @@
     "category": "Entertainment"
   },
   {
+    "name": "NBT Shopping",
+    "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist_w499820882_b3128000.m3u8",
+    "category": "Shopping"
+  },
+  {
+    "name": "RTA Sports",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/03.m3u8",
+    "category": "Sports"
+  },
+  {
     "name": "SS TV",
     "url": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
     "category": "Entertainment"
@@ -260,6 +345,11 @@
     "category": "Entertainment"
   },
   {
+    "name": "GNN News",
+    "url": "https://www.youtube.com/embed/2bk3gVrO8aQ",
+    "category": "News"
+  },
+  {
     "name": "Kazakhstan TV",
     "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8",
     "category": "Entertainment"
@@ -270,14 +360,64 @@
     "category": "Entertainment"
   },
   {
+    "name": "MuzZone Music",
+    "url": "https://hls.live.31kz.adapto.kz/muzzone/main_stream.m3u8",
+    "category": "Music"
+  },
+  {
     "name": "Abai TV",
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8",
     "category": "Entertainment"
   },
   {
+    "name": "Balapan Kids",
+    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Biz Kids",
+    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8",
+    "category": "Kids"
+  },
+  {
     "name": "Biz Cinema",
     "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
     "category": "Entertainment"
+  },
+  {
+    "name": "Biz Music",
+    "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Armenia Music",
+    "url": "https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "One Music",
+    "url": "https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8?nimblesessionid=507912698",
+    "category": "Music"
+  },
+  {
+    "name": "AZ Sports",
+    "url": "https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=9a5d1907410d64e2ab23906f14240309ca9e9c48-677da0058861c5ba6422071fa531d9ae-1748505475000000-1748494675000",
+    "category": "Sports"
+  },
+  {
+    "name": "ABC News",
+    "url": "https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Fox News",
+    "url": "https://dcs-live-uc1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177626881-n6da743ecbc5b1868281848762c99e4e6&ts=1748496141&anvtrid=cfbc0bfa4112a6a44e32ae838d814e59",
+    "category": "News"
+  },
+  {
+    "name": "Philippines News",
+    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+    "category": "News"
   },
   {
     "name": "Roar TV",
@@ -288,6 +428,11 @@
     "name": "ET TV",
     "url": "https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/de1ecfae-5194-4ea8-9054-8e6540bc0002:BRU/variant/f8776b964b37880bde2f4cec8b7ea35b/bandwidth/5860800.m3u8",
     "category": "Entertainment"
+  },
+  {
+    "name": "Live Sports",
+    "url": "https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8",
+    "category": "Sports"
   },
   {
     "name": "YTA Movies",
@@ -305,219 +450,24 @@
     "category": "Entertainment"
   },
   {
+    "name": "Heartland Music",
+    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1748501846~acl=%2F5a306695-c170-4a65-853c-162905531b31%2F%2A~hmac=8e518735d538fb6ea0f8d97b8eb029ed03afb5662002faef070f39c3075453bd/5a306695-c170-4a65-853c-162905531b31/v2/playlist/av/5a306695/avf/0fee988e/media.m3u8?pathsig=8c953e4f~uDsFTbzK9ssMsVgqYW6-ST0S2GmZjB8zMKwOVWadFFk&qsr=1&r=dXMtZWFzdDE%3D&sf=ts&st=video",
+    "category": "Music"
+  },
+  {
+    "name": "Car Sports",
+    "url": "https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/2ozZxLF1NpLAD9BNlRMT_g/1748584743/media_mpegts_0.m3u8?channel_id=49983&source=othersites&device_id=0265579931-db3085f9238cebe112f617104ce04a60&lcp=2&client_id=167153070497367356&play_id=1748498343222725",
+    "category": "Sports"
+  },
+  {
     "name": "The Family TV",
     "url": "https://video.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/d03e692d-44fb-49ce-b079-0044241bdf26/segments/mpegts-h264-1920:1080.m3u8?Expires=1748541594&Signature=ODNlOTk1MDI2MDdkNjQyMmNkYmMxZWNlNGNkN2MwYTI0MDQ0ZmI2MmY1MmQzZmZkMzY1Y2Q3YWFkM2UxM2U5OQ",
     "category": "Entertainment"
   },
   {
-    "name": "ICI TV",
-    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana TV",
-    "url": "https://familyhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana Cinema",
-    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana One TV",
-    "url": "https://onehls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana Korea TV",
-    "url": "https://korhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana Comedy TV",
-    "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana Iranian TV",
-    "url": "https://irhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana Movies Plus",
-    "url": "https://euhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Latino TV",
-    "url": "https://latinohls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Turkiya TV",
-    "url": "https://turkhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "DW Arabic TV",
-    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "DW Esp TV",
-    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "ATV FR",
-    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "WDR FR",
-    "url": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "RBW FR",
-    "url": "https://www.rbwonline.de/media/20250523056.mp4",
-    "category": "Entertainment"
-  },
-  {
-    "name": "DMF FR",
-    "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8?nimblesessionid=326929288",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Portugal TV",
-    "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/manifest.mpd?t=1748512718324",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Cine 5 Movies",
-    "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w1722781287.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Euro Star TV",
-    "url": "https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=qpHFx3xPDCHj8wawJ0UYtQ&e=1748600953",
-    "category": "Entertainment"
-  },
-  {
-    "name": "TEVE TV",
-    "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7g5l8t6dq5jh&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Turkish ATV",
-    "url": "https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=FiVZAA3k6NoZxZHgKDbKcA&e=1748560020",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Turkey ATV",
-    "url": "https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=jqcoZNvbe-5kHGQ8Vf-Plg&e=1748560061",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Show Max TV",
-    "url": "https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1748522119&st=KMG0qguHSJUkT9tc1OccjA&tv=1",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Show TV",
-    "url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7g5lp4b1inut&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Bahrain TV",
-    "url": "https://live-ak.vimeocdn.com/exp=1748518809~acl=%2Fa0e532a8-ccdf-4caa-9ceb-d2d1704f2d44%2F%2A~hmac=1b1d6a4d25f00af661aa469dcb6e13ec4ec23df01c78eb5829ea51e95c8032c7/a0e532a8-ccdf-4caa-9ceb-d2d1704f2d44/chunklist_b2056000.m3u8?max_segments=10",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Alyuam TV Bahrain",
-    "url": "https://iko-live.akamaized.net/AlyuamTV/master_3.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Bahrain TV Int",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1322732328_b2487000.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Quran TV",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1617987586_b2487000.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Egypt TV",
-    "url": "https://nogoumtv.nrpstream.com/hls/0/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "ME TV",
-    "url": "https://content-aapm1.uplynk.com/channel/0b1f73a578fe48b78f2b788c76f2ed10/f.m3u8?pbs=5d9519c47c164ec5974b350ae5330a88",
-    "category": "Entertainment"
-  },
-  {
-    "name": "SAT7 PARS TV",
-    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks_dvr.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "SAT7 ARAB TV",
-    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_source/chunks_dvr.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Trading",
-    "url": "https://www.youtube.com/embed/nSxZaePaqlU",
-    "category": "Finance"
-  },
-  {
-    "name": "CNBC A",
-    "url": "https://www.youtube.com/embed/1Kag7BP35PI",
-    "category": "Finance"
-  },
-  {
-    "name": "Disney Junior",
-    "url": "https://www.youtube.com/embed/TJNjTOGwXCg",
-    "category": "Kids"
-  },
-  {
-    "name": "PAW Patrol",
-    "url": "https://www.youtube.com/embed/Ui_6vrFvqRI",
-    "category": "Kids"
-  },
-  {
-    "name": "Pokemon Kids",
-    "url": "https://www.youtube.com/embed/p3rUnBdYWpo",
-    "category": "Kids"
-  },
-  {
-    "name": "EBS Kids",
-    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "YOYO Kids",
-    "url": "https://www.youtube.com/embed/31cBsZ9DdRQ?si=dsiA7deCw_FMrl4i",
-    "category": "Kids"
-  },
-  {
-    "name": "ESports Kids",
-    "url": "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Balapan Kids",
-    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Biz Kids",
-    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8",
-    "category": "Kids"
+    "name": "Classic Arts Music",
+    "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8",
+    "category": "Music"
   },
   {
     "name": "TG Kids",
@@ -575,89 +525,24 @@
     "category": "Kids"
   },
   {
-    "name": "Persiana Kids",
-    "url": "https://junhls.persiana.live/hls/stream.m3u8",
-    "category": "Kids"
+    "name": "ICI TV",
+    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8",
+    "category": "Entertainment"
   },
   {
-    "name": "Zarok Kids",
-    "url": "https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "SAT7 Kids",
-    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "K POP TV",
-    "url": "https://www.youtube.com/embed/JVocS7Yftw8",
-    "category": "Music"
-  },
-  {
-    "name": "Russian Music",
-    "url": "https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Turkish TRT Music",
-    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Turkish POP Music",
-    "url": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Hindi Music",
-    "url": "https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Punjabi Music",
-    "url": "https://mhoneshaddha.com/hls/1/stream.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Show Box Music",
-    "url": "https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "MuzZone Music",
-    "url": "https://hls.live.31kz.adapto.kz/muzzone/main_stream.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Biz Music",
-    "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Armenia Music",
-    "url": "https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "One Music",
-    "url": "https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8?nimblesessionid=507912698",
-    "category": "Music"
-  },
-  {
-    "name": "Heartland Music",
-    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1748501846~acl=%2F5a306695-c170-4a65-853c-162905531b31%2F%2A~hmac=8e518735d538fb6ea0f8d97b8eb029ed03afb5662002faef070f39c3075453bd/5a306695-c170-4a65-853c-162905531b31/v2/playlist/av/5a306695/avf/0fee988e/media.m3u8?pathsig=8c953e4f~uDsFTbzK9ssMsVgqYW6-ST0S2GmZjB8zMKwOVWadFFk&qsr=1&r=dXMtZWFzdDE%3D&sf=ts&st=video",
-    "category": "Music"
-  },
-  {
-    "name": "Classic Arts Music",
-    "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8",
-    "category": "Music"
+    "name": "VIZION Sports",
+    "url": "https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8",
+    "category": "Sports"
   },
   {
     "name": "Austria Music",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8",
     "category": "Music"
+  },
+  {
+    "name": "Red Bull Sports",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+    "category": "Sports"
   },
   {
     "name": "Belarus Music",
@@ -670,9 +555,59 @@
     "category": "Music"
   },
   {
+    "name": "Persiana TV",
+    "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Cinema",
+    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana One TV",
+    "url": "https://onehls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Korea TV",
+    "url": "https://korhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Comedy TV",
+    "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
     "name": "Persiana Music",
     "url": "https://raphls.persiana.live/hls/stream.m3u8",
     "category": "Music"
+  },
+  {
+    "name": "Persiana Iranian TV",
+    "url": "https://irhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Movies Plus",
+    "url": "https://euhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Science",
+    "url": "https://scihls.persiana.live/hls/stream.m3u8",
+    "category": "Science & Nature"
+  },
+  {
+    "name": "Latino TV",
+    "url": "https://latinohls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Kids",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "category": "Kids"
   },
   {
     "name": "Nostalgia Music",
@@ -685,14 +620,39 @@
     "category": "Music"
   },
   {
+    "name": "Turkiya TV",
+    "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
     "name": "Reality Music",
     "url": "https://twohls.persiana.live/hls/stream.m3u8",
     "category": "Music"
   },
   {
+    "name": "ESA Space",
+    "url": "https://live-ak.vimeocdn.com/exp=1748510975~acl=%2Ff7aea654-a7cb-4d27-970b-fc1fcb88f408%2F%2A~hmac=1da188bb03d3d583bcd331c52fc47f8eb1da34fd78e29628527fefc3a17c0e14/f7aea654-a7cb-4d27-970b-fc1fcb88f408/chunklist_b6256000.m3u8?max_segments=10",
+    "category": "Science & Nature"
+  },
+  {
     "name": "Retro Music",
     "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1694810538_b1428000.m3u8",
     "category": "Music"
+  },
+  {
+    "name": "DW News",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "DW Arabic TV",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Cam Earth TV",
+    "url": "https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4rci6b0CgOEgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.Ff8AN9vEWkHpltgvoHGCkopB2_xxDL5qyqY1fcLArX72XV5e2YkN6eZcvy_HWyA3zgCHlhh_zKfn2cnb7TEOIA&domain=www.earthtv.com",
+    "category": "Cams"
   },
   {
     "name": "One Music",
@@ -715,9 +675,49 @@
     "category": "Music"
   },
   {
+    "name": "DW Esp TV",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ATV FR",
+    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "WDR FR",
+    "url": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "RBW FR",
+    "url": "https://www.rbwonline.de/media/20250523056.mp4",
+    "category": "Entertainment"
+  },
+  {
+    "name": "DMF FR",
+    "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8?nimblesessionid=326929288",
+    "category": "Entertainment"
+  },
+  {
     "name": "Ukrain Music",
     "url": "https://live.m2.tv/hls3/720/stream.m3u8",
     "category": "Music"
+  },
+  {
+    "name": "Portugal TV",
+    "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/manifest.mpd?t=1748512718324",
+    "category": "Entertainment"
+  },
+  {
+    "name": "A Sports Turkey",
+    "url": "https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8?st=fZTsmp7ziU1gK31PBUMM5Q&e=1748558383",
+    "category": "Sports"
+  },
+  {
+    "name": "HT Sports Turkey",
+    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7g5j4a1keknr&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2",
+    "category": "Sports"
   },
   {
     "name": "Power Turk Music",
@@ -740,84 +740,59 @@
     "category": "Music"
   },
   {
-    "name": "NASA TV",
-    "url": "https://www.youtube.com/embed/jKHvbJe9c_Y",
-    "category": "Science & Nature"
+    "name": "Zarok Kids",
+    "url": "https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8",
+    "category": "Kids"
   },
   {
-    "name": "Amazing Facts",
-    "url": "https://www.youtube.com/embed/WoqwB8Et_G4",
-    "category": "Science & Nature"
+    "name": "Cine 5 Movies",
+    "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w1722781287.m3u8",
+    "category": "Entertainment"
   },
   {
-    "name": "Persiana Science",
-    "url": "https://scihls.persiana.live/hls/stream.m3u8",
-    "category": "Science & Nature"
+    "name": "Euro Star TV",
+    "url": "https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=qpHFx3xPDCHj8wawJ0UYtQ&e=1748600953",
+    "category": "Entertainment"
   },
   {
-    "name": "ESA Space",
-    "url": "https://live-ak.vimeocdn.com/exp=1748510975~acl=%2Ff7aea654-a7cb-4d27-970b-fc1fcb88f408%2F%2A~hmac=1da188bb03d3d583bcd331c52fc47f8eb1da34fd78e29628527fefc3a17c0e14/f7aea654-a7cb-4d27-970b-fc1fcb88f408/chunklist_b6256000.m3u8?max_segments=10",
-    "category": "Science & Nature"
+    "name": "TEVE TV",
+    "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7g5l8t6dq5jh&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
+    "category": "Entertainment"
   },
   {
-    "name": "QVC Shopping",
-    "url": "https://www.youtube.com/embed/UqFzfqlb60g",
-    "category": "Shopping"
+    "name": "Turkish ATV",
+    "url": "https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=FiVZAA3k6NoZxZHgKDbKcA&e=1748560020",
+    "category": "Entertainment"
   },
   {
-    "name": "Fashion TV",
-    "url": "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8",
-    "category": "Shopping"
+    "name": "Turkey ATV",
+    "url": "https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=jqcoZNvbe-5kHGQ8Vf-Plg&e=1748560061",
+    "category": "Entertainment"
   },
   {
-    "name": "NBT Shopping",
-    "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist_w499820882_b3128000.m3u8",
-    "category": "Shopping"
+    "name": "Show Max TV",
+    "url": "https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1748522119&st=KMG0qguHSJUkT9tc1OccjA&tv=1",
+    "category": "Entertainment"
   },
   {
-    "name": "Calcio Sports",
-    "url": "https://www.youtube.com/embed/Nu2JGd0TJaM",
-    "category": "Sports"
+    "name": "Show TV",
+    "url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7g5lp4b1inut&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3",
+    "category": "Entertainment"
   },
   {
-    "name": "RTA Sports",
-    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/03.m3u8",
-    "category": "Sports"
+    "name": "Bahrain TV",
+    "url": "https://live-ak.vimeocdn.com/exp=1748518809~acl=%2Fa0e532a8-ccdf-4caa-9ceb-d2d1704f2d44%2F%2A~hmac=1b1d6a4d25f00af661aa469dcb6e13ec4ec23df01c78eb5829ea51e95c8032c7/a0e532a8-ccdf-4caa-9ceb-d2d1704f2d44/chunklist_b2056000.m3u8?max_segments=10",
+    "category": "Entertainment"
   },
   {
-    "name": "AZ Sports",
-    "url": "https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=9a5d1907410d64e2ab23906f14240309ca9e9c48-677da0058861c5ba6422071fa531d9ae-1748505475000000-1748494675000",
-    "category": "Sports"
+    "name": "Alyuam TV Bahrain",
+    "url": "https://iko-live.akamaized.net/AlyuamTV/master_3.m3u8",
+    "category": "Entertainment"
   },
   {
-    "name": "Live Sports",
-    "url": "https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Car Sports",
-    "url": "https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/2ozZxLF1NpLAD9BNlRMT_g/1748584743/media_mpegts_0.m3u8?channel_id=49983&source=othersites&device_id=0265579931-db3085f9238cebe112f617104ce04a60&lcp=2&client_id=167153070497367356&play_id=1748498343222725",
-    "category": "Sports"
-  },
-  {
-    "name": "VIZION Sports",
-    "url": "https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Red Bull Sports",
-    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "A Sports Turkey",
-    "url": "https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8?st=fZTsmp7ziU1gK31PBUMM5Q&e=1748558383",
-    "category": "Sports"
-  },
-  {
-    "name": "HT Sports Turkey",
-    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7g5j4a1keknr&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2",
-    "category": "Sports"
+    "name": "Bahrain TV Int",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1322732328_b2487000.m3u8",
+    "category": "Entertainment"
   },
   {
     "name": "Bahrain Sports",
@@ -825,8 +800,33 @@
     "category": "Sports"
   },
   {
-    "name": "Fox Weather",
-    "url": "https://www.youtube.com/embed/wt6SIE7BXS8",
-    "category": "Weather"
+    "name": "Quran TV",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1617987586_b2487000.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Egypt TV",
+    "url": "https://nogoumtv.nrpstream.com/hls/0/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ME TV",
+    "url": "https://content-aapm1.uplynk.com/channel/0b1f73a578fe48b78f2b788c76f2ed10/f.m3u8?pbs=5d9519c47c164ec5974b350ae5330a88",
+    "category": "Entertainment"
+  },
+  {
+    "name": "SAT7 Kids",
+    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "SAT7 PARS TV",
+    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks_dvr.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "SAT7 ARAB TV",
+    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_source/chunks_dvr.m3u8",
+    "category": "Entertainment"
   }
 ]
