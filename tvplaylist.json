@@ -15,11 +15,6 @@
     "category": "Kids"
   },
   {
-    "name": "Sky Toons",
-    "url": "https://stream.ads.ottera.tv/cl/250515d0irkln79mk4tgoeebtg/1280x720_2300000_0_f.m3u8?i=475_50",
-    "category": "Kids"
-  },
-  {
     "name": "NASA TV",
     "url": "https://www.youtube.com/embed/jKHvbJe9c_Y",
     "category": "Science & Nature"
@@ -178,16 +173,6 @@
     "name": "Korean News",
     "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
     "category": "News"
-  },
-  {
-    "name": "Sky Sports",
-    "url": "https://af7a8b4e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/cc93d7ae-885b-4f61-9b87-82ab54058fa8/3.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Dubai Sports",
-    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8",
-    "category": "Sports"
   },
   {
     "name": "Russian Music",
