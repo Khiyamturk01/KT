@@ -255,23 +255,8 @@
     "category": "Music"
   },
   {
-    "name": "Punjabi Music",
-    "url": "http://primeasia.selfip.net/Samsung/tracks-v1a1/mono.m3u8",
-    "category": "Music"
-  },
-  {
     "name": "Show Box Music",
     "url": "https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Zoom Music",
-    "url": "https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/de2095b5-f7cf-486a-b625-eb272f83861a:BRU/variant/b747bf7f16eca8387cf3b154486dd818/bandwidth/1628000.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "China Music",
-    "url": "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8",
     "category": "Music"
   },
   {
@@ -287,11 +272,6 @@
   {
     "name": "China News",
     "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Bloomberg News",
-    "url": "https://dai.google.com/linear/hls/pa/event/crO2xItzS0K0Mznc1p0yPA/stream/3edf83d2-2b76-4305-9767-1342281ddcb6:GRQ/variant/f60915e3beb2dce6e36601a92aed7885/bandwidth/1200000.m3u8",
     "category": "News"
   },
   {
@@ -345,28 +325,13 @@
     "category": "Shopping"
   },
   {
-    "name": "Thailand TV",
-    "url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "RTA Sports",
     "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/03.m3u8",
     "category": "Sports"
   },
   {
-    "name": "Maldives TV",
-    "url": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/37ef4cc40b684618c52ee37448b3cbac/manifest/stream_tfa875b63139361eadeecb57bc709c591_r1075882381.m3u8?llhlsHBs=0.9",
-    "category": "Entertainment"
-  },
-  {
     "name": "SS TV",
     "url": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "RAAJJE TV",
-    "url": "https://stream.raajje.mv/live/rtv_live/index.m3u8",
     "category": "Entertainment"
   },
   {
@@ -383,11 +348,6 @@
     "name": "GNN News",
     "url": "https://www.youtube.com/embed/2bk3gVrO8aQ",
     "category": "News"
-  },
-  {
-    "name": "ARY QTV",
-    "url": "https://aryqtv.aryzap.com/a80a6477dc0bca73baee0cc931df70d4/68392e55/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8?isSubM3u8=1",
-    "category": "Entertainment"
   },
   {
     "name": "Kazakhstan TV",
@@ -413,11 +373,6 @@
     "name": "Balapan Kids",
     "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8",
     "category": "Kids"
-  },
-  {
-    "name": "Uzbekistan TV",
-    "url": "http://serv1.milliy.tv/hls/index_480.m3u8",
-    "category": "Entertainment"
   },
   {
     "name": "Biz Kids",
