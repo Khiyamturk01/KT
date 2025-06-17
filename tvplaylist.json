@@ -1,7 +1,33 @@
 [
   {
-    "name": "AL Jazeera",
+    "name": "AL Jazeera YT",
     "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
+    "category": "News"
+  },
+
+  {
+    "name": "Al Jazeera English",
+    "url": "https://live-hls-web-aje-fa.thehlive.com/alternative/AJE/01.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Al Jazeera Arabic",
+    "url": "https://live-hls-web-aja-fa.thehlive.com/alternative/AJA/01.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Al Jazeera Muba",
+    "url": "https://live-hls-web-ajm-fa.thehlive.com/alternative/AJM/01.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Al Jazeera Docu",
+    "url": "https://live-hls-web-ajd-fa.thehlive.com/alternative/AJD/01.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Al Jazeera Uzivo",
+    "url": "https://live-hls-web-ajb-fa.thehlive.com/alternative/AJB/01.m3u8",
     "category": "News"
   },
   {
