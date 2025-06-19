@@ -939,6 +939,46 @@
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w2020190555_b1307000.m3u8",
     "category": "Sports"
   },
+ {
+    "name": "24H Movies",
+    "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Classic Movies",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "312 Movies",
+    "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "And TV",
+    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Action TV",
+    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-actionhd/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Nobel Movies",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Aflam",
+    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Aflam HD",
+    "url": "https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8",
+    "category": "Movies"
+  },  
   {
     "name": "Fox Weather",
     "url": "https://www.youtube.com/embed/wt6SIE7BXS8",
