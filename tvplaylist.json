@@ -694,7 +694,207 @@
     "url": "https://www.youtube.com/embed/Nu2JGd0TJaM",
     "category": "Sports"
   },
+   {
+    "name": "30A Golf Kingdom",
+    "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+    "category": "Sports"
+  },
   {
+    "name": "AbuDhabiSports1.ae",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "AbuDhabiSports2.ae",
+    "url": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
+    "category": "Sports"
+  },
+  {
+    "name": "ACCNetwork.us",
+    "url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "AlkassSHOOF.qa",
+    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "BahrainSports1",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "BEK Sports",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Dubai Racing",
+    "url": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Dubai Sports 1",
+    "url": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Dubai Sports 2",
+    "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Equidia Sports",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ESPN U",
+    "url": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ESPN News",
+    "url": "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "FIFA Plus",
+    "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "FITE",
+    "url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "FUEL TV",
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Game Plus",
+    "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Kick Boxing",
+    "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Horse TV",
+    "url": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "KCMN",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Kozoom",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "KSA Sports",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "KTV Sports",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MAV",
+    "url": "https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "MAV 2",
+    "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Oman Sports",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Poker TV",
+    "url": "https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Racing US",
+    "url": "https://livetv-fa.tubi.video/racing-america/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Real Madrid",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Right Now",
+    "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "RTA Sports",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Sharjah Sports",
+    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Sports Connect",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Sports Grid",
+    "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Star Sports",
+    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Star Sports T",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Strong Man",
+    "url": "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "category": "Sports"
+  }, 
+ {
+    "name": "Swerve Sports",
+    "url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+    "category": "Sports"
+  },
+ {
+    "name": "T Sports",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
+    "category": "Sports"
+  },
+ {
+    "name": "W Free Sports",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Sports"
+  },
+    {
     "name": "RTA Sports",
     "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/03.m3u8",
     "category": "Sports"
