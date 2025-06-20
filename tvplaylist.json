@@ -978,7 +978,272 @@
     "name": "Aflam HD",
     "url": "https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8",
     "category": "Movies"
-  },  
+  },
+   {
+    "name": "24H Movies",
+    "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Classic Movies",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "312 Movies",
+    "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "And TV",
+    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Action TV",
+    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-actionhd/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Nobel Movies",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Aflam",
+    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "AMC East",
+    "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "AMC Europe",
+    "url": "http://vegafibratv.com:8085/AMC/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "American Horrors",
+    "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Astro Box Office",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Aurora Media Films",
+    "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "AXN Asia",
+    "url": "http://125hvt.ddns.net:21585/axn/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Black Cinema",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9",
+    "category": "Movies"
+  },
+ {
+    "name": "Bollywood Classic",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Bollywood HD",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "BOLT",
+    "url": "http://95.142.88.250:80/Bolt/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Bom Cine",
+    "url": "http://185.189.225.150:85/BOM/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Bravo Farsi",
+    "url": "https://bravoohls.wns.live/hls/stream.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Cine 5",
+    "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Cine Premiere",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec",
+    "category": "Movies"
+  },
+ {
+    "name": "Cine Sony",
+    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Cine Terror",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f",
+    "category": "Movies"
+  },
+ {
+    "name": "Cine XOXO",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7",
+    "category": "Movies"
+  },
+ {
+    "name": "Cinema",
+    "url": "http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Cosmos TV",
+    "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Crave 2",
+    "url": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Crave 4",
+    "url": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Discover Film",
+    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Dunia Sinema",
+    "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "EBS Cinema",
+    "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Ekran Movies",
+    "url": "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Evrokino",
+    "url": "http://31.148.48.15/Evrokino/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Feniks Plus Kino",
+    "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "FXM East",
+    "url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "GEM Bollywood",
+    "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "GEM Drama",
+    "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "GEM Drama Plus",
+    "url": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "GEM Film",
+    "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "GEM ONYX",
+    "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "GEM Turk",
+    "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Groovy TV",
+    "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Hallmark Movies",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a",
+    "category": "Movies"
+  },
+ {
+    "name": "Hallmark Movies Mysteries",
+    "url": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "ICC Plus",
+    "url": "https://icchls.wns.live/hls/stream.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "iFilm 2",
+    "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "iFilm",
+    "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Illusion+",
+    "url": "http://31.148.48.15/Illusion_plus/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Jiangxi Movie",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Kineko",
+    "url": "http://194.143.148.28:8080/KINEKO/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Kino TV",
+    "url": "https://vod.tuva.ru/kinotv/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Kuriakos Cine",
+    "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Lifetime Movies East",
+    "url": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+    "category": "Movies"
+  },
   {
     "name": "Fox Weather",
     "url": "https://www.youtube.com/embed/wt6SIE7BXS8",
