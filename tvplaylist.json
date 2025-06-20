@@ -159,6 +159,76 @@
     "url": "https://www.youtube.com/embed/p3rUnBdYWpo",
     "category": "Kids"
   },
+    {
+    "name": "ABN Kids",
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Afarin TV",
+    "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Afarin Baxcha",
+    "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "ARB Gunes",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Baby Shark TV",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Baby First",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Bravo Kids TV",
+    "url": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "DisneyChannel Est",
+    "url": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Disney XD",
+    "url": "https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Duck Tv",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "EBS Kids Korea",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "GEM Junior",
+    "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Jiangxi Children's China",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Kartoon",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
+    "category": "Kids"
+  },
   {
     "name": "EBS Kids",
     "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8",
