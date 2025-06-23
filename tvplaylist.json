@@ -904,6 +904,211 @@
     "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_source/chunks_dvr.m3u8",
     "category": "Entertainment"
   },
+    {
+    "name": "AMC Absolute Reality",
+    "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Anjan TV",
+    "url": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Anteena TV",
+    "url": "https://fl3.moveonjoy.com/Antenna_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Aspire TV",
+    "url": "https://fl3.moveonjoy.com/Aspire/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BBC America",
+    "url": "https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BET HER",
+    "url": "https://fl3.moveonjoy.com/BET_HER/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Buzzr TV",
+    "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Decades",
+    "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Demand Africa",
+    "url": "https://demandafrica-xumo-us.amagi.tv/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "E24",
+    "url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "EL East",
+    "url": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Electric Now",
+    "url": "https://elec-en.otteravision.com/elec/en/elec_en.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Entertainment Tonight",
+    "url": "https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Feva TV",
+    "url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BARK TV",
+    "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "FORTUNE TV",
+    "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Game Show Network",
+    "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Geo TV HD",
+    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "G E TV",
+    "url": "https://fl3.moveonjoy.com/GET_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Global World TV",
+    "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Grit TV",
+    "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Holly Wire",
+    "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Impact TV",
+    "url": "http://51.75.94.167/impact/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ITV Life",
+    "url": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "KC 2",
+    "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Kings View TV",
+    "url": "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ION TV",
+    "url": "https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Life Time TV",
+    "url": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MBC 2 KSA",
+    "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MBC Persia",
+    "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MTV 2",
+    "url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Iran Namayesh TV",
+    "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Now TV Turk",
+    "url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Oxygen TV",
+    "url": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "People Are Awesome",
+    "url": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Turkiye",
+    "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "PET Club",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Popstar TV",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Right Now TV",
+    "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Wipeout Xtra",
+    "url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Xplore TV",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8",
+    "category": "Entertainment"
+  },
   {
     "name": "Calcio Sports",
     "url": "https://www.youtube.com/embed/Nu2JGd0TJaM",
