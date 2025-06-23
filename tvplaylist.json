@@ -469,6 +469,16 @@
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
     "category": "Kids"
   },
+    {
+    "name": "ME TV",
+    "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "ME TV 2",
+    "url": "https://fl3.moveonjoy.com/ME_TV/index.m3u8",
+    "category": "Kids"
+  },
   {
     "name": "K POP TV",
     "url": "https://www.youtube.com/embed/JVocS7Yftw8",
@@ -607,6 +617,21 @@
   {
     "name": "Dream Turk Music",
     "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=eF3bWd_kD41C_NWQxlDAdg&e=1748524418",
+    "category": "Music"
+  },
+   {
+    "name": "Ciudadesdel Ocio",
+    "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Indo TV",
+    "url": "https://stream.e2is.in/hls/indoztv.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Salto 1",
+    "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8",
     "category": "Music"
   },
   {
@@ -1822,6 +1847,41 @@
 {
     "name": "Sundance TV East",
     "url": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
+    "category": "Movies"
+  },
+   {
+    "name": "ION TV",
+    "url": "https://fl3.moveonjoy.com/ION_TV/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "ION Plus",
+    "url": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Grit",
+    "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Grit Xtra",
+    "url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Hi YAH",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Lone Star",
+    "url": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "XPTV2",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
     "category": "Movies"
   },
   {
