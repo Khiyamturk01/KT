@@ -1855,38 +1855,13 @@
     "category": "Cams"
   },
   {
-    "name": "Cam Earth TV",
-    "url": "https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4rci6b0CgOEgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.Ff8AN9vEWkHpltgvoHGCkopB2_xxDL5qyqY1fcLArX72XV5e2YkN6eZcvy_HWyA3zgCHlhh_zKfn2cnb7TEOIA&domain=www.earthtv.com",
-    "category": "Cams"
-  },
-  {
-    "name": "Trading",
-    "url": "https://www.youtube.com/embed/nSxZaePaqlU",
-    "category": "Finance"
-  },
-  {
     "name": "CNBC A",
     "url": "https://www.youtube.com/embed/1Kag7BP35PI",
     "category": "Finance"
   },
   {
-    "name": "NASA TV",
-    "url": "https://www.youtube.com/embed/jKHvbJe9c_Y",
-    "category": "Science & Nature"
-  },
-  {
-    "name": "Amazing Facts",
-    "url": "https://www.youtube.com/embed/WoqwB8Et_G4",
-    "category": "Science & Nature"
-  },
-  {
     "name": "Persiana Science",
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
-    "category": "Science & Nature"
-  },
-  {
-    "name": "ESA Space",
-    "url": "https://live-ak.vimeocdn.com/exp=1748510975~acl=%2Ff7aea654-a7cb-4d27-970b-fc1fcb88f408%2F%2A~hmac=1da188bb03d3d583bcd331c52fc47f8eb1da34fd78e29628527fefc3a17c0e14/f7aea654-a7cb-4d27-970b-fc1fcb88f408/chunklist_b6256000.m3u8?max_segments=10",
     "category": "Science & Nature"
   },
   {
