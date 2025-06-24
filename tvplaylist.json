@@ -19,68 +19,78 @@
     "url": "https://live-hls-web-ajm-fa.thehlive.com/alternative/AJM/01.m3u8",
     "category": "News"
   },
+   {
+    "name": "92 News PK",
+    "url": "https://streamer12.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8",
+    "category": "News"
+  },
+    {
+    "name": "GNN News YT",
+    "url": "https://www.youtube.com/embed/2bk3gVrO8aQ",
+    "category": "News"
+  },
   {
     "name": "Al Jazeera Docu",
     "url": "https://live-hls-web-ajd-fa.thehlive.com/alternative/AJD/01.m3u8",
     "category": "News"
   },
   {
-    "name": "Arirang TV",
+    "name": "Arirang TV YT",
     "url": "https://www.youtube.com/embed/CJVBX7KI5nU",
     "category": "News"
   },
   {
-    "name": "Turkish News",
+    "name": "Turkish News YT",
     "url": "https://www.youtube.com/embed/nmY9i63t6qo",
     "category": "News"
   },
   {
-    "name": "Africa News",
+    "name": "Africa News YT",
     "url": "https://www.youtube.com/embed/NQjabLGdP5g",
     "category": "News"
   },
   {
-    "name": "Malaysia News",
+    "name": "Malaysia News YT",
     "url": "https://www.youtube.com/embed/weCEi1NE0C8",
     "category": "News"
   },
   {
-    "name": "Singapore News",
+    "name": "Singapore News YT",
     "url": "https://www.youtube.com/embed/XWq5kBlakcQ",
     "category": "News"
   },
   {
-    "name": "France News",
+    "name": "France News YT",
     "url": "https://www.youtube.com/embed/Ap-UM1O9RBU",
     "category": "News"
   },
   {
-    "name": "GNT News",
+    "name": "GNT News YT",
     "url": "https://www.youtube.com/embed/MeX_7g4na3o",
     "category": "News"
   },
   {
-    "name": "Lahore News",
+    "name": "Lahore News YT",
     "url": "https://www.youtube.com/embed/Tr8VGrr3sms",
     "category": "News"
   },
   {
-    "name": "News 12 US",
+    "name": "News 12 US YT",
     "url": "https://www.youtube.com/embed/1GkcsMJTFiI",
     "category": "News"
   },
   {
-    "name": "Venezuela News",
+    "name": "Venezuela News YT",
     "url": "https://www.youtube.com/embed/qP2Gnp8I9sY",
     "category": "News"
   },
   {
-    "name": "UN News",
+    "name": "UN News YT",
     "url": "https://www.youtube.com/embed/wfAa1GiNdgM",
     "category": "News"
   },
   {
-    "name": "US News",
+    "name": "US News YT",
     "url": "https://www.youtube.com/embed/Yv7wY1K3aBQ",
     "category": "News"
   },
@@ -95,7 +105,7 @@
     "category": "News"
   },
   {
-    "name": "Korean News",
+    "name": "Korean News YT",
     "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
     "category": "News"
   },
@@ -125,11 +135,6 @@
     "category": "News"
   },
   {
-    "name": "GNN News",
-    "url": "https://www.youtube.com/embed/2bk3gVrO8aQ",
-    "category": "News"
-  },
-  {
     "name": "ABC News",
     "url": "https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8",
     "category": "News"
@@ -145,17 +150,17 @@
     "category": "News"
   },
   {
-    "name": "Disney Junior",
+    "name": "Disney Junior YT",
     "url": "https://www.youtube.com/embed/TJNjTOGwXCg",
     "category": "Kids"
   },
   {
-    "name": "PAW Patrol",
+    "name": "PAW Patrol YT",
     "url": "https://www.youtube.com/embed/Ui_6vrFvqRI",
     "category": "Kids"
   },
   {
-    "name": "Pokemon Kids",
+    "name": "Pokemon Kids YT",
     "url": "https://www.youtube.com/embed/p3rUnBdYWpo",
     "category": "Kids"
   },
@@ -225,7 +230,7 @@
     "category": "Kids"
   },
   {
-    "name": "YOYO Kids",
+    "name": "YOYO Kids YT",
     "url": "https://www.youtube.com/embed/31cBsZ9DdRQ?si=dsiA7deCw_FMrl4i",
     "category": "Kids"
   },
