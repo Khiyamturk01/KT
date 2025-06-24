@@ -250,61 +250,6 @@
     "category": "Kids"
   },
   {
-    "name": "TG Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0oca3r5d9mob96udg/1280x720_3071200_0_f.m3u8?i=475_33",
-    "category": "Kids"
-  },
-  {
-    "name": "TG Junior Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250617d18fbtim8sejo2e0m9cg/1280x720_2300000_0_f.m3u8?i=475_31",
-    "category": "Kids"
-  },
-  {
-    "name": "Aero Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0pbkigplcsvcd4fj0/1280x720_2300000_0_f.m3u8?i=475_13775",
-    "category": "Kids"
-  },
-  {
-    "name": "SP Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0pq3ktvrg4usdfc60/1280x720_2300000_0_f.m3u8?i=475_35",
-    "category": "Kids"
-  },
-  {
-    "name": "TG EN Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0r265r6oqdmvl5p9g/1280x720_3071200_0_f.m3u8?i=475_514",
-    "category": "Kids"
-  },
-  {
-    "name": "Smurf Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250617d18feo17kkq72l05iqe0/1280x720_3071200_0_f.m3u8?i=475_11855",
-    "category": "Kids"
-  },
-  {
-    "name": "Camp Spoof Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0rlmgh364s9pcc1t0/1280x720_2300000_0_f.m3u8?i=475_264",
-    "category": "Kids"
-  },
-  {
-    "name": "Wordl Records Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0sa4igplcsvcd53og/1280x720_2300000_0_f.m3u8?i=475_567",
-    "category": "Kids"
-  },
-  {
-    "name": "Eddies Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0spe14v6d1oa9sbk0/1280x720_2300000_0_f.m3u8?i=475_294",
-    "category": "Kids"
-  },
-  {
-    "name": "TG Movies Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0t7e1i96jspjufqsg/1280x720_2300000_0_f.m3u8?i=475_286",
-    "category": "Kids"
-  },
-  {
-    "name": "Zoo Mo Kids",
-    "url": "https://stream.ads.ottera.tv/cl/250529d0s0tnh9qljipng0uhm0/1280x720_2300000_0_f.m3u8?i=475_40",
-    "category": "Kids"
-  },
-  {
     "name": "Persiana Kids 1",
     "url": "https://junhls.persiana.live/hls/stream.m3u8",
     "category": "Kids"
@@ -520,11 +465,6 @@
     "category": "Music"
   },
   {
-    "name": "Heartland Music",
-    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1748501846~acl=%2F5a306695-c170-4a65-853c-162905531b31%2F%2A~hmac=8e518735d538fb6ea0f8d97b8eb029ed03afb5662002faef070f39c3075453bd/5a306695-c170-4a65-853c-162905531b31/v2/playlist/av/5a306695/avf/0fee988e/media.m3u8?pathsig=8c953e4f~uDsFTbzK9ssMsVgqYW6-ST0S2GmZjB8zMKwOVWadFFk&qsr=1&r=dXMtZWFzdDE%3D&sf=ts&st=video",
-    "category": "Music"
-  },
-  {
     "name": "Classic Arts Music",
     "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8",
     "category": "Music"
@@ -587,16 +527,6 @@
   {
     "name": "Ukrain Music",
     "url": "https://live.m2.tv/hls3/720/stream.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Power Turk Music",
-    "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8?nimblesessionid=57497368",
-    "category": "Music"
-  },
-  {
-    "name": "Power Music",
-    "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=57498054",
     "category": "Music"
   },
   {
