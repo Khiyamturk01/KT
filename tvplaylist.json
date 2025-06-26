@@ -345,6 +345,21 @@
     "category": "Kids"
   },
   {
+    "name": "MoonBug Kids",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "POP Kids",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "YAAAS!",
+    "url": "https://jmp2.uk/sam-GB340000289.m3u8",
+    "category": "Kids"
+  },
+  {
     "name": "Afarin TV",
     "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
     "category": "Kids"
@@ -1659,6 +1674,31 @@
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w2020190555_b1307000.m3u8",
     "category": "Sports"
   },
+    {
+    "name": "Hard Knocks Fighting",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Talk Sports",
+    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TOP Barca",
+    "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Billiards TV",
+    "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "WOF Sports",
+    "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8",
+    "category": "Sports"
+  },
  {
     "name": "24H Movies",
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
@@ -2232,6 +2272,31 @@
   {
     "name": "QVC Shopping",
     "url": "https://www.youtube.com/embed/UqFzfqlb60g",
+    "category": "Shopping"
+  },
+    {
+    "name": "GEMS TV",
+    "url": "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8",
+    "category": "Shopping"
+  },
+  {
+    "name": "Hobby Maker",
+    "url": "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8",
+    "category": "Shopping"
+  },
+  {
+    "name": "QVC UK",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8",
+    "category": "Shopping"
+  },
+  {
+    "name": "QVC UK Beauty",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8",
+    "category": "Shopping"
+  },
+  {
+    "name": "QVC UK Style",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8",
     "category": "Shopping"
   },
   {
