@@ -554,6 +554,26 @@
     "url": "https://s1.cystream.net/live/smile/playlist.m3u8",
     "category": "Kids"
   },
+    {
+    "name": "Mr. Bean Kids",
+    "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Hi-5",
+    "url": "https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Kiddo+",
+    "url": "https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Kids Pang TV",
+    "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
+    "category": "Kids"
+  },
   {
     "name": "Spacetoon Arabic",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
