@@ -2294,6 +2294,11 @@
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
     "category": "Science & Nature"
   },
+    {
+    "name": "Wonder",
+    "url": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+    "category": "Science & Nature"
+  },
   {
     "name": "QVC Shopping",
     "url": "https://www.youtube.com/embed/UqFzfqlb60g",
