@@ -680,6 +680,11 @@
     "category": "Religion"
   },
   {
+    "name": "Iman TV",
+    "url": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
     "name": "K POP TV",
     "url": "https://www.youtube.com/embed/JVocS7Yftw8",
     "category": "Music"
@@ -1714,6 +1719,16 @@
     "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8",
     "category": "Sports"
   },
+  {
+    "name": "Tennis+",
+    "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Fox Sports 1",
+    "url": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
+    "category": "Sports"
+  },
  {
     "name": "24H Movies",
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
@@ -2242,6 +2257,16 @@
  {
     "name": "XPTV2",
     "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
+    "category": "Movies"
+  },
+   {
+    "name": "Mr. Bean Classic",
+    "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "21 Jump Street Movies",
+    "url": "https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8",
     "category": "Movies"
   },
   {
