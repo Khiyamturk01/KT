@@ -789,8 +789,43 @@
     "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8",
     "category": "Music"
   },
+    {
+    "name": "Afro Beats",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "category": "Music"
+  },
   {
-    "name": "K2 TV",
+    "name": "Now 70's",
+    "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Now 80's",
+    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "NOW Rock",
+    "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Trace Hits",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Trace Hits",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "V2 Beat",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "K2 TV PK",
     "url": "https://cdn5.mjunoon.tv:8087/web/KAY2-127/live/127M/chunks.m3u8",
     "category": "Entertainment"
   },
