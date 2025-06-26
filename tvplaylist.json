@@ -590,6 +590,66 @@
     "category": "Kids"
   },
   {
+    "name": "Peace TV Urdu",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Eman TV",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Islam TV Urdu",
+    "url": "https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Madani Channel ENG",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Madani Channel ENG",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Ahlulbayt TV",
+    "url": "https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Deen TV",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "iON TV",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Iqra TV",
+    "url": "https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Islam TV",
+    "url": "https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Safeer TV",
+    "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "Takbeer TV",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8",
+    "category": "Religion"
+  },
+  {
     "name": "K POP TV",
     "url": "https://www.youtube.com/embed/JVocS7Yftw8",
     "category": "Music"
