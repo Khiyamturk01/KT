@@ -355,11 +355,6 @@
     "category": "Kids"
   },
   {
-    "name": "YAAAS!",
-    "url": "https://jmp2.uk/sam-GB340000289.m3u8",
-    "category": "Kids"
-  },
-  {
     "name": "Afarin TV",
     "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
     "category": "Kids"
@@ -875,8 +870,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Punjabi TV",
-    "url": "https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/0adb5bed-fe68-453a-bc9a-678045dfe670/0.m3u8",
+    "name": "YAAAS!",
+    "url": "https://jmp2.uk/sam-GB340000289.m3u8",
     "category": "Entertainment"
   },
   {
