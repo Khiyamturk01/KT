@@ -219,6 +219,36 @@
     "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
     "category": "News"
   },
+   {
+    "name": "Bloomberg Asia",
+    "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Bloomberg Europe",
+    "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Bloomberg Europe",
+    "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Geo News",
+    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "BBC One",
+    "url": "https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "EWTN",
+    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+    "category": "News"
+  },
   {
     "name": "BBC Arabic",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
