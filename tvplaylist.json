@@ -735,6 +735,11 @@
     "category": "Entertainment"
   },
     {
+    "name": "Geo TV HD",
+    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "category": "Entertainment"
+  },
+    {
     "name": "E24",
     "url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
     "category": "Entertainment"
@@ -985,23 +990,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Geo TV HD",
-    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "G E TV",
-    "url": "https://fl3.moveonjoy.com/GET_TV/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Global World TV",
     "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Grit TV",
-    "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1010,18 +1000,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Impact TV",
-    "url": "http://51.75.94.167/impact/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "ITV Life",
     "url": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "KC 2",
-    "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1037,11 +1017,6 @@
   {
     "name": "Life Time TV",
     "url": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "MBC 2 KSA",
-    "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1577,6 +1552,11 @@
  {
     "name": "And TV",
     "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+    {
+    "name": "Grit TV",
+    "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
     "category": "Movies"
   },
  {
