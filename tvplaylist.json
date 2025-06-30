@@ -744,6 +744,21 @@
     "url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
     "category": "Entertainment"
   },
+   {
+    "name": "Fail Army",
+    "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
+    "category": "Entertainment"
+  },
+ {
+    "name": "Just for Laughs",
+    "url": "https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "category": "Entertainment"
+  },
+    {
+    "name": "People Are Awesome",
+    "url": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
+    "category": "Entertainment"
+  },
   {
     "name": "YAAAS!",
     "url": "https://jmp2.uk/sam-GB340000289.m3u8",
@@ -980,11 +995,6 @@
     "category": "Entertainment"
   },
   {
-    "name": "BARK TV",
-    "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Game Show Network",
     "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
     "category": "Entertainment"
@@ -1035,28 +1045,13 @@
     "category": "Entertainment"
   },
   {
-    "name": "Now TV Turk",
-    "url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Oxygen TV",
     "url": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8",
     "category": "Entertainment"
   },
   {
-    "name": "People Are Awesome",
-    "url": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Persiana Turkiye",
     "url": "https://turkhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "PET Club",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1074,11 +1069,6 @@
     "url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
     "category": "Entertainment"
   },
-   {
-    "name": "And TV",
-    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
  {
     "name": "Sindh TV",
     "url": "https://stream717.duckdns.org/hls/stream1.m3u8",
@@ -1087,21 +1077,6 @@
  {
     "name": "Discover Film",
     "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Fail Army",
-    "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Just for Laughs",
-    "url": "https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Magna TV Tamil",
-    "url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
     "category": "Entertainment"
   },
  {
@@ -1117,11 +1092,6 @@
  {
     "name": "Homes Under Hammer",
     "url": "https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Horse and Country",
-    "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
     "category": "Entertainment"
   },
  {
@@ -1147,16 +1117,6 @@
  {
     "name": "Shots! UK",
     "url": "https://live-nationalworld-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/shotstv-live/index.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Taste Made",
-    "url": "https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "The Pet Collective",
-    "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
     "category": "Entertainment"
   },
  {
@@ -1467,7 +1427,7 @@
   {
     "name": "Biz Cinema",
     "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
-    "category": "Entertainment"
+    "category": "Movies"
   },
   {
     "name": "Persiana Cinema",
@@ -2182,6 +2142,21 @@
   {
     "name": "5-Minute Craft",
     "url": "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Science & Nature"
+  },
+    {
+    "name": "PET Club",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "category": "Science & Nature"
+  },
+    {
+    "name": "BARK TV",
+    "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8",
+    "category": "Science & Nature"
+  },
+   {
+    "name": "The Pet Collective",
+    "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
     "category": "Science & Nature"
   },
   {
