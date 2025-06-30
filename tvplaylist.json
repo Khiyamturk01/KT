@@ -1270,23 +1270,8 @@
     "category": "Sports"
   },
   {
-    "name": "Sports Connect",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
-    "category": "Sports"
-  },
-  {
     "name": "Sports Grid",
     "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Star Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Star Sports T",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8",
     "category": "Sports"
   },
   {
@@ -1309,44 +1294,14 @@
     "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
     "category": "Sports"
   },
-    {
-    "name": "RTA Sports",
-    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/03.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "AZ Sports",
-    "url": "https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=9a5d1907410d64e2ab23906f14240309ca9e9c48-677da0058861c5ba6422071fa531d9ae-1748505475000000-1748494675000",
-    "category": "Sports"
-  },
   {
     "name": "Live Sports",
     "url": "https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8",
     "category": "Sports"
   },
   {
-    "name": "Car Sports",
-    "url": "https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/2ozZxLF1NpLAD9BNlRMT_g/1748584743/media_mpegts_0.m3u8?channel_id=49983&source=othersites&device_id=0265579931-db3085f9238cebe112f617104ce04a60&lcp=2&client_id=167153070497367356&play_id=1748498343222725",
-    "category": "Sports"
-  },
-  {
-    "name": "VIZION Sports",
-    "url": "https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8",
-    "category": "Sports"
-  },
-  {
     "name": "Red Bull Sports",
     "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "A Sports Turkey",
-    "url": "https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8?st=fZTsmp7ziU1gK31PBUMM5Q&e=1748558383",
-    "category": "Sports"
-  },
-  {
-    "name": "HT Sports Turkey",
-    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7g5j4a1keknr&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2",
     "category": "Sports"
   },
   {
