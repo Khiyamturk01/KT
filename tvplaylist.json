@@ -789,8 +789,7 @@
     "url": "https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8",
     "category": "Entertainment"
   },
-  
-  {
+    {
     "name": "Abai TV",
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8",
     "category": "Entertainment"
@@ -806,31 +805,6 @@
     "category": "Entertainment"
   },
   {
-    "name": "ET TV",
-    "url": "https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/de1ecfae-5194-4ea8-9054-8e6540bc0002:BRU/variant/f8776b964b37880bde2f4cec8b7ea35b/bandwidth/5860800.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "YTA Movies",
-    "url": "https://thegateway.app/YouToocdn/YTamerica/chunks.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Retro TV",
-    "url": "https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/N6RyiNm-V30xrP2EG8UV1Q/1748584462/media_mpegts_0.m3u8?channel_id=50177&source=othersites&device_id=0265579931-db3085f9238cebe112f617104ce04a60&lcp=2&client_id=472254876738135731&play_id=1748498062658192",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Action TV",
-    "url": "https://video.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/9b9b2be8-5806-4243-878d-4a6ea62ba2ca/segments/mpegts-h264-1920:1080.m3u8?Expires=1748541370&Signature=ZjYyMzYwODgwODFiMWJlNzFiODYwMTkyODU4YzkxMjRmNTM5YzZhZDk3MjY2NWYzMTM5ZWRjNzMzZWY2YTc0OA",
-    "category": "Entertainment"
-  },
-  {
-    "name": "The Family TV",
-    "url": "https://video.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/d03e692d-44fb-49ce-b079-0044241bdf26/segments/mpegts-h264-1920:1080.m3u8?Expires=1748541594&Signature=ODNlOTk1MDI2MDdkNjQyMmNkYmMxZWNlNGNkN2MwYTI0MDQ0ZmI2MmY1MmQzZmZkMzY1Y2Q3YWFkM2UxM2U5OQ",
-    "category": "Entertainment"
-  },
-  {
     "name": "ICI TV",
     "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8",
     "category": "Entertainment"
@@ -838,11 +812,6 @@
   {
     "name": "Persiana TV",
     "url": "https://familyhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Persiana Cinema",
-    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
     "category": "Entertainment"
   },
   {
@@ -866,7 +835,7 @@
     "category": "Entertainment"
   },
   {
-    "name": "Persiana Movies Plus",
+    "name": "Persiana Plus",
     "url": "https://euhls.persiana.live/hls/stream.m3u8",
     "category": "Entertainment"
   },
@@ -911,38 +880,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Portugal TV",
-    "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/manifest.mpd?t=1748512718324",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Cine 5 Movies",
+    "name": "Cine 5 ",
     "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w1722781287.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Euro Star TV",
-    "url": "https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=qpHFx3xPDCHj8wawJ0UYtQ&e=1748600953",
-    "category": "Entertainment"
-  },
-  {
-    "name": "TEVE TV",
-    "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7g5l8t6dq5jh&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Turkish ATV",
-    "url": "https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=FiVZAA3k6NoZxZHgKDbKcA&e=1748560020",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Turkey ATV",
-    "url": "https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=jqcoZNvbe-5kHGQ8Vf-Plg&e=1748560061",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Show Max TV",
-    "url": "https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1748522119&st=KMG0qguHSJUkT9tc1OccjA&tv=1",
     "category": "Entertainment"
   },
   {
@@ -1584,6 +1523,11 @@
     "name": "Biz Cinema",
     "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
     "category": "Entertainment"
+  },
+  {
+    "name": "Persiana Cinema",
+    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+    "category": "Movies"
   },
  {
     "name": "312 Movies",
