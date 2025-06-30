@@ -495,6 +495,11 @@
     "category": "Kids"
   },
   {
+    "name": "Quran TV",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1617987586_b2487000.m3u8",
+    "category": "Entertainment"
+  },
+  {
     "name": "Peace TV Urdu",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
     "category": "Religion"
@@ -890,11 +895,6 @@
     "category": "Entertainment"
   },
   {
-    "name": "Bahrain TV",
-    "url": "https://live-ak.vimeocdn.com/exp=1748518809~acl=%2Fa0e532a8-ccdf-4caa-9ceb-d2d1704f2d44%2F%2A~hmac=1b1d6a4d25f00af661aa469dcb6e13ec4ec23df01c78eb5829ea51e95c8032c7/a0e532a8-ccdf-4caa-9ceb-d2d1704f2d44/chunklist_b2056000.m3u8?max_segments=10",
-    "category": "Entertainment"
-  },
-  {
     "name": "Alyuam TV Bahrain",
     "url": "https://iko-live.akamaized.net/AlyuamTV/master_3.m3u8",
     "category": "Entertainment"
@@ -902,11 +902,6 @@
   {
     "name": "Bahrain TV Int",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1322732328_b2487000.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Quran TV",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1617987586_b2487000.m3u8",
     "category": "Entertainment"
   },
   {
