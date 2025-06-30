@@ -330,11 +330,6 @@
     "category": "Kids"
   },
   {
-    "name": "ARB Gunes",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
-    "category": "Kids"
-  },
-  {
     "name": "Baby Shark TV",
     "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
     "category": "Kids"
@@ -342,11 +337,6 @@
   {
     "name": "Baby First",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Bravo Kids TV",
-    "url": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8",
     "category": "Kids"
   },
   {
@@ -370,18 +360,13 @@
     "category": "Kids"
   },
   {
-    "name": "Jiangxi Children's China",
-    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8",
-    "category": "Kids"
-  },
-  {
     "name": "Kartoon",
     "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
     "category": "Kids"
   },
   {
     "name": "YOYO Kids YT",
-    "url": "https://www.youtube.com/embed/31cBsZ9DdRQ?si=dsiA7deCw_FMrl4i",
+    "url": "https://www.youtube.com/embed/DffF5CzHF0I?si=5vF_UbdsPuJyHbCn",
     "category": "Kids"
   },
   {
@@ -392,11 +377,6 @@
   {
     "name": "Balapan Kids",
     "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Biz Kids",
-    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8",
     "category": "Kids"
   },
   {
@@ -882,6 +862,11 @@
   {
     "name": "Indonesia TV",
     "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "category": "Entertainment"
+  },
+    {
+    "name": "Biz TV",
+    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8",
     "category": "Entertainment"
   },
   {
