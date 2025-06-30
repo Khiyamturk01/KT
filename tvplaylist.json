@@ -505,17 +505,12 @@
     "category": "Religion"
   },
   {
-    "name": "Islam TV Urdu",
-    "url": "https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8",
-    "category": "Religion"
-  },
-  {
     "name": "Madani Channel ENG",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
     "category": "Religion"
   },
   {
-    "name": "Madani Channel ENG",
+    "name": "Madani Channel URD",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
     "category": "Religion"
   },
@@ -537,11 +532,6 @@
   {
     "name": "Iqra TV",
     "url": "https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8",
-    "category": "Religion"
-  },
-  {
-    "name": "Islam TV",
-    "url": "https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8",
     "category": "Religion"
   },
   {
