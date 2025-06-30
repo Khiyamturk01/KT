@@ -1140,27 +1140,12 @@
     "category": "Sports"
   },
   {
-    "name": "AbuDhabiSports1.ae",
-    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "AbuDhabiSports2.ae",
-    "url": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
-    "category": "Sports"
-  },
-  {
-    "name": "ACCNetwork.us",
+    "name": "ACC Network",
     "url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
     "category": "Sports"
   },
   {
-    "name": "AlkassSHOOF.qa",
-    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "BahrainSports1",
+    "name": "Bahrain Sports 1",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
     "category": "Sports"
   },
@@ -1185,11 +1170,6 @@
     "category": "Sports"
   },
   {
-    "name": "Equidia Sports",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
-    "category": "Sports"
-  },
-  {
     "name": "ESPN U",
     "url": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8",
     "category": "Sports"
@@ -1207,11 +1187,6 @@
   {
     "name": "FITE",
     "url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "FUEL TV",
-    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
     "category": "Sports"
   },
   {
