@@ -95,11 +95,6 @@
     "category": "News"
   },
   {
-    "name": "Iran News",
-    "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8",
-    "category": "News"
-  },
-  {
     "name": "Japan News 2",
     "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
     "category": "News"
@@ -132,11 +127,6 @@
   {
     "name": "China News",
     "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "ABC News",
-    "url": "https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8",
     "category": "News"
   },
   {
@@ -187,11 +177,6 @@
   {
     "name": "Al Hadath",
     "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Al Araby",
-    "url": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
     "category": "News"
   },
   {
@@ -879,6 +864,11 @@
     "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
     "category": "Entertainment"
   },
+    {
+    "name": "Al Araby TV",
+    "url": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
+    "category": "Entertainment"
+  },
   {
     "name": "HUM TV",
     "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8",
@@ -897,6 +887,11 @@
   {
     "name": "YAAAS!",
     "url": "https://jmp2.uk/sam-GB340000289.m3u8",
+    "category": "Entertainment"
+  },
+    {
+    "name": "Iran News",
+    "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8",
     "category": "Entertainment"
   },
   {
