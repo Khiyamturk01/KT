@@ -497,7 +497,7 @@
   {
     "name": "Quran TV",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1617987586_b2487000.m3u8",
-    "category": "Entertainment"
+    "category": "Religion"
   },
   {
     "name": "Peace TV Urdu",
@@ -734,6 +734,11 @@
     "url": "https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream1/chunks.m3u8",
     "category": "Entertainment"
   },
+    {
+    "name": "E24",
+    "url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
+    "category": "Entertainment"
+  },
   {
     "name": "YAAAS!",
     "url": "https://jmp2.uk/sam-GB340000289.m3u8",
@@ -910,11 +915,6 @@
     "category": "Entertainment"
   },
   {
-    "name": "ME TV",
-    "url": "https://content-aapm1.uplynk.com/channel/0b1f73a578fe48b78f2b788c76f2ed10/f.m3u8?pbs=5d9519c47c164ec5974b350ae5330a88",
-    "category": "Entertainment"
-  },
-  {
     "name": "SAT7 PARS TV",
     "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks_dvr.m3u8",
     "category": "Entertainment"
@@ -927,16 +927,6 @@
     {
     "name": "AMC Absolute Reality",
     "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Anjan TV",
-    "url": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Anteena TV",
-    "url": "https://fl3.moveonjoy.com/Antenna_TV/index.m3u8",
     "category": "Entertainment"
   },
   {
@@ -960,18 +950,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Decades",
-    "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Demand Africa",
     "url": "https://demandafrica-xumo-us.amagi.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "E24",
-    "url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
     "category": "Entertainment"
   },
   {
@@ -997,11 +977,6 @@
   {
     "name": "BARK TV",
     "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "FORTUNE TV",
-    "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
     "category": "Entertainment"
   },
   {
@@ -2007,6 +1982,11 @@
 {
     "name": "Rotana Cinema KSA",
     "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
+    "category": "Movies"
+  },
+    {
+    "name": "Anteena TV",
+    "url": "https://fl3.moveonjoy.com/Antenna_TV/index.m3u8",
     "category": "Movies"
   },
 {
