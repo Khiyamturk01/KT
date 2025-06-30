@@ -700,12 +700,12 @@
     "category": "Entertainment"
   },
   {
-    "name": "Turkish Movies 360",
+    "name": "Turkish 360",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
     "category": "Entertainment"
   },
   {
-    "name": "TRT Movies Turkish",
+    "name": "TRT TV Turkish",
     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
     "category": "Entertainment"
   },
@@ -717,11 +717,6 @@
     {
     "name": "Al Araby TV",
     "url": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "HUM TV",
-    "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8",
     "category": "Entertainment"
   },
   {
@@ -740,7 +735,7 @@
     "category": "Entertainment"
   },
     {
-    "name": "Iran News",
+    "name": "Iran Tv",
     "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8",
     "category": "Entertainment"
   },
@@ -757,11 +752,6 @@
     {
     "name": "Biz TV",
     "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Malaysia TV",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6",
     "category": "Entertainment"
   },
   {
@@ -803,11 +793,6 @@
   {
     "name": "Abai TV",
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Biz Cinema",
-    "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
     "category": "Entertainment"
   },
     {
@@ -1594,6 +1579,11 @@
     "name": "Classic Movies",
     "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
     "category": "Movies"
+  },
+  {
+    "name": "Biz Cinema",
+    "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
+    "category": "Entertainment"
   },
  {
     "name": "312 Movies",
