@@ -450,17 +450,7 @@
     "category": "Kids"
   },
   {
-    "name": "Ryan & Friends",
-    "url": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "SAT 7 Kidz",
-    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Smile TV",
+    "name": "Smile TV Kids",
     "url": "https://s1.cystream.net/live/smile/playlist.m3u8",
     "category": "Kids"
   },
@@ -477,21 +467,6 @@
   {
     "name": "Kiddo+",
     "url": "https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Kids Pang TV",
-    "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Spacetoon Arabic",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "SS Songs",
-    "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
     "category": "Kids"
   },
   {
@@ -517,16 +492,6 @@
   {
     "name": "ZB Cartoon",
     "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Zoo Moo",
-    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
-    "category": "Kids"
-  },
-    {
-    "name": "ME TV 1",
-    "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8",
     "category": "Kids"
   },
   {
@@ -1753,6 +1718,11 @@
  {
     "name": "Action TV",
     "url": "https://live20.bozztv.com/dvrfl06/astv/astv-actionhd/index.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "ME TV 1",
+    "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8",
     "category": "Movies"
   },
  {
