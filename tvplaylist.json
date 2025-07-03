@@ -340,7 +340,7 @@
     "category": "Kids"
   },
   {
-    "name": "DisneyChannel Est",
+    "name": "Disney Channel Est",
     "url": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
     "category": "Kids"
   },
@@ -362,6 +362,11 @@
   {
     "name": "Kartoon",
     "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
+    "name": "Space Toon AE",
+    "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1804416525_b1296000_slAR.m3u8",
     "category": "Kids"
   },
   {
@@ -1979,7 +1984,27 @@
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
     "category": "Science & Nature"
   },
-{
+  {
+    "name": "National Geographic  YT",
+    "url": "https://www.youtube.com/embed/jL7ux2dkZLg?si=nEpAZJeda9mkUIkv",
+    "category": "Science & Nature"
+  },
+    {
+    "name": "Animals YT",
+    "url": "https://www.youtube.com/embed/daqB3i9WYIY?si=hZB4SaI5f0BQ9Chi",
+    "category": "Science & Nature"
+  },
+    {
+    "name": "TLC Turk",
+    "url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+    "category": "Science & Nature"
+  },
+  {
+    "name": "EBS Korea",
+    "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8",
+    "category": "Science & Nature"
+  },
+  {
     "name": "Wonder",
     "url": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
     "category": "Science & Nature"
@@ -2089,6 +2114,11 @@
     "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
     "category": "Science & Nature"
   },
+  {
+    "name": "Beach TV",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w231337332.m3u8",
+    "category": "Science & Nature"
+  }, 
   {
     "name": "QVC Shopping",
     "url": "https://www.youtube.com/embed/UqFzfqlb60g",
