@@ -425,6 +425,11 @@
     "category": "Kids"
   },
   {
+    "name": "Nick Pluto",
+    "url": "https://jmp2.uk/sam-USBA3000158L.m3u8",
+    "category": "Kids"
+  },
+  {
     "name": "Ninja Kidz TV",
     "url": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8",
     "category": "Kids"
@@ -1349,6 +1354,16 @@
     "url": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
     "category": "Sports"
   },
+  {
+    "name": "T Sports",
+    "url": "https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Action Movies",
+    "url": "https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+    "category": "Movies"
+  },
  {
     "name": "24H Movies",
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
@@ -1912,6 +1927,16 @@
   {
     "name": "21 Jump Street Movies",
     "url": "https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Action Movies 2",
+    "url": "https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Hollywood Old",
+    "url": "https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8",
     "category": "Movies"
   },
   {
