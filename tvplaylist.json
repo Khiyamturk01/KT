@@ -290,11 +290,6 @@
     "category": "News"
   },
   {
-    "name": "Disney Junior YT",
-    "url": "https://www.youtube.com/embed/TJNjTOGwXCg",
-    "category": "Kids"
-  },
-  {
     "name": "PAW Patrol YT",
     "url": "https://www.youtube.com/embed/Ui_6vrFvqRI",
     "category": "Kids"
@@ -304,7 +299,12 @@
     "url": "https://www.youtube.com/embed/p3rUnBdYWpo",
     "category": "Kids"
   },
-    {
+  {
+    "name": "CN-PAK",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+    "category": "Kids"
+  },
+  {
     "name": "ABN Kids",
     "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
     "category": "Kids"
