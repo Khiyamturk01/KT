@@ -120,6 +120,11 @@
     "category": "News"
   },
   {
+    "name": "Aik News Pak",
+    "url": "https://video.primexsports.com/pnn/live/playlist.m3u8",
+    "category": "News"
+  },
+  {
     "name": "Such News",
     "url": "https://video.primexsports.com/suchnews/live/chunklist_w503462030.m3u8",
     "category": "News"
@@ -612,6 +617,16 @@
   {
     "name": "Trace Hits",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Mastii Music",
+    "url": "https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "9X Music",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
     "category": "Music"
   },
   {
@@ -1135,6 +1150,51 @@
     "category": "Entertainment"
   },
   {
+    "name": "& TV",
+    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Zee Cafe",
+    "url": "https://hughag.store/hiji/vstream.m3u8?id=c65460ba0d73&e=.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Zee Anmol",
+    "url": "https://hughag.store/hiji/vstream.m3u8?id=dc488b1502f5&e=.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Zing",
+    "url": "https://hughag.store/hiji/vstream.m3u8?id=4effcf0f2452&e=.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MNTV Music",
+    "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "DD Punjabi",
+    "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "DD Malayalam",
+    "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Dangal",
+    "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "SRK TV Bangla",
+    "url": "https://stream-hls.castr.net/682844396f7cd6438223a9b9/live_c2cd8d8032f611f0a3ed4d6387c20d28/index.m3u8",
+    "category": "Entertainment"
+  },
+  {
     "name": "Xplore TV",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8",
     "category": "Entertainment"
@@ -1364,7 +1424,22 @@
     "url": "https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
     "category": "Movies"
   },
- {
+  {
+    "name": "Zee Action",
+    "url": "https://hughag.store/hiji/vstream.m3u8?id=72a0803cf563&e=.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Zee Bollywood",
+    "url": "https://hughag.store/hiji/vstream.m3u8?id=2ea95a9da2d7&e=.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "Movie Bangla",
+    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "category": "Movies"
+  },
+  {
     "name": "24H Movies",
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
     "category": "Movies"
