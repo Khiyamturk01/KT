@@ -2265,6 +2265,46 @@
     "category": "Disney"
   },
   {
+    "name": "Pirate Fairy",
+    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20The%20Pirate%20Fairy.mp4",
+    "category": "Disney"
+  },
+  {
+    "name": "Planes Fire & Rescue",
+    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Planes%20-%20Fire%20and%20Rescue.mp4",
+    "category": "Disney"
+  },
+  {
+    "name": "Big Hero 6",
+    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Big%20Hero%206.mp4",
+    "category": "Disney"
+  },
+  {
+    "name": "The Lone Ranger",
+    "url": "https://archive.org/download/schoolproject2_20200406/2013%20-%20The%20Lone%20Ranger.mp4",
+    "category": "Disney"
+  },
+  {
+    "name": "Planes",
+    "url": "https://archive.org/download/schoolproject2_20200406/2013%20-%20Planes.mp4",
+    "category": "Disney"
+  },
+  {
+    "name": "Tinker Bell Secret of Wings",
+    "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20Tinker%20Bell%20Secret%20of%20the%20Wings.m4v",
+    "category": "Disney"
+  },
+  {
+    "name": "The Secret World Of Arrientty",
+    "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20The%20Secret%20World%20Of%20Arrietty.mp4",
+    "category": "Disney"
+  },
+  {
+    "name": "Tangled Ever After",
+    "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20Tangled%20Ever%20After.mp4",
+    "category": "Disney"
+  },
+  {
     "name": "NBT Shopping",
     "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist_w499820882_b3128000.m3u8",
     "category": "Shopping"
