@@ -2254,55 +2254,470 @@
     "url": "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8",
     "category": "Shopping"
   },
-    {
-    "name": "Strange Magic",
-    "url": "https://archive.org/download/schoolproject2_20200406/2015%20-%20Strange%20Magic.mp4",
-    "category": "Disney"
-  },
-  {
-    "name": "Tinker Bell & Never Beast",
-    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Tinker%20Bell%20and%20the%20Legend%20of%20the%20NeverBeast.mp4",
-    "category": "Disney"
-  },
-  {
-    "name": "Pirate Fairy",
-    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20The%20Pirate%20Fairy.mp4",
-    "category": "Disney"
-  },
-  {
-    "name": "Planes Fire & Rescue",
-    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Planes%20-%20Fire%20and%20Rescue.mp4",
-    "category": "Disney"
-  },
   {
     "name": "Big Hero 6",
     "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Big%20Hero%206.mp4",
-    "category": "Disney"
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "UP",
+    "url": "https://archive.org/download/Up.2009.720p.BluRay.x264.YIFY/Up.2009.720p.BluRay.x264.YIFY.mp4",
+    "category": "Full Movies Disney"
   },
   {
     "name": "The Lone Ranger",
     "url": "https://archive.org/download/schoolproject2_20200406/2013%20-%20The%20Lone%20Ranger.mp4",
-    "category": "Disney"
+    "category": "Full Movies Disney"
+  },
+    {
+    "name": "Strange Magic",
+    "url": "https://archive.org/download/schoolproject2_20200406/2015%20-%20Strange%20Magic.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tinker Bell & Never Beast",
+    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Tinker%20Bell%20and%20the%20Legend%20of%20the%20NeverBeast.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Pirate Fairy",
+    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20The%20Pirate%20Fairy.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Planes Fire & Rescue",
+    "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Planes%20-%20Fire%20and%20Rescue.mp4",
+    "category": "Full Movies Disney"
   },
   {
     "name": "Planes",
     "url": "https://archive.org/download/schoolproject2_20200406/2013%20-%20Planes.mp4",
-    "category": "Disney"
+    "category": "Full Movies Disney"
   },
   {
     "name": "Tinker Bell Secret of Wings",
     "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20Tinker%20Bell%20Secret%20of%20the%20Wings.m4v",
-    "category": "Disney"
+    "category": "Full Movies Disney"
   },
   {
     "name": "The Secret World Of Arrientty",
     "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20The%20Secret%20World%20Of%20Arrietty.mp4",
-    "category": "Disney"
+    "category": "Full Movies Disney"
   },
   {
     "name": "Tangled Ever After",
     "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20Tangled%20Ever%20After.mp4",
-    "category": "Disney"
+    "category": "Full Movies Disney"
+  },
+ {
+    "name": "101 Dalmatians",
+    "url": "https://archive.org/download/schoolproject2_20200406/1961%20-%20101%20Dalmatians.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "101 Dalmatians 2 - Patch's London Adventure",
+    "url": "https://archive.org/download/schoolproject2_20200406/2003%20-%20101%20Dalmatians%202%20-%20Patch%27s%20London%20Adventure.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "A Christmas Carol",
+    "url": "https://archive.org/download/schoolproject2_20200406/2009%20-%20A%20Christmas%20Carol.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Aladdin - The Return of Jafar",
+    "url": "https://archive.org/download/schoolproject2_20200406/1994%20-%20Aladdin%20-%20The%20Return%20of%20Jafar.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Aladdin and the King of Thieves",
+    "url": "https://archive.org/download/schoolproject2_20200406/1996%20-%20Aladdin%20and%20the%20King%20of%20Thieves.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Alice in Wonderland",
+    "url": "https://archive.org/download/schoolproject2_20200406/1951%20-%20Alice%20in%20Wonderland.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "An Extremely Goofy Movie",
+    "url": "https://archive.org/download/schoolproject2_20200406/2000%20-%20An%20Extremely%20Goofy%20Movie.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Atlantis 2 Milo's Return",
+    "url": "https://archive.org/download/schoolproject2_20200406/2003%20-%20Atlantis%202%20Milo%27s%20Return.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Atlantis The Lost Empire",
+    "url": "https://archive.org/download/schoolproject2_20200406/2001%20-%20Atlantis%20The%20Lost%20Empire.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Bambi II",
+    "url": "https://archive.org/download/schoolproject2_20200406/2006%20-%20Bambi%20II.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "url": "https://archive.org/download/schoolproject2_20200406/1991%20-%20Beauty%20and%20the%20Beast.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Beauty and the Beast - The Enchanted Christmas",
+    "url": "https://archive.org/download/schoolproject2_20200406/1997%20-%20Beauty%20and%20the%20Beast%20-%20The%20Enchanted%20Christmas.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Belle's Magical World",
+    "url": "https://archive.org/download/schoolproject2_20200406/1998%20-%20Belle%27s%20Magical%20World.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Bolt",
+    "url": "https://archive.org/download/schoolproject2_20200406/2008%20-%20Bolt.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Brother Bear",
+    "url": "https://archive.org/download/schoolproject2_20200406/2003%20-%20Brother%20Bear.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Brother Bear 2",
+    "url": "https://archive.org/download/schoolproject2_20200406/2006%20-%20Brother%20Bear%202.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Chicken Little",
+    "url": "https://archive.org/download/schoolproject2_20200406/2005%20-%20Chicken%20Little.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Cinderella",
+    "url": "https://archive.org/download/schoolproject2_20200406/1950%20-%20Cinderella.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Cinderella II - Dreams Come True",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Cinderella%20II%20-%20Dreams%20Come%20True.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Cinderella III - A Twist in Time",
+    "url": "https://archive.org/download/schoolproject2_20200406/2007%20-%20Cinderella%20III%20-%20A%20Twist%20in%20Time.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Ducktales The Movie - Treasure of the Lost Lamp",
+    "url": "https://archive.org/download/schoolproject2_20200406/1990%20-%20Ducktales%20The%20Movie%20-%20Treasure%20of%20the%20Lost%20Lamp.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Gnomeo and Juliet",
+    "url": "https://archive.org/download/schoolproject2_20200406/2011%20-%20Gnomeo%20and%20Juliet.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Hercules",
+    "url": "https://archive.org/download/schoolproject2_20200406/1997%20-%20Hercules.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "James and the Giant Peach",
+    "url": "https://archive.org/download/schoolproject2_20200406/1996%20-%20James%20and%20the%20Giant%20Peach.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Kronk's New Groove",
+    "url": "https://archive.org/download/schoolproject2_20200406/2005%20-%20Kronk%27s%20New%20Groove.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Lady and the Tramp",
+    "url": "https://archive.org/download/schoolproject2_20200406/1955%20-%20Lady%20and%20the%20Tramp.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Lady And The Tramp II - Scamp's Adventure",
+    "url": "https://archive.org/download/schoolproject2_20200406/2001%20-%20Lady%20And%20The%20Tramp%20II%20-%20Scamp%27s%20Adventure.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Lilo And Stitch",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Lilo%20And%20Stitch.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Lilo and Stitch 2 - Stitch has a Glitch",
+    "url": "https://archive.org/download/schoolproject2_20200406/2005%20-%20Lilo%20and%20Stitch%202%20-%20Stitch%20has%20a%20Glitch.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Meet The Robinsons",
+    "url": "https://archive.org/download/schoolproject2_20200406/2007%20-%20Meet%20The%20Robinsons.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Mickey Donald Goofy - The Three Musketeers",
+    "url": "https://archive.org/download/schoolproject2_20200406/2004%20-%20Mickey%20Donald%20Goofy%20-%20The%20Three%20Musketeers.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Mickey's House of Mouse - The Villains",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Mickey%27s%20House%20of%20Mouse%20-%20The%20Villains.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Mickey's Once Upon A Christmas",
+    "url": "https://archive.org/download/schoolproject2_20200406/1999%20-%20Mickey%27s%20Once%20Upon%20A%20Christmas.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Mickey's Twice Upon a Christmas",
+    "url": "https://archive.org/download/schoolproject2_20200406/2004%20-%20Mickeys%20Twice%20Upon%20a%20Christmas.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Mulan",
+    "url": "https://archive.org/download/schoolproject2_20200406/1998%20-%20Mulan.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Mulan II",
+    "url": "https://archive.org/download/schoolproject2_20200406/2004%20-%20Mulan%20II.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Oliver & Company",
+    "url": "https://archive.org/download/schoolproject2_20200406/1988%20-%20Oliver%20%26%20Company.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Peter Pan",
+    "url": "https://archive.org/download/schoolproject2_20200406/1953%20-%20Peter%20Pan.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Peter Pan II - Return to Neverland",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Peter%20Pan%20II%20-%20Return%20to%20Neverland.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Pete's Dragon",
+    "url": "https://archive.org/download/schoolproject2_20200406/1977%20-%20Pete%27s%20Dragon.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Piglet's Big Movie",
+    "url": "https://archive.org/download/schoolproject2_20200406/2003%20-%20Piglet%27s%20Big%20Movie.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Pooh's Heffalump Movie",
+    "url": "https://archive.org/download/schoolproject2_20200406/2005%20-%20Pooh%27s%20Heffalump%20Movie.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Recess Schools Out",
+    "url": "https://archive.org/download/schoolproject2_20200406/2001%20-%20Recess%20Schools%20Out.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Robin Hood",
+    "url": "https://archive.org/download/schoolproject2_20200406/1973%20-%20Robin%20Hood.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Sleeping Beauty",
+    "url": "https://archive.org/download/schoolproject2_20200406/1959%20-%20Sleeping%20Beauty.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Snow White and the Seven Dwarves",
+    "url": "https://archive.org/download/schoolproject2_20200406/1937%20-%20Snow%20White%20and%20the%20Seven%20Dwarves.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Spirited Away",
+    "url": "https://archive.org/download/schoolproject2_20200406/2001%20-%20Spirited%20Away.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Stitch! The Movie",
+    "url": "https://archive.org/download/schoolproject2_20200406/2003%20-%20Stitch%21%20The%20Movie.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tangled",
+    "url": "https://archive.org/download/schoolproject2_20200406/2010%20-%20Tangled.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tangled Ever After",
+    "url": "https://archive.org/download/schoolproject2_20200406/2012%20-%20Tangled%20Ever%20After.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tarzan",
+    "url": "https://archive.org/download/schoolproject2_20200406/1999%20-%20Tarzan.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tarzan & Jane",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Tarzan%20%26%20Jane.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tarzan II",
+    "url": "https://archive.org/download/schoolproject2_20200406/2005%20-%20Tarzan%20II.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Aristocats",
+    "url": "https://archive.org/download/schoolproject2_20200406/1970%20-%20The%20Aristocats.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Black Cauldron",
+    "url": "https://archive.org/download/schoolproject2_20200406/1985%20-%20The%20Black%20Cauldron.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Fox and the Hound",
+    "url": "https://archive.org/download/schoolproject2_20200406/1981%20-%20The%20Fox%20and%20the%20Hound.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Fox and the Hound 2",
+    "url": "https://archive.org/download/schoolproject2_20200406/2006%20-%20The%20Fox%20and%20the%20Hound%202.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Great Mouse Detective",
+    "url": "https://archive.org/download/schoolproject2_20200406/1986%20-%20The%20Great%20Mouse%20Detective.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Hunchback of Notre Dame II",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20The%20Hunchback%20of%20Notre%20Dame%20II.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Jungle Book",
+    "url": "https://archive.org/download/schoolproject2_20200406/1967%20-%20The%20Jungle%20Book.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Jungle Book 2",
+    "url": "https://archive.org/download/schoolproject2_20200406/2003%20-%20The%20Jungle%20Book%202.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Lion King",
+    "url": "https://archive.org/download/schoolproject2_20200406/1994%20-%20The%20Lion%20King.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Lion King 1-1.5 - Hakuna Matata",
+    "url": "https://archive.org/download/schoolproject2_20200406/2004%20-%20The%20Lion%20King%201-1.5%20-%20Hakuna%20Matata.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Lion King 2 - Simba's Pride",
+    "url": "https://archive.org/download/schoolproject2_20200406/1998%20-%20The%20Lion%20King%202%20-%20Simba%27s%20Pride.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Little Mermaid",
+    "url": "https://archive.org/download/schoolproject2_20200406/1989%20-%20The%20Little%20Mermaid.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Little Mermaid - Ariel's Beginning",
+    "url": "https://archive.org/download/schoolproject2_20200406/2008%20-%20The%20Little%20Mermaid%20-%20Ariel%27s%20Beginning.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Little Mermaid 2-Return to the Sea",
+    "url": "https://archive.org/download/schoolproject2_20200406/2000%20-%20The%20Little%20Mermaid%202-Return%20to%20the%20Sea.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Princess and the Frog",
+    "url": "https://archive.org/download/schoolproject2_20200406/2009%20-%20The%20Princess%20and%20the%20Frog.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Rescuers",
+    "url": "https://archive.org/download/schoolproject2_20200406/1977%20-%20The%20Rescuers.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Rescuers Down Under",
+    "url": "https://archive.org/download/schoolproject2_20200406/1990%20-%20The%20Rescuers%20Down%20Under.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Sword in the Stone",
+    "url": "https://archive.org/download/schoolproject2_20200406/1963%20-%20The%20Sword%20in%20the%20Stone.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "The Wild",
+    "url": "https://archive.org/download/schoolproject2_20200406/2006%20-%20The%20Wild.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tinker Bell",
+    "url": "https://archive.org/download/schoolproject2_20200406/2008%20-%20Tinker%20Bell.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tinker Bell and The Great Fairy Rescue",
+    "url": "https://archive.org/download/schoolproject2_20200406/2010%20-%20Tinker%20Bell%20and%20The%20Great%20Fairy%20Rescue.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Tinker Bell and The Lost Treasure",
+    "url": "https://archive.org/download/schoolproject2_20200406/2009%20-%20Tinker%20Bell%20and%20The%20Lost%20Treasure.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Treasure Planet",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Treasure%20Planet.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Valiant",
+    "url": "https://archive.org/download/schoolproject2_20200406/2005%20-%20Valiant.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Who Framed Roger Rabbit",
+    "url": "https://archive.org/download/schoolproject2_20200406/1988%20-%20Who%20Framed%20Roger%20Rabbit.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Winnie the Pooh",
+    "url": "https://archive.org/download/schoolproject2_20200406/2011%20-%20Winnie%20the%20Pooh.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Winnie the Pooh - Springtime With Roo",
+    "url": "https://archive.org/download/schoolproject2_20200406/2004%20-%20Winnie%20the%20Pooh%20-%20Springtime%20With%20Roo.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Winnie the Pooh-A Very Merry Pooh Year",
+    "url": "https://archive.org/download/schoolproject2_20200406/2002%20-%20Winnie%20the%20Pooh-A%20Very%20Merry%20Pooh%20Year.mp4",
+    "category": "Full Movies Disney"
+  },
+  {
+    "name": "Winnie The Pooh - Seasons of Giving",
+    "url": "https://archive.org/download/schoolproject2_20200406/1999%20-%20Winnie%20The%20Pooh%20-%20Seasons%20of%20Giving.mp4",
+    "category": "Full Movies Disney"
   },
   {
     "name": "NBT Shopping",
