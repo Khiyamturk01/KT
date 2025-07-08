@@ -482,17 +482,7 @@
     "url": "https://archive.org/download/movie-bucket-i/The%20Day%20After%20Tomorrow.mp4",
     "category": "Movies"
   },
-  {
-    "name": "3 Idiots Hindi",
-    "url": "https://archive.org/download/movie-bucket-i/3%20Idiots.mp4",
-    "category": "Movies"
-  },
    {
-    "name": "Rockstar Hindi",
-    "url": "https://archive.org/download/rockstar-2011/Rockstar%20%282011%29.mp4",
-    "category": "Movies"
-  },   
-  {
     "name": "A Taxi Driver",
     "url": "https://archive.org/download/movie-bucket-i/A%20Taxi%20Driver.mp4",
     "category": "Movies"
@@ -611,7 +601,37 @@
     "name": "To Kill a Mocking Bird",
     "url": "https://archive.org/download/movie-bucket-i/To%20Kill%20a%20Mocking%20Bird.mp4",
     "category": "Movies"
-  },  
+  }, 
+
+
+
+ {
+    "name": "3 Idiots",
+    "url": "https://archive.org/download/movie-bucket-i/3%20Idiots.mp4",
+    "category": "Hindi Movies"
+  },
+   {
+    "name": "Rockstar",
+    "url": "https://archive.org/download/rockstar-2011/Rockstar%20%282011%29.mp4",
+    "category": "Hindi Movies"
+  },
+    {
+    "name": "Love Aj Kal",
+    "url": "https://archive.org/download/love.-aaj.-kal.-2020.-hindi.-1080p/Love.Aaj.Kal.2020.Hindi.1080p.mp4",
+    "category": " Hindi Movies"
+  },
+
+
+
+
+
+
+
+
+
+
+
+   
 
 
 
