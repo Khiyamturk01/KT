@@ -483,10 +483,15 @@
     "category": "Movies"
   },
   {
-    "name": "3 Idiots",
+    "name": "3 Idiots Hindi",
     "url": "https://archive.org/download/movie-bucket-i/3%20Idiots.mp4",
     "category": "Movies"
   },
+   {
+    "name": "Rockstar Hindi",
+    "url": "https://archive.org/download/rockstar-2011/Rockstar%20%282011%29.mp4",
+    "category": "Movies"
+  },   
   {
     "name": "A Taxi Driver",
     "url": "https://archive.org/download/movie-bucket-i/A%20Taxi%20Driver.mp4",
