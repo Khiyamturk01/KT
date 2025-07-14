@@ -9,11 +9,9 @@
     "category": "English"
   },
   {
-    "title": "Calm Down Rema Selena Gomez",
-    "audioUrl": "https://raw.githubusercontent.com/Khiyamturk01/KT/main/Calm%20Down%20Rema%20Selena%20Gomez.mp3"
-  },
-  {
-    "title": "Tu Jo Nahi Hai",
-    "audioUrl": "https://khiyamturk01.github.io/KT/Tu%20Jo%20Nahi%20Hai.mp3"
+    "name": "Tu Jo Nahi Hai",
+    "url": "https://khiyamturk01.github.io/KT/Tu%20Jo%20Nahi%20Hai.mp3",
+    "category": "Hindi"
   }
+
 ]
