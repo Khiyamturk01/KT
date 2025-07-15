@@ -1,18 +1,99 @@
 [
+    {
+    "name": "Ae ajnabi",
+    "url": "https://archive.org/download/my-collection_202507/Ae%20ajnabi.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Chaiya chaiya",
+    "url": "https://archive.org/download/my-collection_202507/Chaiya%20chaiya.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Dil to pagal hai",
+    "url": "https://archive.org/download/my-collection_202507/Dil%20to%20pagal%20hai.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Jaadu teri nazar",
+    "url": "https://archive.org/download/my-collection_202507/Jaadu%20teri%20nazar.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Jeya jale",
+    "url": "https://archive.org/download/my-collection_202507/Jeya%20jale.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Koi mil gaya",
+    "url": "https://archive.org/download/my-collection_202507/Koi%20mil%20gaya.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Kuch kuch hota",
+    "url": "https://archive.org/download/my-collection_202507/Kuch%20kuch%20hota.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Ladki badi anjaani",
+    "url": "https://archive.org/download/my-collection_202507/Ladki%20badi%20anjaani.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Mehndi lagake rakhna",
+    "url": "https://archive.org/download/my-collection_202507/Mehndi%20lagake%20rakhna.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Mehndi lagake rakhna",
+    "url": "https://archive.org/download/my-collection_202507/Mehndi%20lagake%20rakhna.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Ruk ja o Dil",
+    "url": "https://archive.org/download/my-collection_202507/Ruk%20ja%20o%20Dil.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Tujhe yaad na meri",
+    "url": "https://archive.org/download/my-collection_202507/Tujhe%20yaad%20na%20meri.mp3",
+    "category": "Best Of SRK"
+  },
+  {
+    "name": "Ye ladka hai dewana",
+    "url": "https://archive.org/download/my-collection_202507/Ye%20ladka%20hai%20dewana.mp3",
+    "category": "Best Of SRK"
+  },
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
   {
     "name": "Teri Galiyan",
     "url": "https://khiyamturk01.github.io/KT/Teri%20Galiyan.mp3",
-    "category": "Hindi"
+    "category": "Mix Hindi"
   },
 {
     "name": "Calm Down Rema Selena Gomez",
     "url": "https://raw.githubusercontent.com/Khiyamturk01/KT/main/Calm%20Down%20Rema%20Selena%20Gomez.mp3",
-    "category": "English"
+    "category": "Mix English"
   },
   {
     "name": "Tu Jo Nahi Hai",
     "url": "https://khiyamturk01.github.io/KT/Tu%20Jo%20Nahi%20Hai.mp3",
-    "category": "Hindi"
+    "category": "Mix Hindi"
   }
 
 ]
