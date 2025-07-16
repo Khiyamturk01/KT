@@ -5,6 +5,11 @@
     "category": "Kids Movies"
   },
   {
+    "name": "Baby Day Out",
+    "url": "https://archive.org/download/012568974/Baby%27s%20Day%20Out%201994%20HDDvD%201080p%20DTS%20AC3%20x264-MgB.mp4",
+    "category": "Kids Movies"
+  },  
+  {
     "name": "Big Hero 6",
     "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Big%20Hero%206.mp4",
     "category": "Kids Movies"
@@ -673,11 +678,62 @@
 
 
 
-  {
+{
     "name": "Zombieland: Double Tap",
     "url": "https://archive.org/download/hexziasmovies/Zombieland%20Double%20Tap.mp4",
     "category": "2010-2020 English Movies"
   },
+  {
+    "name": "Alita: Battle Angel",
+    "url": "https://archive.org/download/01245654664/Alita-%20Battle%20Angel%20%282019%29%20Open%20Matte%20%281080p%20Hybrid%20x265%20SAMPA%29.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Thor: Love and Thunder",
+    "url": "https://archive.org/download/01245654664/Thor.Love.and.Thunder.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SMURF.mp4",
+    "category": "2020-2030 English Movies"
+  },
+  {
+    "name": "Apocalypto",
+    "url": "https://archive.org/download/01264545976/Apocalypto.2006.1080p.BluRay.x265-RARBG.ia.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Apocalypto HD",
+    "url": "https://archive.org/download/01264545976/Apocalypto.2006.1080p.BluRay.x265-RARBG.mp4 HD",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Titan",
+    "url": "https://archive.org/download/01264545976/The.Titan.2018.1080p.BluRay.x265-RARBG.ia.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Ghost Rider",
+    "url": "https://archive.org/download/012568974/Ghost.Rider.2007.WEB-DL.1080p.Open.Matte.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Spider-Man No Way Home",
+    "url": "https://archive.org/download/012568974/Spider-Man%20No%20Way%20Home%20%282021%29%20Extended%20Cut%20%281080p%20MA%20WEB-DL%20x265%20Silence%29.mp4",
+    "category": "2020-2030 English Movies"
+  },
+  {
+    "name": "The Protector",
+    "url": "https://archive.org/download/012454585/The%20Protector%20%282005%29%20%281080p%20BluRay%20x265%20SAMPA%29.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Thor: Love and Thunder",
+    "url": "https://archive.org/download/012568974/Thor.Love.and.Thunder.2022_BluRay.1080p.AV1.Opus-nAV1gator.mkv",
+    "category": "2020-2030 English Movies"
+  },
+  {
+    "name": "The Adventures of Tintin",
+    "url": "https://archive.org/download/012568974/The.Adventures.of.Tintin.2011.REPACK.1080p.BluRay.AV1.Opus.7.1-RAV1NE.mkv",
+    "category": "2010-2020 English Movies"
+  },
+  
   {
     "name": "The Lion King (Live Action)",
     "url": "https://archive.org/download/hexziasmovies/The%20Lion%20King%202019.mp4",
@@ -1325,11 +1381,25 @@
 
 
 
-
   {
     "name": "Saving Private Ryan",
     "url": "https://archive.org/download/movie-bucket-i/Saving%20Private%20Ryan.mp4",
     "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Flubber",
+    "url": "https://archive.org/download/012568974/Flubber%20%281997%29%20%281080p%20WEBRip%20x265%20FreetheFish%29.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "George of the Jungle",
+    "url": "https://archive.org/download/012568974/George%20of%20the%20Jungle%20%281997%29%20%281080p%20BluRay%20x265%20Ghost%29.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "George of the Jungle 2",
+    "url": "https://archive.org/download/012568974/George%20of%20the%20Jungle%202%20%282003%29%20%281080p%20AMZN%20WEB-DL%20x265%20Ghost%29.mp4",
+    "category": "2000-2010 English Movies"
   },
   {
     "name": "Forrest Gump",
@@ -2974,12 +3044,21 @@
 
 
   
-
-
-
-
-
-
+  {
+    "name": "The Lord of the Rings - The Fellowship of the Ring",
+    "url": "https://archive.org/download/012568974/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%20%282001%29%20Extended%20RM4K%20%281080p%20BluRay%20x265%2010bit%20Tigole%29.mp4",
+    "category": "LOTR Trilogy"
+  },
+  {
+    "name": "The Lord of the Rings - The Return of the King",
+    "url": "https://archive.org/download/012568974/The%20Lord%20of%20the%20Rings%20-%20The%20Return%20of%20the%20King%20%282003%29%20Extended%20RM4K%20%281080p%20BluRay%20x265%2010bit%20Tigole%29.mp4",
+    "category": "LOTR Trilogy"
+  },
+  {
+    "name": "The Lord of the Rings - The Two Towers",
+    "url": "https://archive.org/download/012568974/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%20%282002%29%20Extended%20RM4K%20%281080p%20BluRay%20x265%2010bit%20Tigole%29.mp4",
+    "category": "LOTR Trilogy"
+  },
 
 
   
