@@ -1424,6 +1424,40 @@
     "url": "https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8",
     "category": "Sports"
   },
+
+
+
+
+
+
+
+  
+
+   {
+    "name": "R TV Action",
+    "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "R TV Comedy",
+    "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "R TV Drama",
+    "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "R TV Family",
+    "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "R TV VIKI",
+    "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
+    "category": "Movies"
+  }, 
   {
     "name": "Action Movies",
     "url": "https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
@@ -1467,31 +1501,6 @@
  {
     "name": "312 Movies",
     "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
-    "category": "Movies"
-  },
-   {
-    "name": "Rakuten TV Action",
-    "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Rakuten TV Comedy",
-    "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Rakuten TV Drama",
-    "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Rakuten TV Family",
-    "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Rakuten TV VIKI",
-    "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
     "category": "Movies"
   },
  {
