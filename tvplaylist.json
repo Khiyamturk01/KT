@@ -1457,7 +1457,22 @@
     "name": "R TV VIKI",
     "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
     "category": "Movies"
-  }, 
+  },
+   {
+    "name": "Classic Movies",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+    "category": "Movies"
+  },
+   {
+    "name": "Persiana Cinema",
+    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+    "category": "Movies"
+  },
+   {
+    "name": "Red Carpet TV",
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
+    "category": "Movies"
+  },
   {
     "name": "Action Movies",
     "url": "https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
@@ -1483,39 +1498,20 @@
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
     "category": "Movies"
   },
- {
-    "name": "Classic Movies",
-    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+   {
+    "name": "Bollywood Classic",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
     "category": "Movies"
   },
+ {
+    "name": "Bollywood HD",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
+    "category": "Movies"
+  },
+
   {
     "name": "Biz Cinema",
     "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
-    "category": "Movies"
-  },
-  {
-    "name": "Persiana Cinema",
-    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "312 Movies",
-    "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Red Carpet TV",
-    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "And TV",
-    "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Action TV",
-    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-actionhd/index.m3u8",
     "category": "Movies"
   },
  {
@@ -1611,16 +1607,6 @@
  {
     "name": "Black Cinema",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9",
-    "category": "Movies"
-  },
- {
-    "name": "Bollywood Classic",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Bollywood HD",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
     "category": "Movies"
   },
  {
