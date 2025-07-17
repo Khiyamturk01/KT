@@ -8,7 +8,12 @@
     "name": "Baby Day Out",
     "url": "https://archive.org/download/012568974/Baby%27s%20Day%20Out%201994%20HDDvD%201080p%20DTS%20AC3%20x264-MgB.mp4",
     "category": "Kids Movies"
-  },  
+  },
+    {
+    "name": "The Super Mario Bros",
+    "url": "https://archive.org/download/list-of-remastered-films/Watch%20The%20Super%20Mario%20Bros.%20Movie%202023%20full%20movie%20on%20Gomovie.ia.mp4",
+    "category": "Kids Movies"
+  },
   {
     "name": "Big Hero 6",
     "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Big%20Hero%206.mp4",
@@ -42,6 +47,21 @@
   {
     "name": "Angry Birds",
     "url": "https://archive.org/download/movies_202211/Angry%20Birds.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": "Monsters, Inc",
+    "url": "https://archive.org/download/list-of-remastered-films/Monsters%2C%20Inc.%20UK%20%282001%29%20e103c04a0a99958827590dedfa0f464f-1080p.mp4",
+    "category": "Kids Movies"
+  },
+   {
+    "name": "Ratatouille",
+    "url": "https://archive.org/download/list-of-remastered-films/Ratatouille%20%282007%29.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": " Tom and Jerry, Fast and Furry",
+    "url": "https://archive.org/download/tom-and-jerry-fast-and-furry_202402/TOM_AND_JERRY_FAST_AND_FURRY.mp4",
     "category": "Kids Movies"
   },
   {
