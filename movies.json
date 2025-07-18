@@ -44,9 +44,24 @@
     "url": "https://archive.org/download/mohenjo-daro-2016-hindi-1080p-z-flix-co/10%20-%20October%20-%20Sub/Motu%20Patlu%20King%20of%20Kings%202016_%20zFlix%20CO.mp4",
     "category": "Kids Movies"
   },
-  {
+    {
     "name": "Angry Birds",
     "url": "https://archive.org/download/movies_202211/Angry%20Birds.mp4",
+    "category": "Kids Movies"
+  },
+    {
+    "name": " Kung Fu Panda",
+    "url": "https://archive.org/download/fievel/Kung.Fu.Panda.2008.1080p.BluRay.H264.AAC-RARBG.mp4",
+    "category": "Kids Movies"
+  },
+    {
+    "name": " Kung Fu Panda 2",
+    "url": "https://archive.org/download/fievel/Kung.Fu.Panda.2.2011.1080p.BluRay.H264.AAC-RARBG.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": " Kung Fu Panda 3",
+    "url": "https://archive.org/download/kung.-fu.-panda.-3.2016.1080p.-blu-ray.x-264-yts.-ag_202410/Kung.Fu.Panda.3.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4",
     "category": "Kids Movies"
   },
   {
@@ -763,6 +778,12 @@
     "url": "https://archive.org/download/movie-bucket-i/A%20Taxi%20Driver.mp4",
     "category": "2010-2020 English Movies"
   },
+    {
+    "name": "Baby Driver",
+    "url": "https://archive.org/download/baby-driver-full-movie-free/Baby%20Driver%20-%20Full%20Movie%20-%20Free.mp4",
+    "category": "2010-2020 English Movies"
+  },
+
   {
     "name": "Beauty and the Beast",
     "url": "https://archive.org/download/movie-bucket-i/Beauty%20and%20the%20Beast.mp4",
