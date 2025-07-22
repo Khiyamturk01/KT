@@ -44,7 +44,7 @@
     "url": "https://archive.org/download/mohenjo-daro-2016-hindi-1080p-z-flix-co/10%20-%20October%20-%20Sub/Motu%20Patlu%20King%20of%20Kings%202016_%20zFlix%20CO.mp4",
     "category": "Kids Movies"
   },
-    {
+  {
     "name": "Angry Birds",
     "url": "https://archive.org/download/movies_202211/Angry%20Birds.mp4",
     "category": "Kids Movies"
@@ -64,6 +64,33 @@
     "url": "https://archive.org/download/kung.-fu.-panda.-3.2016.1080p.-blu-ray.x-264-yts.-ag_202410/Kung.Fu.Panda.3.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4",
     "category": "Kids Movies"
   },
+
+  {
+    "name": "Raya And The Last Dragon",
+    "url": "https://archive.org/download/hexziasmovies/Raya%20And%20The%20Last%20Dragon.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": "The Addams Family",
+    "url": "https://archive.org/download/hexziasmovies/The%20Addams%20Family.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": "Dino King 3D Journey To Fire Mountain",
+    "url": "https://archive.org/download/hexziasmovies/Dino%20King%203D%20Journey%20To%20Fire%20Mountain.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": "The Croods A New Age",
+    "url": "https://archive.org/download/hexziasmovies/The%20Croods%20A%20New%20Age.mp4",
+    "category": "Kids Movies"
+  },
+  {
+    "name": "The Boxtrolls",
+    "url": "https://archive.org/download/hexziasmovies/The%20Boxtrolls.mp4",
+    "category": "Kids Movies"
+  },
+  
   {
     "name": "Monsters, Inc",
     "url": "https://archive.org/download/list-of-remastered-films/Monsters%2C%20Inc.%20UK%20%282001%29%20e103c04a0a99958827590dedfa0f464f-1080p.mp4",
@@ -1394,7 +1421,31 @@
     "url": "https://archive.org/download/movies_202211/Iron%20Man.mp4",
     "category": "2000-2010 English Movies"
   },
-
+  {
+    "name": "47 Meters Down: Uncaged",
+    "url": "https://archive.org/download/hexziasmovies/47%20Meters%20Down%20Uncaged.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Annabelle Comes Home",
+    "url": "https://archive.org/download/hexziasmovies/Annabelle%20Comes%20Home.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Black Water: Abyss",
+    "url": "https://archive.org/download/hexziasmovies/Black%20Water%20Abyss.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Flora & Ulysses",
+    "url": "https://archive.org/download/hexziasmovies/Flora%20Ulysse.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Haunt",
+    "url": "https://archive.org/download/hexziasmovies/Haunt%202019.mp4",
+    "category": "2010-2020 English Movies"
+  },
 
 
 
@@ -1430,6 +1481,31 @@
     "name": "George of the Jungle 2",
     "url": "https://archive.org/download/012568974/George%20of%20the%20Jungle%202%20%282003%29%20%281080p%20AMZN%20WEB-DL%20x265%20Ghost%29.mp4",
     "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Total Recall",
+    "url": "https://archive.org/download/additional-movies/total_recall_1990.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "The Terminator",
+    "url": "https://archive.org/download/additional-movies/The.Terminator.1984.360p.BRrip.x264.GAZ.YIFY.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Terminator 2: Judgement Day",
+    "url": "https://archive.org/download/additional-movies/Terminator.2.Judgement.Day.1991.Extended.REMASTERED.360p.BluRay.H264.AAC.READ.NFO-RARBG.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Terminator 3: Rise of the Machines",
+    "url": "https://archive.org/download/additional-movies/Terminator.3.Rise.of.the.Machines.2003.360p.BluRay.x264.YIFY.mp4",
+    "category": "After 2000 English Movies"
+  },
+  {
+    "name": "Terminator Salvation",
+    "url": "https://archive.org/download/additional-movies/Terminator.Salvation.2009.DC.360p.BluRay.H264.AAC-RARBG.mp4",
+    "category": "After 2000 English Movies"
   },
   {
     "name": "Forrest Gump",
