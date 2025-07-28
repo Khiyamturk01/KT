@@ -9,6 +9,11 @@
     "url": "https://archive.org/download/012568974/Baby%27s%20Day%20Out%201994%20HDDvD%201080p%20DTS%20AC3%20x264-MgB.mp4",
     "category": "Kids Movies"
   },
+  {
+    "name": "Rise Of The Guardians",
+    "url": "https://archive.org/download/page2_20190926_2104/Rise.of.the.Guardians.2012.1080p.mp4",
+    "category": "Kids Movies"
+  },
     {
     "name": "The Super Mario Bros",
     "url": "https://archive.org/download/list-of-remastered-films/Watch%20The%20Super%20Mario%20Bros.%20Movie%202023%20full%20movie%20on%20Gomovie.ia.mp4",
@@ -19,8 +24,13 @@
     "url": "https://archive.org/download/schoolproject2_20200406/2014%20-%20Big%20Hero%206.mp4",
     "category": "Kids Movies"
   },
-    {
+      {
     "name": "A Bug's Life",
+    "url": "https://archive.org/download/movies_202211/A%20Bugs%20Life.ia.mp4",
+    "category": "Kids Movies"
+  },
+    {
+    "name": "A Bug's Life HD",
     "url": "https://archive.org/download/movies_202211/A%20Bugs%20Life.mp4",
     "category": "Kids Movies"
   },
