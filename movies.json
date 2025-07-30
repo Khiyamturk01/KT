@@ -1477,9 +1477,14 @@
     "url": "https://archive.org/download/movie-bucket-i/Saving%20Private%20Ryan.mp4",
     "category": "Before 2000 English Movies"
   },
-  {
+    {
     "name": "Flubber",
     "url": "https://archive.org/download/012568974/Flubber%20%281997%29%20%281080p%20WEBRip%20x265%20FreetheFish%29.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "The Good The Bad & The Ugly",
+    "url": "https://archive.org/download/the-good-the-bad-and-the-ugly-1966_202407/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%281966%29.mp4",
     "category": "Before 2000 English Movies"
   },
   {
@@ -1665,6 +1670,36 @@
     "url": "https://archive.org/download/hit-the-third-case-2025-hdrip-720p-hindi-aac-x264/Hit%20The%20Third%20Case%20%282025%29%20HDRip%20720p%20Hindi%20AAC%20x264.mp4",
     "category": "2020-2025 Hindi Movies"
   },
+  {
+  "name": "K.G.F Chapter 1",
+  "url": "https://archive.org/download/K.G.FChapter12018HindiOnlinemoviewatch.mkv/K.G.F_Chapter_1_%282018%29_Hindi_onlinemoviewatch.mkv.mp4",
+  "category": "2010-2020 Hindi Movies"
+},
+{
+  "name": "K.G.F Chapter 1 (HD)",
+  "url": "https://archive.org/download/kgfch1/%5BTorrentCounter.to%5D.K.G.F.Chapter.1.2018.Hindi.Dubbed.1080p.WEB-DL.x264.%5B2GB%5D.%5BKGF%5D.mp4",
+  "category": "2010-2020 Hindi Movies"
+},
+{
+  "name": "Raayan",
+  "url": "https://archive.org/download/ms-raayan-2024-web-dl-1080p-hin-mal-kan-2.8/%5BMS%5D%20Raayan%20%282024%29%20WEB-DL%201080p%20%5BHin%20%2B%20Mal%20%2B%20Kan%5D%202.8.mp4",
+  "category": "2020-2025 Hindi Movies"
+},
+{
+  "name": "Aavesham",
+  "url": "https://archive.org/download/cszmovies-aavesham-2024-un-cut-dual-audio-hindi-malaya/%40CSZMovies%20-Aavesham%20%282024%29%20UnCut%20Dual%20Audio%20%5BHindi%20-%20Malaya.mp4",
+  "category": "2020-2025 Hindi Movies"
+},
+{
+  "name": "L2 Empuraan",
+  "url": "https://archive.org/download/cszmovies-l-2-empuraan-2025-hindi-pre-hd-1080p-x-26/%40CSZMovies%20-%20-%20L2%20Empuraan%20%282025%29%20Hindi%20PRE-HD%20-%201080p%20-%20x26.mp4",
+  "category": "2020-2025 Hindi Movies"
+},
+{
+  "name": "Kill",
+  "url": "https://archive.org/download/kill-2024-hindi-full-movie-hd/Kill%20%282024%29%20Hindi%20full%20movie%20HD.mp4",
+  "category": "2020-2025 Hindi Movies"
+},
   {
     "name": "Costao",
     "url": "https://archive.org/download/costao-2025-hdrip-720p-hindi-aac-x264/Costao%20%282025%29%20HDRip%20720p%20Hindi%20AAC%20x264.mp4",
