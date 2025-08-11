@@ -1620,6 +1620,18 @@
     "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
     "category": "Movies"
   },
+
+  {
+    "name": "Bollywood Classic",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
+    "category": "Movies"
+  },
+ {
+    "name": "Bollywood HD",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
+    "category": "Movies"
+  },
+
    {
     "name": "Classic Movies",
     "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
@@ -1658,16 +1670,6 @@
   {
     "name": "24H Movies",
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
-    "category": "Movies"
-  },
-   {
-    "name": "Bollywood Classic",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Bollywood HD",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
     "category": "Movies"
   },
 
