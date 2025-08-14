@@ -821,6 +821,12 @@
     "url": "https://archive.org/download/movies_202211/Everything%20Everywhere%20All%20At%20Once.mp4",
     "category": "2020-2030 English Movies"
   },
+  
+  {
+    "name": "Dune",
+    "url": "https://archive.org/download/movies_202211/Dune.mp4",
+    "category": "2020-2030 English Movies"
+  },
 
 
 
@@ -1296,6 +1302,60 @@
 
 
 
+  {
+    "name": "Jurassic World: Fallen Kingdom",
+    "url": "https://archive.org/download/jurassic-world-fallen-kingdom-2018_202409/Jurassic%20World%20Fallen%20Kingdom%202018.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Alita: Battle Angel HD",
+    "url": "https://archive.org/download/0123606611/Alita%20Battle%20Angel%20%282019%29%20%5BOPEN%20MATTE%5D%20%5BBluRay%20UHD%20HDR10%20%28INTERNAL%29%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Avengers: Endgame HD",
+    "url": "https://archive.org/download/0123606611/Avengers%20Endgame%20%282019%29%20%5BOPEN%20MATTE%5D%20%5BBluRay%201080p%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "The Irishman ",
+    "url": "https://archive.org/download/019tachpoolla/The%20Irishman%20%282019%29%20720p%20NF%20WEB-DL%20HEVC%20AAC%202CH%20PoOlLa.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Once Upon a Time in Hollywood",
+    "url": "https://archive.org/download/019tachpoolla/Once%20Upon%20a%20Time%20in%20Hollywood%20%282019%29%201080p%20BRrip%20HEVC%2010bit%20HDR%20AAC%206CH%20PoOlLa.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Ghost in the Shell",
+    "url": "https://archive.org/download/ghost-in-the-shell-2017_202406/Ghost%20in%20the%20Shell%202017%20HYBRID%202160p%20BluRay%20REMUX%20HEVC%20DV%20TrueHD%20Atmos%207.1.ia.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Doctor Strange",
+    "url": "https://archive.org/download/0123606611/Doctor%20Strange%20%282016%29%20%5BOPEN%20MATTE%5D%20%5BBluRay%201080p%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "url": "https://archive.org/download/8197643E932D3BEA6928D3C85CDE563BBB6355EA/Mad%20Max%20Fury%20Road%20%282015%29%201080p.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Scott Pilgrim vs. The World",
+    "url": "https://archive.org/download/scott-pilgrim-vs-the-world-360p/Scott-Pilgrim-vs-the-World_360p.mp4",
+    "category": "2010-2020 English Movies"
+  },
+
+
+
+
+
+  
+
+
+
 
 
 
@@ -1557,6 +1617,33 @@
 
 
 
+  {
+    "name": "The Matrix Reloaded",
+    "url": "https://archive.org/download/0123606611/The%20Matrix%20Reloaded%20%282003%29%20%5BOPEN%20MATTE%5D%20%5BWEBRip%201080p%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Matrix Revolutions",
+    "url": "https://archive.org/download/0123606611/The%20Matrix%20Revolutions%20%282003%29%20%5BOPEN%20MATTE%5D%20%5BWEB-DL%201080p%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Matrix HD",
+    "url": "https://archive.org/download/the.-matrix.-1999.-remastered.-proper.-1080p.-blu-ray.-h-264.-aac-rarbg/The.Matrix.1999.REMASTERED.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Matrix",
+    "url": "https://archive.org/download/0123606611/The%20Matrix%20%281999%29%20%5BOPEN%20MATTE%5D%20%5BWEB-DL%201080p%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2000-2010 English Movies"
+  },
+
+  
+
+
+
+
+
 
 
 
@@ -1610,12 +1697,12 @@
   {
     "name": "Terminator 3: Rise of the Machines",
     "url": "https://archive.org/download/additional-movies/Terminator.3.Rise.of.the.Machines.2003.360p.BluRay.x264.YIFY.mp4",
-    "category": "After 2000 English Movies"
+    "category": "Before 2000 English Movies"
   },
   {
     "name": "Terminator Salvation",
     "url": "https://archive.org/download/additional-movies/Terminator.Salvation.2009.DC.360p.BluRay.H264.AAC-RARBG.mp4",
-    "category": "After 2000 English Movies"
+    "category": "Before 2000 English Movies"
   },
   {
     "name": "Forrest Gump",
@@ -1733,6 +1820,47 @@
     "category": "Before 2000 English Movies"
   },
 
+
+
+
+
+   {
+    "name": "Austin Powers: International Man of Mystery",
+    "url": "https://archive.org/download/movies_20220526/Austin.Powers.International.Man.of.Mystery.1997.720p.Brrip.x264.Deceit.YIFY.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Space Jam",
+    "url": "https://archive.org/download/movies_20220526/Space.Jam.1996.720p.HDDVD.x264.YIFY.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "The Mask",
+    "url": "https://archive.org/download/movies_20220526/The.Mask.1994.720p.BRrip.x264.YIFY.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Léon: The Professional",
+    "url": "https://archive.org/download/leon_20230503/Leon.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Jurassic Park",
+    "url": "https://archive.org/download/Jurssc.Park.1/Jurassic.Park.1.1993.filmlerbizden.com.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "E.T. The Extra-Terrestrial",
+    "url": "https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Mad Max",
+    "url": "https://archive.org/download/mad.-max.-1979.1080p.-blu-ray.x-265-rarbg/Mad.Max.1979.1080p.BluRay.x265-RARBG.ia.mp4",
+    "category": "Before 2000 English Movies"
+  },
+
+  
 
 
 
