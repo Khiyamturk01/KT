@@ -827,7 +827,16 @@
     "url": "https://archive.org/download/movies_202211/Dune.mp4",
     "category": "2020-2030 English Movies"
   },
-
+  {
+    "name": "Thor: Love and Thunder",
+    "url": "https://archive.org/download/01245654664/Thor.Love.and.Thunder.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SMURF.mp4",
+    "category": "2020-2030 English Movies"
+  },
+  {
+    "name": "Red Notice",
+    "url": "https://archive.org/download/red-notice_202501/Red%20Notice.ia.mp4",
+    "category": "2020-2030 English Movies"
+  },
 
 
 
@@ -860,11 +869,6 @@
     "name": "Alita: Battle Angel",
     "url": "https://archive.org/download/01245654664/Alita-%20Battle%20Angel%20%282019%29%20Open%20Matte%20%281080p%20Hybrid%20x265%20SAMPA%29.mp4",
     "category": "2010-2020 English Movies"
-  },
-  {
-    "name": "Thor: Love and Thunder",
-    "url": "https://archive.org/download/01245654664/Thor.Love.and.Thunder.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SMURF.mp4",
-    "category": "2020-2030 English Movies"
   },
   {
     "name": "Apocalypto",
@@ -1352,6 +1356,127 @@
 
 
 
+
+   {
+    "name": "47 Meters Down: Uncaged",
+    "url": "https://archive.org/download/hexziasmovies/47%20Meters%20Down%20Uncaged.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Annabelle Comes Home",
+    "url": "https://archive.org/download/hexziasmovies/Annabelle%20Comes%20Home.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Black Water: Abyss",
+    "url": "https://archive.org/download/hexziasmovies/Black%20Water%20Abyss.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Flora & Ulysses",
+    "url": "https://archive.org/download/hexziasmovies/Flora%20Ulysse.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Haunt",
+    "url": "https://archive.org/download/hexziasmovies/Haunt%202019.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Robin Hood",
+    "url": "https://archive.org/download/robin-hood_202503/Robin%20Hood.ia.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Knight and Day",
+    "url": "https://archive.org/details/knight-and-day",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "The Tourist",
+    "url": "https://archive.org/details/the-tourist",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Pirates - Band of Misfits",
+    "url": "https://archive.org/download/pirates-band-of-misfits/Pirates%20-%20Band%20of%20Misfits.ia.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Battleship",
+    "url": "https://archive.org/details/battleship_202501",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://archive.org/details/prometheus_20250125",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Gravity",
+    "url": "https://archive.org/details/gravity_20250120",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Ex Machina",
+    "url": "https://archive.org/download/ex-machina_202502/Ex%20Machina.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "The Imitation Game",
+    "url": "https://archive.org/details/the-imitation-game",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Forsaken",
+    "url": "https://archive.org/download/forsaken_202502/Forsaken.ia.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Non-Stop",
+    "url": "https://archive.org/details/non-stop_202502",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Eye in the Sky",
+    "url": "https://archive.org/details/eye-in-the-sky_202502",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Bridge of Spies",
+    "url": "https://archive.org/details/bridge-of-spies_202502",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Official Secrets",
+    "url": "https://archive.org/details/official-secrets",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Tomorrowland",
+    "url": "https://archive.org/details/tomorrowland_202502",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "No Reservations",
+    "url": "https://archive.org/download/no-reservations/No%20Reservations.ia.mp4",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "The Interpreter",
+    "url": "https://archive.org/details/the-interpreter",
+    "category": "2010-2020 English Movies"
+  },
+  {
+    "name": "Red 2",
+    "url": "https://archive.org/details/red-2_202501",
+    "category": "2010-2020 English Movies"
+  },
+
+
+
+
+
   
 
 
@@ -1586,31 +1711,24 @@
     "url": "https://archive.org/download/movies_202211/Iron%20Man.mp4",
     "category": "2000-2010 English Movies"
   },
-  {
-    "name": "47 Meters Down: Uncaged",
-    "url": "https://archive.org/download/hexziasmovies/47%20Meters%20Down%20Uncaged.mp4",
-    "category": "2010-2020 English Movies"
-  },
-  {
-    "name": "Annabelle Comes Home",
-    "url": "https://archive.org/download/hexziasmovies/Annabelle%20Comes%20Home.mp4",
-    "category": "2010-2020 English Movies"
-  },
-  {
-    "name": "Black Water: Abyss",
-    "url": "https://archive.org/download/hexziasmovies/Black%20Water%20Abyss.mp4",
-    "category": "2010-2020 English Movies"
-  },
-  {
-    "name": "Flora & Ulysses",
-    "url": "https://archive.org/download/hexziasmovies/Flora%20Ulysse.mp4",
-    "category": "2010-2020 English Movies"
-  },
-  {
-    "name": "Haunt",
-    "url": "https://archive.org/download/hexziasmovies/Haunt%202019.mp4",
-    "category": "2010-2020 English Movies"
-  },
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+  
 
 
 
@@ -1635,6 +1753,81 @@
   {
     "name": "The Matrix",
     "url": "https://archive.org/download/0123606611/The%20Matrix%20%281999%29%20%5BOPEN%20MATTE%5D%20%5BWEB-DL%201080p%2010bit%20DD5.1%20x265%5D.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Frequency",
+    "url": "https://archive.org/download/frequency_202502/Frequency.ia.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Mummy",
+    "url": "https://archive.org/details/the-mummy_202502",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Red Planet",
+    "url": "https://archive.org/details/red-planet_202502",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Murder Mystery",
+    "url": "https://archive.org/details/murder-mystery_202502",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Spy Game",
+    "url": "https://archive.org/details/spy-game_202502",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Patriot",
+    "url": "https://archive.org/details/the-patriot",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Runaway Jury",
+    "url": "https://archive.org/details/runaway-jury_20250216",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "Timeline",
+    "url": "https://archive.org/details/Timelline",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Librarian: Quest for the Spear",
+    "url": "https://archive.org/details/the-librarian-quest-for-the-spear",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Triangle",
+    "url": "https://archive.org/details/the-triangle_202501",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Lake House",
+    "url": "https://archive.org/details/the-lake-house_202501",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Day the Earth Stood Still",
+    "url": "https://archive.org/details/the-day-the-earth-stood-still_202501",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "U-571",
+    "url": "https://archive.org/details/u-571_202501",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The House Bunny",
+    "url": "https://archive.org/details/the-house-bunny",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Proposal",
+    "url": "https://archive.org/details/the-proposal_202501",
     "category": "2000-2010 English Movies"
   },
 
@@ -1819,12 +2012,7 @@
     "url": "https://archive.org/download/movies_202211/Independence%20Day.mp4",
     "category": "Before 2000 English Movies"
   },
-
-
-
-
-
-   {
+  {
     "name": "Austin Powers: International Man of Mystery",
     "url": "https://archive.org/download/movies_20220526/Austin.Powers.International.Man.of.Mystery.1997.720p.Brrip.x264.Deceit.YIFY.mp4",
     "category": "Before 2000 English Movies"
@@ -1859,6 +2047,38 @@
     "url": "https://archive.org/download/mad.-max.-1979.1080p.-blu-ray.x-265-rarbg/Mad.Max.1979.1080p.BluRay.x265-RARBG.ia.mp4",
     "category": "Before 2000 English Movies"
   },
+  {
+    "name": "Quigley Down Under",
+    "url": "https://archive.org/download/quigley-down-under/Quigley%20Down%20Under.ia.mp4",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Hook",
+    "url": "https://archive.org/details/hook_20250120",
+    "category": "Before 2000 English Movies"
+  },
+  {
+    "name": "Armageddon",
+    "url": "https://archive.org/details/armageddon_202501",
+    "category": "Before 2000 English Movies"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
   
 
