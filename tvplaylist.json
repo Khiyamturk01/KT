@@ -5,11 +5,6 @@
     "category": "News"
   },
   {
-    "name": "AL Jazeera YT",
-    "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
-    "category": "News"
-  },
-  {
     "name": "Al Jazeera English",
     "url": "https://live-hls-web-aje-fa.thehlive.com/alternative/AJE/01.m3u8",
     "category": "News"
@@ -24,7 +19,12 @@
     "url": "https://live-hls-web-ajm-fa.thehlive.com/alternative/AJM/01.m3u8",
     "category": "News"
   },
-   {
+  {
+    "name": "AL Jazeera YT",
+    "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
+    "category": "News"
+  },
+  {
     "name": "Zindagi PK",
     "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
     "category": "News"
