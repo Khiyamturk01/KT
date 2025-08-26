@@ -19,24 +19,19 @@
     "url": "https://live-hls-web-ajm-fa.thehlive.com/alternative/AJM/01.m3u8",
     "category": "News"
   },
+    {
+    "name": "Al Jazeera Docu",
+    "url": "https://live-hls-web-ajd-fa.thehlive.com/alternative/AJD/01.m3u8",
+    "category": "News"
+  },
   {
     "name": "AL Jazeera YT",
     "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
     "category": "News"
   },
   {
-    "name": "Zindagi PK",
-    "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
-    "category": "News"
-  },
-    {
     "name": "GNN News YT",
     "url": "https://www.youtube.com/embed/2bk3gVrO8aQ",
-    "category": "News"
-  },
-  {
-    "name": "Al Jazeera Docu",
-    "url": "https://live-hls-web-ajd-fa.thehlive.com/alternative/AJD/01.m3u8",
     "category": "News"
   },
   {
@@ -829,6 +824,11 @@
     "url": "https://cdn5.mjunoon.tv:8087/web/KAY2-127/live/127M/chunks.m3u8",
     "category": "Entertainment"
   },
+  {
+    "name": "Zindagi PK",
+    "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "category": "News"
+  },  
   {
     "name": "JOO TV",
     "url": "https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8",
