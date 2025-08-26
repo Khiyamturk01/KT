@@ -1762,72 +1762,82 @@
   },
   {
     "name": "The Mummy",
-    "url": "https://archive.org/details/the-mummy_202502",
+    "url": "https://archive.org/download/the-mummy_202502/1%20The%20Mummy.mp4",
     "category": "2000-2010 English Movies"
   },
   {
+    "name": "The Mummy Returns",
+    "url": "https://archive.org/download/the-mummy_202502/2%20The%20Mummy%20Returns.mp4",
+    "category": "2000-2010 English Movies"
+  },  
+  {
     "name": "Red Planet",
-    "url": "https://archive.org/details/red-planet_202502",
+    "url": "https://archive.org/download/red-planet_202502/Red%20Planet.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "Murder Mystery",
-    "url": "https://archive.org/details/murder-mystery_202502",
+    "url": "https://archive.org/download/murder-mystery_202502/1%20Murder%20Mystery.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "Spy Game",
-    "url": "https://archive.org/details/spy-game_202502",
+    "url": "https://archive.org/download/spy-game_202502/SpyGame.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The Patriot",
-    "url": "https://archive.org/details/the-patriot",
+    "url": "https://archive.org/download/the-patriot/The%20Patriot.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "Runaway Jury",
-    "url": "https://archive.org/details/runaway-jury_20250216",
+    "url": "https://archive.org/download/runaway-jury_20250216/Runaway%20Jury.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "Timeline",
-    "url": "https://archive.org/details/Timelline",
+    "url": "https://archive.org/download/Timelline/Timelline.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The Librarian: Quest for the Spear",
-    "url": "https://archive.org/details/the-librarian-quest-for-the-spear",
+    "url": "https://archive.org/download/the-librarian-quest-for-the-spear/The%20Librarian%20-%20Quest%20for%20the%20Spear.ia.mp4",
+    "category": "2000-2010 English Movies"
+  },
+  {
+    "name": "The Librarian - Return to King Solomon's Mine",
+    "url": "https://archive.org/download/the-librarian-quest-for-the-spear/The%20Librarian%20-%20Return%20to%20King%20Solomon%27s%20Mine.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The Triangle",
-    "url": "https://archive.org/details/the-triangle_202501",
+    "url": "https://archive.org/download/the-triangle_202501/The%20Triangle.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The Lake House",
-    "url": "https://archive.org/details/the-lake-house_202501",
+    "url": "https://archive.org/download/the-lake-house_202501/The%20Lake%20House.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The Day the Earth Stood Still",
-    "url": "https://archive.org/details/the-day-the-earth-stood-still_202501",
+    "url": "https://archive.org/download/the-day-the-earth-stood-still_202501/1%20The%20Day%20The%20Earth%20Stood%20Still.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "U-571",
-    "url": "https://archive.org/details/u-571_202501",
+    "url": "https://archive.org/download/u-571_202501/U%20-%20571.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The House Bunny",
-    "url": "https://archive.org/details/the-house-bunny",
+    "url": "https://archive.org/download/the-house-bunny/The%20House%20Bunny.ia.mp4",
     "category": "2000-2010 English Movies"
   },
   {
     "name": "The Proposal",
-    "url": "https://archive.org/details/the-proposal_202501",
+    "url": "https://archive.org/download/the-proposal_202501/The%20Proposal.mp4",
     "category": "2000-2010 English Movies"
   },
 
@@ -2054,12 +2064,12 @@
   },
   {
     "name": "Hook",
-    "url": "https://archive.org/details/hook_20250120",
+    "url": "https://archive.org/download/hook_20250120/Hook.ia.mp4",
     "category": "Before 2000 English Movies"
   },
   {
     "name": "Armageddon",
-    "url": "https://archive.org/details/armageddon_202501",
+    "url": "https://archive.org/download/armageddon_202501/Armageddon.ia.mp4",
     "category": "Before 2000 English Movies"
   },
 
