@@ -1588,8 +1588,11 @@
 
 
 
-
-  
+  {
+    "name": "Mr. Bean Classic",
+    "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+    "category": "Movies"
+  },
 
    {
     "name": "R TV Action",
@@ -2152,11 +2155,6 @@
  {
     "name": "XPTV2",
     "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
-    "category": "Movies"
-  },
-   {
-    "name": "Mr. Bean Classic",
-    "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
     "category": "Movies"
   },
   {
