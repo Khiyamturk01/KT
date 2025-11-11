@@ -6,22 +6,22 @@
   },
   {
     "name": "Al Jazeera English",
-    "url": "https://live-hls-web-aje-fa.thehlive.com/alternative/AJE/01.m3u8",
+    "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
     "category": "News"
   },
   {
     "name": "Al Jazeera Arabic",
-    "url": "https://live-hls-web-aja-fa.thehlive.com/alternative/AJA/01.m3u8",
+    "url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/01.m3u8",
     "category": "News"
   },
   {
     "name": "Al Jazeera Muba",
-    "url": "https://live-hls-web-ajm-fa.thehlive.com/alternative/AJM/01.m3u8",
+    "url": "https://live-hls-web-ajm-gcp.thehlive.com/AJM/01.m3u8",
     "category": "News"
   },
     {
-    "name": "Al Jazeera Docu",
-    "url": "https://live-hls-web-ajd-fa.thehlive.com/alternative/AJD/01.m3u8",
+    "name": "Al Jazeera Documentary",
+    "url": "https://live-hls-web-ajd-gcp.thehlive.com/AJD/01.m3u8",
     "category": "News"
   },
   {
