@@ -1,9 +1,76 @@
 [
+
+  {
+  "name": "Tekken 1",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/41513-tekken.html"
+},
+{
+  "name": "Tekken 2",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/41514-tekken-2.html"
+},
   {
     "name": "Tekken 3",
     "category": "Fighting Games",
     "url": "https://www.retrogames.cc/embed/40238-tekken-3.html"
-  },
+  },  
+{
+  "name": "Crash Team Racing",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/41687-crash-team-racing.html"
+},
+{
+  "name": "Fifa 2000",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/41776-fifa-2000.html"
+},
+{
+  "name": "A Bug's Life",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/41523-a-bugs-life.html"
+},
+{
+  "name": "Gouketuji Ichizoku 2",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/41825-gouketuji-ichizoku-2-chottodake-saikyou-densetsu.html"
+},
+{
+  "name": "Smurf Racer!",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/40127-smurf-racer.html"
+},
+{
+  "name": "Tomb Raider",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/42723-tomb-raider.html"
+},
+{
+  "name": "Tomb Raider 2",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/42724-tomb-raider-2.html"
+},
+{
+  "name": "American Pool",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/40048-american-pool.html"
+},
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
   {
     "name": "Game Title 2",
     "category": "Puzzle Games",
@@ -19,4 +86,5 @@
     "category": "Puzzle Games",
     "url": "https://www.example.com/embed/anotherpuzzle"
   }
+
 ]
