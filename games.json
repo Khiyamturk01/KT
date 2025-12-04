@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tekken 3",
+    "category": "Fighting Games",
+    "url": "https://www.retrogames.cc/embed/40238-tekken-3.html"
+  },
+  {
+    "name": "Game Title 2",
+    "category": "Puzzle Games",
+    "url": "https://www.example.com/embed/game2"
+  },
+  {
+    "name": "Game Title 3",
+    "category": "Arcade Classics",
+    "url": "https://www.example.com/embed/game3"
+  },
+  {
+    "name": "Another Puzzle Game",
+    "category": "Puzzle Games",
+    "url": "https://www.example.com/embed/anotherpuzzle"
+  }
+]
