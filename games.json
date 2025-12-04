@@ -1,5 +1,77 @@
 [
 
+{
+  "name": "Disney Big Hero 6",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/42734-disney-big-hero-6-battle-in-the-bay-usa.html"
+},
+{
+  "name": "Despicable Me - Minion Mayhem",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/43348-despicable-me-minion-mayhem-europe-en-fr-de-es-it-sv-no-da-fi.html"
+},
+{
+  "name": "Super Mario All Stars",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/42845-super-mario-all-stars-nes.html"
+},
+{
+  "name": "Super Mario 2",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/45218-super-mario-bros-another-adventure-2-01.html"
+},
+{
+  "name": "Super Mario 3",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/42868-super-mario-3-crowned-edition.html"
+},
+{
+  "name": "Super Luigi Bros",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/43803-super-luigi-bros-by-thenintendude64.html"
+},
+{
+  "name": "Ninja Turtles",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/39629-teenage-mutant-ninja-turtles-arcade-attack-europe-en-fr-de-es-it-nl.html"
+},
+{
+  "name": "Ninja Turtles 3",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/35296-teenage-mutant-ninja-turtles-3-mutant-nightmare-usa.html"
+},
+{
+  "name": "Need for Speed - Most Wanted",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/35314-need-for-speed-most-wanted-usa.html"
+},
+{
+  "name": "Need for Speed - Underground 2",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/35141-need-for-speed-underground-2-usa-en-fr-de-es-it.html"
+},
+{
+  "name": "New Mario Kart DS",
+  "category": "Nintendo",
+  "url": "https://www.retrogames.cc/embed/46291-new-mario-kart-ds.html"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
   {
   "name": "Tekken 1",
   "category": "Play Station",
@@ -88,4 +160,5 @@
   }
 
 ]
+
 
