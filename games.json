@@ -350,6 +350,52 @@
   },
 
 
+  {
+  "name": "Dynasty Wars",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/8408-dynasty-wars-us-set-1.html"
+},
+{
+  "name": "Superman",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/10228-superman-us.html"
+},
+{
+  "name": "Teenage Mutant Ninja Turtles",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/10263-teenage-mutant-ninja-turtles-japan-2-players.html"
+},
+{
+  "name": "Tekken 3",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/43501-tekken-3-world-tet2-ver-e1.html"
+},
+{
+  "name": "Tekken Tag Tournament",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/42722-tekken-tag-tournament-world-teg2-ver-c1-set-1.html"
+},
+{
+  "name": "Waku Waku 7",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/10643-waku-waku-7.html"
+},
+{
+  "name": "Ultimate Mortal Kombat 3",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/42493-ultimate-mortal-kombat-3-rev-1-2.html"
+},
+{
+  "name": "Warriors of Fate",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/10654-warriors-of-fate-921002-etc.html"
+},
+{
+  "name": "Zed Blade",
+  "category": "Arcade",
+  "url": "https://www.retrogames.cc/embed/10766-zed-blade-operation-ragnarok.html"
+},
+
 
 
 
@@ -392,6 +438,11 @@
     "category": "Play Station",
     "url": "https://www.retrogames.cc/embed/40238-tekken-3.html"
   },  
+  {
+  "name": "Tekken Tag Tournament",
+  "category": "Play Station",
+  "url": "https://www.retrogames.cc/embed/42722-tekken-tag-tournament-world-teg2-ver-c1-set-1.html"
+},
 {
   "name": "Crash Team Racing",
   "category": "Play Station",
@@ -707,6 +758,7 @@
 
 
 ]
+
 
 
 
