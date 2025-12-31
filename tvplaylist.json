@@ -670,6 +670,72 @@
     "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1694810538_b1428000.m3u8",
     "category": "Music"
   },
+
+
+
+
+  
+
+{
+  "name": "30 A Music",
+  "url": "https://30a-tv.com/music.m3u8",
+  "category": "Music"
+},
+{
+  "name": "A2I Music",
+  "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Alb Kanale Music",
+  "url": "https://albportal.net/albkanalemusic.m3u8",
+  "category": "Music"
+},
+{
+  "name": "B4U Music",
+  "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
+  "category": "Music"
+},
+{
+  "name": "ETV South Indian Music",
+  "url": "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Feva Music",
+  "url": "https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Hi Music",
+  "url": "https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8",
+  "category": "Music"
+},
+{
+  "name": "iTV Urban Music",
+  "url": "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8",
+  "category": "Music"
+},
+{
+  "name": "iTV Afrobeats Music",
+  "url": "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8",
+  "category": "Music"
+},
+{
+  "name": "iTV Arabic Music",
+  "url": "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8",
+  "category": "Music"
+  },
+
+
+  
+
+
+
+
+
+
+  
   {
     "name": "Russian Music",
     "url": "https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8",
@@ -1630,6 +1696,166 @@
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
     "category": "Movies"
   },
+
+
+
+
+
+{
+  "name": "Movies Action",
+  "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Movies Thriller",
+  "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MoviesZz",
+  "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Movies Sphere",
+  "url": "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Movies Sphere 2",
+  "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MyTime Movie",
+  "url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MyTime Movie Brazil",
+  "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MyTime Movie France",
+  "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MyTime Movie Germany",
+  "url": "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MyTime Movie Mexico",
+  "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "MyTime Movie Spain",
+  "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Paramount Channel",
+  "url": "https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Rakuten Top Movies UK",
+  "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-",
+  "category": "Movies"
+},
+{
+  "name": "24 Hours Movies",
+  "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "ABYZ Movies",
+  "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Action Hollywood Movies",
+  "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "ART FLIX Movie Classics",
+  "url": "https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "B4U Movies",
+  "url": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Hallmark Movies",
+  "url": "https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "J Movie",
+  "url": "http://103.140.254.2:3500/live/417.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Lifetime Movies East",
+  "url": "https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Maha Movie",
+  "url": "https://cdn-6.pishow.tv/live/10007/master.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "Movie Box",
+  "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "T2 Movies Farsi",
+  "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "TVS Classic Movies",
+  "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+  "category": "Movies"
+},
+{
+  "name": "TVS Drive In Movie",
+  "url": "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
+  "category": "Movies"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
    {
     "name": "Classic Movies",
