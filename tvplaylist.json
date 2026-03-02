@@ -30,6 +30,16 @@
     "category": "News"
   },
   {
+    "name": "CNN News YT",
+    "url": "https://www.youtube.com/embed/9goXLqQQm3Y?si=NPNMH99HOT72M6J0",
+    "category": "News"
+  },
+  {
+    "name": "NBC News YT",
+    "url": "https://www.youtube.com/embed/yMr0neQhu6c?si=spJq1FWsI6KuwPgl",
+    "category": "News"
+  },
+    {
     "name": "ARY News YT",
     "url": "https://www.youtube.com/embed/vYTfRrA0rBw?si=u0v4MLCRJiINT_0A",
     "category": "News"
