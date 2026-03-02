@@ -15,20 +15,22 @@
     "category": "News"
   },
   {
-    "name": "Al Jazeera Muba",
-    "url": "https://live-hls-web-ajm-gcp.thehlive.com/AJM/01.m3u8",
-    "category": "News"
-  },
-    {
-    "name": "Al Jazeera Documentary",
-    "url": "https://live-hls-web-ajd-gcp.thehlive.com/AJD/01.m3u8",
-    "category": "News"
-  },
-  {
     "name": "AL Jazeera YT",
     "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
     "category": "News"
   },
+  {
+    "name": "TRT News YT",
+    "url": "https://www.youtube.com/embed/ABfFhWzWs0s?si=nQn6VXu2kOafz0h9",
+    "category": "News"
+  },
+  {
+    "name": "France News YT",
+    "url": "https://www.youtube.com/embed/Ap-UM1O9RBU?si=l0huz6xfa8zM30OU",
+    "category": "News"
+  },
+
+  
   {
     "name": "CNN News YT",
     "url": "https://www.youtube.com/embed/9goXLqQQm3Y?si=NPNMH99HOT72M6J0",
@@ -350,6 +352,16 @@
     "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
     "category": "News"
   },
+   {
+    "name": "Al Jazeera Muba",
+    "url": "https://live-hls-web-ajm-gcp.thehlive.com/AJM/01.m3u8",
+    "category": "News"
+  },
+    {
+    "name": "Al Jazeera Documentary",
+    "url": "https://live-hls-web-ajd-gcp.thehlive.com/AJD/01.m3u8",
+    "category": "News"
+  },
 
 
 
@@ -612,6 +624,11 @@
   {
     "name": "Peace TV Urdu",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "category": "Religion"
+  },
+  {
+    "name": "ARY QTV YT",
+    "url": "https://www.youtube.com/embed/k0unDXRANyc?si=ko5O7neCoShuS9GW",
     "category": "Religion"
   },
   {
