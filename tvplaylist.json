@@ -30,6 +30,11 @@
     "category": "News"
   },
   {
+    "name": "ARY News YT",
+    "url": "https://www.youtube.com/embed/vYTfRrA0rBw?si=u0v4MLCRJiINT_0A",
+    "category": "News"
+  },
+  {
     "name": "GNN News YT",
     "url": "https://www.youtube.com/embed/8mhPYTm3kEs?si=_yb44X0amVZaH8J4",
     "category": "News"
@@ -53,6 +58,11 @@
   {
     "name": "Arirang Korea YT",
     "url": "https://www.youtube.com/embed/CJVBX7KI5nU",
+    "category": "News"
+  },
+  {
+    "name": "Agenda Free News",
+    "url": "https://www.youtube.com/embed/qCqAP2jWL0k?si=fPobotLyev3ahpm5",
     "category": "News"
   },
   {
