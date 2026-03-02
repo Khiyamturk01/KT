@@ -40,6 +40,16 @@
     "category": "News"
   },
     {
+    "name": "GB News YT",
+    "url": "https://www.youtube.com/embed/tWAQqiqELqA?si=cO7WEhk9l-ovWJDP",
+    "category": "News"
+  },
+  {
+    "name": "India Today YT",
+    "url": "https://www.youtube.com/embed/LZWfXI7sSS4?si=OCOYAKn5BnHRdhwS",
+    "category": "News"
+  },
+    {
     "name": "Fox News YT",
     "url": "https://www.youtube.com/embed/TKdyfoEEWYw?si=-rZzbfC5eIOBvzQ_",
     "category": "News"
