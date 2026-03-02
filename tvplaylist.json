@@ -1506,7 +1506,11 @@
 
 
 
-  
+    {
+    "name": "DD Sports",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "category": "Sports"
+  },
   {
     "name": "Calcio Sports",
     "url": "https://www.youtube.com/embed/Nu2JGd0TJaM",
@@ -1808,6 +1812,13 @@
 
 
 
+
+  
+{
+  "name": "Sony One Hits Action",
+  "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+  "category": "Movies"
+},
 
 
 {
