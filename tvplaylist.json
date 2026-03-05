@@ -14,6 +14,31 @@
     "url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/01.m3u8",
     "category": "News"
   },
+
+    {
+    "name": "BBC Persian",
+    "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8",
+    "category": "News"
+  },
+
+    {
+    "name": "GB News",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8",
+    "category": "News"
+  },
+
+    {
+    "name": "France 24",
+    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+    "category": "News"
+  },
+
+    {
+    "name": "Euro News ENG",
+    "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+    "category": "News"
+  },
+  
   {
     "name": "AL Jazeera YT",
     "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
@@ -217,36 +242,7 @@
     "url": "https://hls.afintl.com/hls/stream.m3u8",
     "category": "News"
   },
-  {
-    "name": "Al Arabiya",
-    "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Al Hadath",
-    "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Al Araby 2",
-    "url": "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Al Ghad",
-    "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Al Iraqia",
-    "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "ANN News PK",
-    "url": "https://cdn.ottlive.co.in/annnews/index.m3u8",
-    "category": "News"
-  },
+
   {
     "name": "Arirang Korea ENG",
     "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
@@ -258,30 +254,17 @@
     "category": "News"
   },
   {
-    "name": "BBC One",
-    "url": "https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8",
-    "category": "News"
-  },
-  {
     "name": "EWTN",
     "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
     "category": "News"
   },
-  {
-    "name": "BBC Persian",
-    "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8",
-    "category": "News"
-  },
+
   {
     "name": "Bharat News",
     "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
     "category": "News"
   },
-  {
-    "name": "BTV News",
-    "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
-    "category": "News"
-  },
+
   {
     "name": "CBS News NYC",
     "url": "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
@@ -292,11 +275,7 @@
     "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
     "category": "News"
   },
-  {
-    "name": "Cheddar News",
-    "url": "https://cheddar-us.samsung.wurl.tv/playlist.m3u8",
-    "category": "News"
-  },
+
   {
     "name": "CNA News ENG",
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
@@ -307,31 +286,14 @@
     "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
     "category": "News"
   },
-  {
-    "name": "Entertainment News US",
-    "url": "https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Euro News ENG",
-    "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-    "category": "News"
-  },
+
   {
     "name": "Finans Turk",
     "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
     "category": "News"
   },
-  {
-    "name": "France 24",
-    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "GB News",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8",
-    "category": "News"
-  },
+
+
   {
     "name": "Punjabi News",
     "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
