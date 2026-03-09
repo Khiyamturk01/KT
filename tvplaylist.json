@@ -4,14 +4,29 @@
     "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
     "category": "News"
   },
+
+  
   {
     "name": "Al Jazeera English",
     "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
     "category": "News"
   },
+
+    {
+    "name": "DW News",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+    "category": "News"
+  },
+  
   {
     "name": "Al Jazeera Arabic",
     "url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/01.m3u8",
+    "category": "News"
+  },
+
+  {
+    "name": "Sky News",
+    "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8",
     "category": "News"
   },
 
@@ -207,11 +222,8 @@
     "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
     "category": "News"
   },
-  {
-    "name": "DW News",
-    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
-    "category": "News"
-  },
+
+  
    {
     "name": "Aaj Tak",
     "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
