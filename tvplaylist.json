@@ -329,14 +329,9 @@
     "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
     "category": "Kids"
   },
-  {
-    "name": "PAW Patrol YT",
-    "url": "https://www.youtube.com/embed/Ui_6vrFvqRI",
-    "category": "Kids"
-  },
-  {
-    "name": "Pokemon Kids YT",
-    "url": "https://www.youtube.com/embed/p3rUnBdYWpo",
+    {
+    "name": "POP Kids",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
     "category": "Kids"
   },
   {
@@ -344,16 +339,7 @@
     "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
     "category": "Kids"
   },
-  {
-    "name": "MoonBug Kids",
-    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "POP Kids",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-    "category": "Kids"
-  },
+
   {
     "name": "Afarin TV",
     "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
@@ -369,29 +355,10 @@
     "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
     "category": "Kids"
   },
-  {
-    "name": "Baby First",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Disney Channel Est",
-    "url": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Disney XD",
-    "url": "https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8",
-    "category": "Kids"
-  },
+
   {
     "name": "Duck Tv",
     "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "GEM Junior",
-    "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
     "category": "Kids"
   },
   {
@@ -404,31 +371,14 @@
     "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1804416525_b1296000_slAR.m3u8",
     "category": "Kids"
   },
-  {
-    "name": "YOYO Kids YT",
-    "url": "https://www.youtube.com/embed/DffF5CzHF0I?si=5vF_UbdsPuJyHbCn",
-    "category": "Kids"
-  },
+
   {
     "name": "ESports Kids",
     "url": "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
     "category": "Kids"
   },
-  {
-    "name": "Balapan Kids",
-    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Persiana Kids 1",
-    "url": "https://junhls.persiana.live/hls/stream.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Zarok Kids",
-    "url": "https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8",
-    "category": "Kids"
-  },
+
+
   {
     "name": "SAT 7 Kids",
     "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8",
