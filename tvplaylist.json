@@ -17,6 +17,13 @@
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
     "category": "News"
   },
+
+      {
+    "name": "RT News",
+    "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
+    "category": "News"
+  },
+  
   
   {
     "name": "Al Jazeera Arabic",
@@ -291,6 +298,17 @@
     "category": "News"
   },
 
+      {
+    "name": "Russia 24",
+    "url": "https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist_3.m3u8?md5=tv6yBwQzmgIVkbHEom3cng&e=1773148220&hls_proxy_host=70b013ca21e8364cd537747cf862272b",
+    "category": "News"
+  },
+
+        {
+    "name": "Russia Today",
+    "url": "https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8",
+    "category": "News"
+  },
 
   {
     "name": "Punjabi News",
@@ -506,6 +524,11 @@
   {
     "name": "ZB Cartoon",
     "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "category": "Kids"
+  },
+    {
+    "name": "MUP Cartoon",
+    "url": "https://fl1003.bozztv.com/ushba80/tracks-v1a1/mono.m3u8",
     "category": "Kids"
   },
 
@@ -746,6 +769,12 @@
 {
   "name": "Frecuencia F TV",
   "url": "https://tv.frecuenciaf.com/live/envivo.m3u8",
+  "category": "Music"
+},
+
+  {
+  "name": "Shanson TV Music",
+  "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1",
   "category": "Music"
 },
 
@@ -2600,19 +2629,18 @@
     "url": "https://www.youtube.com/embed/1Kag7BP35PI",
     "category": "Finance"
   },
+
+
+
+     {
+    "name": "Star Documentary",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+    "category": "Science & Nature"
+  },
+  
   {
     "name": "Persiana Science",
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
-    "category": "Science & Nature"
-  },
-  {
-    "name": "National Geographic  YT",
-    "url": "https://www.youtube.com/embed/jL7ux2dkZLg?si=nEpAZJeda9mkUIkv",
-    "category": "Science & Nature"
-  },
-    {
-    "name": "Animals YT",
-    "url": "https://www.youtube.com/embed/daqB3i9WYIY?si=hZB4SaI5f0BQ9Chi",
     "category": "Science & Nature"
   },
     {
@@ -2741,6 +2769,17 @@
     "category": "Science & Nature"
   }, 
 
+     {
+    "name": "RT Documentary",
+    "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8",
+    "category": "Science & Nature"
+  },
+     {
+    "name": "RU Documentary",
+    "url": "https://rt-india.rttv.com/dvr/rtindia/tracks-v1a1/rewind-43200.ts.m3u8?filter.tracks=v1v2v3v4a1",
+    "category": "Science & Nature"
+  },
+
 
 
 
@@ -2810,6 +2849,14 @@
     "url": "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8",
     "category": "Shopping"
   },
+  {
+    "name": "Fashion TV Russia",
+    "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8",
+    "category": "Shopping"
+  },
+
+
+  
   {
     "name": "NBT Shopping",
     "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist_w499820882_b3128000.m3u8",
