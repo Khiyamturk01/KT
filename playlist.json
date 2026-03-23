@@ -28,11 +28,22 @@
 },
     
     
+
+
+
     
     
     
-    
-    
+    {
+  "name": "Tu Jo Nahi Hai",
+  "url": "https://github.com/Khiyamturk01/KT/raw/main/Tu%20Jo%20Nahi%20Hai.mp3",
+  "category": "Mix English"
+},
+{
+  "name": "Teri Galiyan",
+  "url": "https://github.com/Khiyamturk01/KT/raw/main/Teri%20Galiyan.mp3",
+  "category": "Mix English"
+},
     
     
     
@@ -658,7 +669,7 @@
   "name": "Ye Saman",
   "url": "https://github.com/turkearn/My/raw/main/Lata%20M/Ye%20saman%20_Lata.mp3",
   "category": "Lata Mangeshkar"
-},
+}
 
 
 
@@ -679,16 +690,5 @@
   
   
   
-  {
-    "name": "Teri Galiyan",
-    "url": "https://p-lux2.pcloud.com/cBZXlg3XV7ZiOIzEx7ZZZUqC75kZlXZZfc4ZZV77X7ZNRZURZLRZU8Z28Z5RZmYZCzZdLZu4ZT8ZdmZ9YZoLZdoKd5ZLvLqIdU0jS4EhWlCPWVtLuAppv6k/Teri%20Galiyan.mp3",
-    "category": "Mix Hindi"
-  },
-
-  {
-    "name": "Tu Jo Nahi Hai",
-    "url": "https://p-lux3.pcloud.com/cBZ6HC3XV7ZJwazEx7ZZZgKC75kZlXZZfc4ZZb9sp7ZpHZ28ZeYZaYZ2mZ48ZELZv4ZLpZ04ZezZ5RZuQZjzZPJld5ZFfqex3eALm8RR4eHEGXkbJbWECWV/Tu%20Jo%20Nahi%20Hai.mp3",
-    "category": "Mix Hindi"
-  }
 
 ]
