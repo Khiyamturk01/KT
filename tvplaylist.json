@@ -3180,6 +3180,28 @@
   },
 
 
+
+  {
+    "name": "Expo TV AUS",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master_EXPO.m3u8",
+    "category": "Shopping"
+  },
+
+
+
+    {
+    "name": "NGT",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+    "category": "Shopping"
+  },
+
+
+
+
+
+  
+
+
   
   {
     "name": "NBT Shopping",
