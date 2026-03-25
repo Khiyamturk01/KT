@@ -1462,9 +1462,10 @@
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     "category": "Sports"
   },
+  
   {
-    "name": "Calcio Sports",
-    "url": "https://www.youtube.com/embed/Nu2JGd0TJaM",
+    "name": "MMA Sports",
+    "url": "https://streams2.sofast.tv/vglive-sk-462904/tracks-v1a1/mono.ts.m3u8",
     "category": "Sports"
   },
    {
@@ -1473,8 +1474,8 @@
     "category": "Sports"
   },
   {
-    "name": "ACC Network",
-    "url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "name": "Germny Sports",
+    "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/8b147450-9794-435e-9025-445ac00b88d1/3.m3u8",
     "category": "Sports"
   },
   {
@@ -1488,28 +1489,28 @@
     "category": "Sports"
   },
   {
-    "name": "Dubai Racing",
-    "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8",
+    "name": "SKY Sports UK",
+    "url": "https://af7a8b4e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/97e01b29-fd1d-4629-ac12-4236ae3b2433/3.m3u8",
     "category": "Sports"
   },
   {
-    "name": "Dubai Sports 1",
-    "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
+    "name": "Rubin Sports",
+    "url": "https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8",
     "category": "Sports"
   },
   {
-    "name": "Dubai Sports 2",
-    "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
+    "name": "Hungary Sports",
+    "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
     "category": "Sports"
   },
   {
-    "name": "ESPN U",
-    "url": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8",
+    "name": "Mag Sports",
+    "url": "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/chunklist_w1489290522.m3u8?ref=www.freeintertv.com&seid=325982",
     "category": "Sports"
   },
   {
-    "name": "ESPN News",
-    "url": "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "name": "W TV",
+    "url": "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-wettin_high/chunklist_w1206612456.m3u8?ref=www.freeintertv.com&seid=325982",
     "category": "Sports"
   },
   {
