@@ -889,6 +889,13 @@
 },
 
 
+  {
+  "name": "NR 1 Music",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8",
+  "category": "Music"
+},
+
+
 
 
 
@@ -1631,6 +1638,69 @@
     "category": "Entertainment"
   },
 
+
+
+
+
+  {
+  "name": "TV 2 Turkish",
+  "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Diyanet TV Turkish",
+  "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Al Aqsa TV",
+  "url": "https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Afghan TV",
+  "url": "https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Kazakhstan TV",
+  "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Thailand TV",
+  "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Vietnam TV",
+  "url": "http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Blue TV Brazil",
+  "url": "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Ulbra TV Brazil",
+  "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Al Rasheed TV UAE",
+  "url": "http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_source/chunks.m3u8",
+  "category": "Entertainment"
+},
+{
+  "name": "Kiss TV Poland",
+  "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8",
+  "category": "Entertainment"
+},
+
+
+
+  
 
 
 
