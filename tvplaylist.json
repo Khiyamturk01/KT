@@ -743,8 +743,12 @@
   "url": "https://bss1.neterra.tv/magictv/stream_0.m3u8",
   "category": "Music"
 },
-  
 {
+    "name": "Turkish TRT Music",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "category": "Music"
+  },
+  {
   "name": "Magic Music",
   "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
   "category": "Music"
@@ -914,33 +918,7 @@
   "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8",
   "category": "Music"
 },
-
-
-
-
-
-  
-  {
-    "name": "Russian Music",
-    "url": "https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8",
-    "category": "Music"
-  },
-    {
-    "name": "Ukrain Music",
-    "url": "https://live.m2.tv/hls3/720/stream.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Turkish TRT Music",
-    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Turkish POP Music",
-    "url": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
-    "category": "Music"
-  },
-  {
+ {
     "name": "V2 Beat",
     "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
     "category": "Music"
@@ -951,23 +929,8 @@
     "category": "Music"
   },
     {
-    "name": "Indo Music",
-    "url": "https://stream.e2is.in/hls/indoztv.m3u8",
-    "category": "Music"
-  },
-    {
     "name": "Afro Beats",
     "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Trace Hits",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "MZ Kazak Music",
-    "url": "https://hls.live.31kz.adapto.kz/muzzone/main_stream.m3u8",
     "category": "Music"
   },
   {
@@ -1016,24 +979,9 @@
     "url": "https://www.youtube.com/embed/JVocS7Yftw8",
     "category": "Music"
   },
-  {
-    "name": "Now 70's",
-    "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "Now 80's",
-    "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
-    "category": "Music"
-  },
-  {
-    "name": "NOW 90's",
-    "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
-    "category": "Music"
-  },
-    {
-    "name": "Song TV",
-    "url": "https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8",
+   {
+    "name": "Song TV Armenia",
+    "url": "https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8",
     "category": "Music"
   },
 
