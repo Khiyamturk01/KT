@@ -1,10 +1,4 @@
 [
-  {
-    "name": "Intro",
-    "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
-    "category": "News"
-  },
-
   
   {
     "name": "Al Jazeera English",
@@ -12,14 +6,6 @@
     "category": "News"
   },
 
-    {
-    "name": "IRAN  WAR ( X Space ) ",
-    "url": "https://www.youtube.com/embed/dW3ElbadGH4?si=7vrSuesdZJDe3V-t",
-    "category": "News"
-  },
-
-
-  
     {
     "name": "DW News",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
@@ -97,123 +83,6 @@
     "category": "News"
   },
 
-  
-  {
-    "name": "CNN News YT",
-    "url": "https://www.youtube.com/embed/cK5uQQf-d04?si=HsakfDqMx6HJclef",
-    "category": "News"
-  },
-    {
-    "name": "ARY News YT",
-    "url": "https://www.youtube.com/embed/vYTfRrA0rBw?si=u0v4MLCRJiINT_0A",
-    "category": "News"
-  },
-  {
-    "name": "Dunya News YT",
-    "url": "https://www.youtube.com/embed/GlHSFtTFfJE?si=KCjXEXIcP7rz1wh_",
-    "category": "News"
-  },
-  {
-    "name": "GNN News YT",
-    "url": "https://www.youtube.com/embed/8mhPYTm3kEs?si=_yb44X0amVZaH8J4",
-    "category": "News"
-  },
-    {
-    "name": "BOL News YT",
-    "url": "https://www.youtube.com/embed/4_HJbqz3KlU?si=GcSFV2HhHEbSbPBl",
-    "category": "News"
-  },
-  {
-    "name": "India Today YT",
-    "url": "https://www.youtube.com/embed/sYZtOFzM78M?si=VgaHX2pWTd8FKwGY",
-    "category": "News"
-  },
-    {
-    "name": "Fox News YT",
-    "url": "https://www.youtube.com/embed/ZvdiJUYGBis?si=h5DyGeBUKc_F8RrZ",
-    "category": "News"
-  },
-  {
-    "name": "Malayalam News YT",
-    "url": "https://www.youtube.com/embed/1wECsnGZcfc?si=CPN7Q1ALfFfnqDmQ",
-    "category": "News"
-  },
-  {
-    "name": "Malayalam News 2 YT",
-    "url": "https://www.youtube.com/embed/-8d8-c0yvyU?si=PmP6j2jhfFXqjQCC",
-    "category": "News"
-  },
-  
-  {
-    "name": "Arirang Korea YT",
-    "url": "https://www.youtube.com/embed/CJVBX7KI5nU",
-    "category": "News"
-  },
-  {
-    "name": "Turkish News YT",
-    "url": "https://www.youtube.com/embed/nmY9i63t6qo",
-    "category": "News"
-  },
-  {
-    "name": "Africa News YT",
-    "url": "https://www.youtube.com/embed/NQjabLGdP5g",
-    "category": "News"
-  },
-  {
-    "name": "ABC News YT",
-    "url": "https://www.youtube.com/embed/vOTiJkg1voo?si=021qkp8-o8aPzh-M",
-    "category": "News"
-  },
-  {
-    "name": "Singapore News YT",
-    "url": "https://www.youtube.com/embed/XWq5kBlakcQ",
-    "category": "News"
-  },
-  {
-    "name": "France News YT",
-    "url": "https://www.youtube.com/embed/Ap-UM1O9RBU",
-    "category": "News"
-  },
-  {
-    "name": "GNT News YT",
-    "url": "https://www.youtube.com/embed/MeX_7g4na3o",
-    "category": "News"
-  },
-  {
-    "name": "Lahore News YT",
-    "url": "https://www.youtube.com/embed/Tr8VGrr3sms",
-    "category": "News"
-  },
-  {
-    "name": "News 12 US YT",
-    "url": "https://www.youtube.com/embed/1GkcsMJTFiI",
-    "category": "News"
-  },
-  {
-    "name": "Venezuela News YT",
-    "url": "https://www.youtube.com/embed/qP2Gnp8I9sY",
-    "category": "News"
-  },
-  {
-    "name": "UN News YT",
-    "url": "https://www.youtube.com/embed/wfAa1GiNdgM",
-    "category": "News"
-  },
-  {
-    "name": "US News YT",
-    "url": "https://www.youtube.com/embed/vYRfQo6JMxc?si=Tbgry3pkTLYFPrmk",
-    "category": "News"
-  },
-  {
-    "name": "Japan News 2",
-    "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
-    "category": "News"
-  },
-  {
-    "name": "Korean News YT",
-    "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
-    "category": "News"
-  },
   {
     "name": "FOX News",
     "url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8",
@@ -345,6 +214,125 @@
     "category": "News"
   },
 
+
+  
+  
+  {
+    "name": "CNN News YT",
+    "url": "https://www.youtube.com/embed/cK5uQQf-d04?si=HsakfDqMx6HJclef",
+    "category": "News"
+  },
+    {
+    "name": "ARY News YT",
+    "url": "https://www.youtube.com/embed/vYTfRrA0rBw?si=u0v4MLCRJiINT_0A",
+    "category": "News"
+  },
+  {
+    "name": "Dunya News YT",
+    "url": "https://www.youtube.com/embed/GlHSFtTFfJE?si=KCjXEXIcP7rz1wh_",
+    "category": "News"
+  },
+  {
+    "name": "GNN News YT",
+    "url": "https://www.youtube.com/embed/8mhPYTm3kEs?si=_yb44X0amVZaH8J4",
+    "category": "News"
+  },
+    {
+    "name": "BOL News YT",
+    "url": "https://www.youtube.com/embed/4_HJbqz3KlU?si=GcSFV2HhHEbSbPBl",
+    "category": "News"
+  },
+  {
+    "name": "India Today YT",
+    "url": "https://www.youtube.com/embed/sYZtOFzM78M?si=VgaHX2pWTd8FKwGY",
+    "category": "News"
+  },
+    {
+    "name": "Fox News YT",
+    "url": "https://www.youtube.com/embed/ZvdiJUYGBis?si=h5DyGeBUKc_F8RrZ",
+    "category": "News"
+  },
+  {
+    "name": "Malayalam News YT",
+    "url": "https://www.youtube.com/embed/1wECsnGZcfc?si=CPN7Q1ALfFfnqDmQ",
+    "category": "News"
+  },
+  {
+    "name": "Malayalam News 2 YT",
+    "url": "https://www.youtube.com/embed/-8d8-c0yvyU?si=PmP6j2jhfFXqjQCC",
+    "category": "News"
+  },
+  
+  {
+    "name": "Arirang Korea YT",
+    "url": "https://www.youtube.com/embed/CJVBX7KI5nU",
+    "category": "News"
+  },
+  {
+    "name": "Turkish News YT",
+    "url": "https://www.youtube.com/embed/nmY9i63t6qo",
+    "category": "News"
+  },
+  {
+    "name": "Africa News YT",
+    "url": "https://www.youtube.com/embed/NQjabLGdP5g",
+    "category": "News"
+  },
+  {
+    "name": "ABC News YT",
+    "url": "https://www.youtube.com/embed/vOTiJkg1voo?si=021qkp8-o8aPzh-M",
+    "category": "News"
+  },
+  {
+    "name": "Singapore News YT",
+    "url": "https://www.youtube.com/embed/XWq5kBlakcQ",
+    "category": "News"
+  },
+  {
+    "name": "France News YT",
+    "url": "https://www.youtube.com/embed/Ap-UM1O9RBU",
+    "category": "News"
+  },
+  {
+    "name": "GNT News YT",
+    "url": "https://www.youtube.com/embed/MeX_7g4na3o",
+    "category": "News"
+  },
+  {
+    "name": "Lahore News YT",
+    "url": "https://www.youtube.com/embed/Tr8VGrr3sms",
+    "category": "News"
+  },
+  {
+    "name": "News 12 US YT",
+    "url": "https://www.youtube.com/embed/1GkcsMJTFiI",
+    "category": "News"
+  },
+  {
+    "name": "Venezuela News YT",
+    "url": "https://www.youtube.com/embed/qP2Gnp8I9sY",
+    "category": "News"
+  },
+  {
+    "name": "UN News YT",
+    "url": "https://www.youtube.com/embed/wfAa1GiNdgM",
+    "category": "News"
+  },
+  {
+    "name": "US News YT",
+    "url": "https://www.youtube.com/embed/vYRfQo6JMxc?si=Tbgry3pkTLYFPrmk",
+    "category": "News"
+  },
+  {
+    "name": "Japan News 2",
+    "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
+    "category": "News"
+  },
+  {
+    "name": "Korean News YT",
+    "url": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
+    "category": "News"
+  },
 
 
   {
