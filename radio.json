@@ -1,20 +1,290 @@
 [
   
-  {
-    "name": "Al Jazeera English",
-    "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
-    "category": "News"
+
+    {
+    "name": "Austria Music",
+    "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8",
+    "category": "Music"
+  },
+    {
+    "name": "AMC Music",
+    "url": "https://amchls.wns.live/hls/stream.m3u8",
+    "category": "Music"
   },
 
-
-
-
-
-
+    {
+    "name": "Retro Music",
+    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1694810538_b1428000.m3u8",
+    "category": "Music"
+  },
 
   {
-    "name": "NBT Shopping",
-    "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist_w499820882_b3128000.m3u8",
-    "category": "Shopping"
+  "name": "Company Music",
+  "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w1742322062_b1428000_slita.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Czech Music",
+  "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8",
+  "category": "Music"
+},
+
+  
+{
+  "name": "Tiankov Music Bulgaria",
+  "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Margo Music",
+  "url": "https://bss1.neterra.tv/magictv/stream_0.m3u8",
+  "category": "Music"
+},
+{
+    "name": "Turkish TRT Music",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "category": "Music"
+  },
+  {
+  "name": "Magic Music",
+  "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
+  "category": "Music"
+},
+{
+  "name": "USSR Music",
+  "url": "https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8",
+  "category": "Music"
+},
+
+{
+  "name": "Qoob Music",
+  "url": "https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3376765.m3u8",
+  "category": "Music"
+},
+{
+  "name": "NR Music Turkish",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Turk Tapaz",
+  "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Power Music",
+  "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8",
+  "category": "Music"
+},
+{
+  "name": "90s Rock Music",
+  "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8",
+  "category": "Music"
+},
+{
+  "name": "70s Rock Music",
+  "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/69c350ea68ebf_13018905_2603250305_1.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Magic Music",
+  "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Impact Music",
+  "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Greece Music",
+  "url": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Z Music India",
+  "url": "https://mumt03.tangotv.in/7SMUSIC/tracks-v2a1/mono.m3u8",
+  "category": "Music"
+},
+{
+  "name": "9X Jhakaas India",
+  "url": "https://cdn-3.pishow.tv/live/6/6_1.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Italy Music 40",
+  "url": "https://stream10.xdevel.com/video1s976543-1932/stream/chunks.m3u8?nimblesessionid=325687515",
+  "category": "Music"
+},
+{
+  "name": "Italy Music",
+  "url": "https://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8",
+  "category": "Music"
+},
+{
+  "name": "IBIZA Music",
+  "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1888273425.m3u8",
+  "category": "Music"
+},
+{
+  "name": "DJ Music UK",
+  "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/stream_2.m3u8",
+  "category": "Music"
+},
+{
+  "name": "VIIB Music UK",
+  "url": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Thats Rock USA",
+  "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Dee Jay Time",
+  "url": "https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3376765.m3u8",
+  "category": "Music"
+},
+{
+  "name": "E Music USA",
+  "url": "https://30a-tv.com/feeds/720p/6.m3u8",
+  "category": "Music"
+},
+
+  {
+  "name": "NR 1 Music",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8",
+  "category": "Music"
+},
+  
+{
+  "name": "B4U Music",
+  "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
+  "category": "Music"
+},
+{
+  "name": "ETV South Indian Music",
+  "url": "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Feva Music",
+  "url": "https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8",
+  "category": "Music"
+},
+
+{
+  "name": "iTV Afrobeats Music",
+  "url": "https://gg.hls2.xyz/live/AP%20AFN%20Music/chunks.m3u8",
+  "category": "Music"
+},
+{
+  "name": "iTV Arabic Music",
+  "url": "https://musichls.persiana.live/hls/stream.m3u8",
+  "category": "Music"
+  },
+  {
+  "name": "iTV Indian Music",
+  "url": "https://stream.e2is.in/hls/7xMusic.m3u8",
+  "category": "Music"
+},
+{
+  "name": "iTV Turkish Music",
+  "url": "https://gg.hls2.xyz/live/Activa%20Tv%20Honduras/chunks.m3u8",
+  "category": "Music"
+},
+{
+  "name": "iTV Persian Music",
+  "url": "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Oxygen Music",
+  "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+  "category": "Music"
+},
+{
+  "name": "Frecuencia F TV",
+  "url": "https://tv.frecuenciaf.com/live/envivo.m3u8",
+  "category": "Music"
+},
+
+  {
+  "name": "Shanson TV Music",
+  "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8",
+  "category": "Music"
+},
+ {
+    "name": "V2 Beat",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "category": "Music"
+  },
+    {
+    "name": "Persiana Music",
+    "url": "https://raphls.persiana.live/hls/stream.m3u8",
+    "category": "Music"
+  },
+    {
+    "name": "Afro Beats",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Biz Music",
+    "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Classic Arts Music",
+    "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "DBM Music",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:dbmtv/chunklist_w1492323109.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Nostalgia Music",
+    "url": "https://noshls.persiana.live/hls/stream.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Kurd Music",
+    "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Retro Music",
+    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1694810538_b1428000.m3u8",
+    "category": "Music"
+  },
+
+   {
+    "name": "Buzzr Music",
+    "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Salto Music",
+    "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8",
+    "category": "Music"
+  },
+    {
+    "name": "K POP YT",
+    "url": "https://www.youtube.com/embed/JVocS7Yftw8",
+    "category": "Music"
+  },
+   {
+    "name": "Song TV Armenia",
+    "url": "https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8",
+    "category": "Music"
   }
+
+
+
+
+
+
 ]
