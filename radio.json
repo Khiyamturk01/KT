@@ -44,7 +44,7 @@
   { "name": "SOMA 80s", "url": "http://ice6.somafm.com/u80s-256-mp3", "category": "Music" },
   { "name": "SOMA COUNTRY", "url": "http://ice2.somafm.com/bootliquor-320-mp3", "category": "Music" },
   { "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "Music" },
-  { "name": "SOMA DUB", "url": "http://ice1.somafm.com/dubstep-128-aac", "category": "Music" },
+  { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "Music" },
 
   
 
