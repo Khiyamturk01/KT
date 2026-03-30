@@ -25,7 +25,6 @@
   { "name": "HILINE CLASSICAL", "url": "http://mediaserv30.live-streams.nl:8088/live", "category": "Classical" },
   { "name": "HILINE LATIN", "url": "http://mediaserv33.live-streams.nl:8034/stream", "category": "Latin" },
   { "name": "HILINE LOUNGE", "url": "http://mediaserv33.live-streams.nl:8036/stream", "category": "Lounge" },
-
   { "name": "RADIO SINGSING", "url": "http://stream.sing-sing-bis.org:8000/singsingFlac", "category": "Jazz" },
 
   { "name": "Motherearth Flac-Lo", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth.flac-lo", "category": "Eclectic" },
@@ -46,18 +45,9 @@
   { "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "Indie" },
   { "name": "SOMA CELTIC", "url": "http://ice6.somafm.com/thistle-128-aac", "category": "Celtic" },
   { "name": "SOMA DUB", "url": "http://ice1.somafm.com/dubstep-128-aac", "category": "Dubstep" },
-  { "name": "SOMA Seven Inch Soul", "url": "http://ice4.somafm.com/7soul-128-aac", "category": "Soul" },
-
   { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "Pop" },
   { "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "Music" },
   { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "Classical" },
   { "name": "BBC Radio Fourfm", "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8", "category": "Talk" },
-  { "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "Sports" },
-
-  { "name": "BBC Radio Five Live Sports Extra", "url": "http://as-hls-uk-live.akamaized.net/pool_47700285/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8", "category": "Sports" },
-
-  { "name": "BBC 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "Alternative" },
-
-  { "name": "BBC Radio Norfolk", "url": "http://as-hls-ww-live.akamaized.net/pool_61510571/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio%3d96000.norewind.m3u8", "category": "Local" }
-
+  { "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "Sports" }
 ]
