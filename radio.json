@@ -8,7 +8,10 @@
   { "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "Music" },
   { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "Music" },
 
-   { "name": "City 1016 FM AE", "url": "https://n0a.radiojar.com/gmwyu8xdrxquv?_=96086&rj-tok=AAABnUQSRkAAyjT4ow7vgO5Suw&rj-ttl=5", "category": "Music" },
+   { "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "Music" },
+ 
+ 
+ { "name": "City 1016 FM AE", "url": "https://n0a.radiojar.com/gmwyu8xdrxquv?_=96086&rj-tok=AAABnUQSRkAAyjT4ow7vgO5Suw&rj-ttl=5", "category": "Music" },
   
   
   { "name": "Hit 96 FM AE", "url": "https://n09.radiojar.com/3yygc0pwuueuv?_=41879&rj-tok=AAABnUQOeU0AVjJ42LPtYigGWA&rj-ttl=5", "category": "Music" }, 
