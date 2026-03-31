@@ -11,7 +11,13 @@
   
   
   
-  { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
+  { "name": "Hit 96 FM", "url": "https://n09.radiojar.com/3yygc0pwuueuv?_=41879&rj-tok=AAABnUQOeU0AVjJ42LPtYigGWA&rj-ttl=5", "category": "Music" }, 
+ 
+ 
+ 
+ 
+ 
+ { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
   { "name": "RP MELLOW", "url": "http://stream.radioparadise.com/mellow-flacm", "category": "Music" },
   { "name": "RP ROCK", "url": "http://stream.radioparadise.com/rock-flacm", "category": "Music" },
   { "name": "RP MAIN", "url": "http://stream.radioparadise.com/flacm", "category": "Music" },
