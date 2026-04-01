@@ -2,15 +2,28 @@
 
  
   { "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "Music" },
+
+ 
   { "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "Music" },
-  
-  { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "Music" },
+    { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "Music" },
   { "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "Music" },
   { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "Music" },
 
-  
-  { "name": "Radio Caroline", "url": "http://78.129.202.200:8030/;", "category": "Music" },
+   { "name": "FM 101 PAK", "url": "https://vms-videos.minutemediaservices.com/01kn4d1bg3k06s3gb3py/m3u8/01kn4d1bg3k06s3gb3py_360p.m3u8", "category": "Music" },
  
+
+
+   { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064", "category": "Music" },
+
+
+
+
+
+
+
+
+
+
  
  { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
   { "name": "RP MELLOW", "url": "http://stream.radioparadise.com/mellow-flacm", "category": "Music" },
