@@ -14,6 +14,11 @@
 
    { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Music" },
 
+    { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763/;", "category": "Music" },
+
+    { "name": "Ru Test", "url": "http://a4.radioheart.io:8041/RH32763", "category": "Music" },
+
+
 
 
 
