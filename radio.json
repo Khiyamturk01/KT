@@ -9,7 +9,7 @@
   { "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "Music" },
   { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "Music" },
 
-   { "name": "FM 101 PAK", "url": "https://vms-videos.minutemediaservices.com/01kn4d1bg3k06s3gb3py/m3u8/01kn4d1bg3k06s3gb3py_360p.m3u8", "category": "Music" },
+   { "name": "FM 101 123PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Music" },
  
 
 
