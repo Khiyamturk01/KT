@@ -5,7 +5,7 @@
   { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
    { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
    { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
-    { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
+
  { "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
 { "name": "Talk 100.3", "url": "https://funasia.streamguys1.com/live13", "category": "UAE" },
 { "name": "Big FM 106.2", "url": "https://funasia.streamguys1.com/live4", "category": "UAE" },
@@ -68,7 +68,7 @@
 { "name": "Radio Lime Tamil", "url": "https://s5.radio.co/sa8b2e14b5/listen", "category": "UK" },
 { "name": "Afghan Voice Plus", "url": "https://solid41.streamupsolutions.com/proxy/lmuespnh?", "category": "UK" },
 { "name": "Afghan Voice Kabulistan", "url": "https://solid24.streamupsolutions.com/proxy/uqlpzxck?", "category": "UK" },
-{ "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
+
 { "name": "Radio Africana", "url": "https://radioafricana.radioca.st/;", "category": "UK" },
 { "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UK" },
 { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "UK" },
