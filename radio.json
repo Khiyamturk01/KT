@@ -28,6 +28,56 @@
 
 
 
+{ "name": "Legacy 90.1 FM", "url": "https://live.sarc.co.uk/listen/legacy/radio.mp3", "category": "UK" },
+{ "name": "Dance UK", "url": "https://dancestream.danceradiouk.com/stream", "category": "UK" },
+{ "name": "Box UK", "url": "https://boxstream.danceradiouk.com/stream", "category": "UK" },
+{ "name": "BritAsia Radio Punjabi", "url": "https://s4.radio.co/sfefce156f/listen", "category": "UK" },
+{ "name": "Punjab Radio", "url": "https://lunar.citrus3.com:8016/stream", "category": "UK" },
+{ "name": "Afghan Beats Radio", "url": "https://solid41.streamupsolutions.com/proxy/rvfskeow?", "category": "UK" },
+{ "name": "BBC World Service", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aksgc/bbc_world_service_news_internet.mpd", "category": "UK" },
+{ "name": "SPICE FM Hindi", "url": "https://spice988fm.radioca.st/stream", "category": "UK" },
+{ "name": "Diverse FM Hindi", "url": "https://carol.epichosts.co.uk:8570/;", "category": "UK" },
+{ "name": "Radio 4", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfsgc/bbc_radio_fourfm.mpd", "category": "UK" },
+{ "name": "Boom Radio", "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128", "category": "UK" },
+{ "name": "Boom Radio Light", "url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3", "category": "UK" },
+{ "name": "Boom Radio Rock", "url": "https://listen-boomradio.sharp-stream.com/65_boom_rock_128_mp3", "category": "UK" },
+{ "name": "Energy 106 FM", "url": "https://stream1.hippynet.co.uk/stream/energy106/Studio", "category": "UK" },
+{ "name": "Caithness FM 106.5", "url": "https://streamer.radio.co/s2b0b90cfe/listen", "category": "UK" },
+{ "name": "Centreforce 88.3 DAB", "url": "https://listen2.centreforceradio.com:8830/192", "category": "UK" },
+{ "name": "Deepness Dementia Radio", "url": "https://s3.radio.co/s6503b8fbd/listen", "category": "UK" },
+{ "name": "GB News", "url": "https://tunein.cdnstream1.com/4994_128.mp3", "category": "UK" },
+{ "name": "Greatest Hits Non-Stop", "url": "https://strw3.openstream.co/422?aw_0_1st.collectionid%3D7465%26stationId%3D7465%26publisherId%3D242%26k%3D1775128874", "category": "UK" },
+{ "name": "Islands FM 107.9", "url": "https://radio.canstream.co.uk:8040/live.mp3", "category": "UK" },
+{ "name": "Lyca Radio", "url": "https://listen-lycaradio.sharp-stream.com/1458.mp3", "category": "UK" },
+{ "name": "Lyca Gold", "url": "https://listen-lycaradio.sharp-stream.com/1035.mp3", "category": "UK" },
+{ "name": "Lyca Radio Manchester", "url": "https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3", "category": "UK" },
+{ "name": "Mi-Soul", "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_48_aac", "category": "UK" },
+{ "name": "Radio Caroline", "url": "https://stream.radiocaroline.net/rc128/;stream.mp3", "category": "UK" },
+{ "name": "Radio Caroline Flashback", "url": "https://stream.radiocaroline.net/fb128/;?", "category": "UK" },
+{ "name": "Real Roots Radio", "url": "https://streams.radio.co/s1df61e0af/listen", "category": "UK" },
+{ "name": "Unique Radio", "url": "https://securestreams.autopo.st:2530/;", "category": "UK" },
+{ "name": "Cleanzing Light Radio", "url": "https://securestreams.autopo.st:2529/cleanzinglight", "category": "UK" },
+{ "name": "Radio Insight", "url": "https://n02.radiojar.com/u77fa6dgtqzuv.m4a", "category": "UK" },
+{ "name": "Together Radio", "url": "https://n06.rcs.revma.com/293zut958yuvv?", "category": "UK" },
+{ "name": "Back2house Radio", "url": "https://back2house.radioca.st/stream", "category": "UK" },
+{ "name": "Bostin Radio", "url": "https://broadcast.shoutstream.co.uk:8044/stream", "category": "UK" },
+{ "name": "Brum Radio", "url": "https://radio.canstream.co.uk:8147/live.mp3?", "category": "UK" },
+{ "name": "Unity FM 93.5", "url": "https://audio.mixcloud.stream/secure/hls/6/8/9/9/f666-aaf7-461e-8f62-04224b5171ff-192K.m4a/streamindex-a1.m3u8", "category": "UK" },
+{ "name": "Beatles Radio", "url": "https://strw3.openstream.co/981?", "category": "UK" },
+{ "name": "Radio Lime Malayalam", "url": "https://s5.radio.co/s6e27496ef/listen", "category": "UK" },
+{ "name": "Radio Lime Tamil", "url": "https://s5.radio.co/sa8b2e14b5/listen", "category": "UK" },
+{ "name": "Afghan Voice Plus", "url": "https://solid41.streamupsolutions.com/proxy/lmuespnh?", "category": "UK" },
+{ "name": "Afghan Voice Kabulistan", "url": "https://solid24.streamupsolutions.com/proxy/uqlpzxck?", "category": "UK" },
+{ "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
+{ "name": "Radio Africana", "url": "https://radioafricana.radioca.st/;", "category": "UK" },
+
+
+
+
+ 
+
+
+
 
 
 
