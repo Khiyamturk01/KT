@@ -5,7 +5,7 @@
   { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
    { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
    { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
-
+    { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
  { "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
 { "name": "Talk 100.3", "url": "https://funasia.streamguys1.com/live13", "category": "UAE" },
 { "name": "Big FM 106.2", "url": "https://funasia.streamguys1.com/live4", "category": "UAE" },
@@ -27,7 +27,7 @@
 
 
 
-
+{ "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
 { "name": "Legacy 90.1 FM", "url": "https://live.sarc.co.uk/listen/legacy/radio.mp3", "category": "UK" },
 { "name": "Dance UK", "url": "https://dancestream.danceradiouk.com/stream", "category": "UK" },
 { "name": "Box UK", "url": "https://boxstream.danceradiouk.com/stream", "category": "UK" },
@@ -70,7 +70,12 @@
 { "name": "Afghan Voice Kabulistan", "url": "https://solid24.streamupsolutions.com/proxy/uqlpzxck?", "category": "UK" },
 { "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
 { "name": "Radio Africana", "url": "https://radioafricana.radioca.st/;", "category": "UK" },
-
+{ "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Fourfm", "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "UK" },
 
 
 
@@ -97,24 +102,21 @@
 { "name": "FM 93 Rawalpindi", "url": "https://whmsonic.radio.gov.pk:8036/relay?type=http&nocache=9", "category": "Pakistan" },
 { "name": "FM 101 Multan", "url": "https://whmsonic.radio.gov.pk:8032/stream?type=http&nocache=12", "category": "Pakistan" },
 { "name": "Chalte Chalte", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12", "category": "Pakistan" },
+   { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
+
+ 
 
 
  
-
-
  
- 
-  { "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "Music" },
-    { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "Music" },
-  { "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "Music" },
-  { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "Music" },
+
 
   
 
 
-   { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Music" },
 
-    { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "Music" },
+
+
 
 
 
@@ -164,15 +166,17 @@
   { "name": "SOMA 80s", "url": "http://ice6.somafm.com/u80s-256-mp3", "category": "Music" },
   { "name": "SOMA COUNTRY", "url": "http://ice2.somafm.com/bootliquor-320-mp3", "category": "Music" },
   { "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "Music" },
-  { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "Music" },
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "Music" }
 
   
-
-  { "name": "BBC Radio Fourfm", "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8", "category": "Talk" },
-  { "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "Sports" }
-
-
-
-
-
 ]
