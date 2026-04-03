@@ -1,113 +1,157 @@
 [
+
+ 
   { "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "UAE" },
-  { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763/;", "category": "UAE" },
-  { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
-  { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
-  { "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
-  { "name": "Talk 100.3", "url": "https://funasia.streamguys1.com/live13", "category": "UAE" },
-  { "name": "Big FM 106.2", "url": "https://funasia.streamguys1.com/live4", "category": "UAE" },
-  { "name": "Channel 4 FM 104.8", "url": "https://streams.radio.co/sce558c2e6/listen", "category": "UAE" },
-  { "name": "Al Khaleejiya 100.9 FM", "url": "https://n0d.radiojar.com/5wpf9e4erxquv?_=527307&rj-tok=AAABnUyBRpAAShTXVcuksuzn4w&rj-ttl=5", "category": "UAE" },
-  { "name": "Mirchi FM 102.4", "url": "https://28573.live.streamtheworld.com/DUB_HIN_GST.mp3", "category": "UAE" },
-  { "name": "Al Rabia FM 107.8", "url": "https://s2.radio.co/s770fa24b6/listen", "category": "UAE" },
-  { "name": "Radio Kerala", "url": "https://ice31.securenetsystems.net/RADIOKERAL", "category": "UAE" },
-  { "name": "Tamil FM 89.4", "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream", "category": "UAE" },
-  { "name": "Radio Khushi 92.2 FM", "url": "https://centova.aarenworld.com/proxy/radiokushi/stream", "category": "UAE" },
-  { "name": "Volna 103.2 FM", "url": "https://de1.streamingpulse.com/ssl/radiovolna", "category": "UAE" },
-  { "name": "Sky News Arabia FM 90.5", "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia", "category": "UAE" },
-  { "name": "RAK Radio", "url": "https://stream.chiliradio.app/gulfradio", "category": "UAE" },
-  { "name": "RAK Radio Gold", "url": "https://stream.chiliradio.app/rakgold", "category": "UAE" },
+  { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
+   { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
+   { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
 
-  { "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
-  { "name": "Legacy 90.1 FM", "url": "https://live.sarc.co.uk/listen/legacy/radio.mp3", "category": "UK" },
-  { "name": "Dance UK", "url": "https://dancestream.danceradiouk.com/stream", "category": "UK" },
-  { "name": "Box UK", "url": "https://boxstream.danceradiouk.com/stream", "category": "UK" },
-  { "name": "BritAsia Radio Punjabi", "url": "https://s4.radio.co/sfefce156f/listen", "category": "UK" },
-  { "name": "Punjab Radio", "url": "https://lunar.citrus3.com:8016/stream/;", "category": "UK" },
-  { "name": "Afghan Beats Radio", "url": "https://solid41.streamupsolutions.com/proxy/rvfskeow?", "category": "UK" },
-  { "name": "BBC World Service", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aksgc/bbc_world_service_news_internet.mpd", "category": "UK" },
-  { "name": "SPICE FM Hindi", "url": "https://spice988fm.radioca.st/stream", "category": "UK" },
-  { "name": "Diverse FM Hindi", "url": "https://carol.epichosts.co.uk:8570/;", "category": "UK" },
-  { "name": "Radio 4", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfsgc/bbc_radio_fourfm.mpd", "category": "UK" },
-  { "name": "Boom Radio", "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128", "category": "UK" },
-  { "name": "Boom Radio Light", "url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3", "category": "UK" },
-  { "name": "Boom Radio Rock", "url": "https://listen-boomradio.sharp-stream.com/65_boom_rock_128_mp3", "category": "UK" },
-  { "name": "Energy 106 FM", "url": "https://stream1.hippynet.co.uk/stream/energy106/Studio", "category": "UK" },
-  { "name": "Caithness FM 106.5", "url": "https://streamer.radio.co/s2b0b90cfe/listen", "category": "UK" },
-  { "name": "Centreforce 88.3 DAB", "url": "https://listen2.centreforceradio.com:8830/192/;", "category": "UK" },
-  { "name": "Deepness Dementia Radio", "url": "https://s3.radio.co/s6503b8fbd/listen", "category": "UK" },
-  { "name": "GB News", "url": "https://tunein.cdnstream1.com/4994_128.mp3", "category": "UK" },
-  { "name": "Greatest Hits Non-Stop", "url": "https://strw3.openstream.co/422?aw_0_1st.collectionid%3D7465%26stationId%3D7465%26publisherId%3D242%26k%3D1775128874", "category": "UK" },
-  { "name": "Islands FM 107.9", "url": "https://radio.canstream.co.uk:8040/live.mp3/;", "category": "UK" },
-  { "name": "Lyca Radio", "url": "https://listen-lycaradio.sharp-stream.com/1458.mp3", "category": "UK" },
-  { "name": "Lyca Gold", "url": "https://listen-lycaradio.sharp-stream.com/1035.mp3", "category": "UK" },
-  { "name": "Lyca Radio Manchester", "url": "https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3", "category": "UK" },
-  { "name": "Mi-Soul", "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_48_aac", "category": "UK" },
-  { "name": "Radio Caroline", "url": "https://stream.radiocaroline.net/rc128/;stream.mp3", "category": "UK" },
-  { "name": "Radio Caroline Flashback", "url": "https://stream.radiocaroline.net/fb128/;?", "category": "UK" },
-  { "name": "Real Roots Radio", "url": "https://streams.radio.co/s1df61e0af/listen", "category": "UK" },
-  { "name": "Unique Radio", "url": "https://securestreams.autopo.st:2530/;", "category": "UK" },
-  { "name": "Cleanzing Light Radio", "url": "https://securestreams.autopo.st:2529/cleanzinglight/;", "category": "UK" },
-  { "name": "Radio Insight", "url": "https://n02.radiojar.com/u77fa6dgtqzuv.m4a", "category": "UK" },
-  { "name": "Together Radio", "url": "https://n06.rcs.revma.com/293zut958yuvv?", "category": "UK" },
-  { "name": "Back2house Radio", "url": "https://back2house.radioca.st/stream", "category": "UK" },
-  { "name": "Bostin Radio", "url": "https://broadcast.shoutstream.co.uk:8044/stream/;", "category": "UK" },
-  { "name": "Brum Radio", "url": "https://radio.canstream.co.uk:8147/live.mp3?;", "category": "UK" },
-  { "name": "Unity FM 93.5", "url": "https://audio.mixcloud.stream/secure/hls/6/8/9/9/f666-aaf7-461e-8f62-04224b5171ff-192K.m4a/streamindex-a1.m3u8", "category": "UK" },
-  { "name": "Beatles Radio", "url": "https://strw3.openstream.co/981?", "category": "UK" },
-  { "name": "Radio Lime Malayalam", "url": "https://s5.radio.co/s6e27496ef/listen", "category": "UK" },
-  { "name": "Radio Lime Tamil", "url": "https://s5.radio.co/sa8b2e14b5/listen", "category": "UK" },
-  { "name": "Afghan Voice Plus", "url": "https://solid41.streamupsolutions.com/proxy/lmuespnh?", "category": "UK" },
-  { "name": "Afghan Voice Kabulistan", "url": "https://solid24.streamupsolutions.com/proxy/uqlpzxck?", "category": "UK" },
-  { "name": "Radio Africana", "url": "https://radioafricana.radioca.st/;", "category": "UK" },
-  { "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UK" },
-  { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "UK" },
-  { "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "UK" },
-  { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "UK" },
-  { "name": "BBC Radio Fourfm", "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8", "category": "UK" },
-  { "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "UK" },
+ { "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
+{ "name": "Talk 100.3", "url": "https://funasia.streamguys1.com/live13", "category": "UAE" },
+{ "name": "Big FM 106.2", "url": "https://funasia.streamguys1.com/live4", "category": "UAE" },
+{ "name": "Channel 4 FM 104.8", "url": "https://streams.radio.co/sce558c2e6/listen", "category": "UAE" },
+{ "name": "Al Khaleejiya 100.9 FM", "url": "https://n0d.radiojar.com/5wpf9e4erxquv?_=527307&rj-tok=AAABnUyBRpAAShTXVcuksuzn4w&rj-ttl=5", "category": "UAE" },
+{ "name": "Mirchi FM 102.4", "url": "https://28573.live.streamtheworld.com/DUB_HIN_GST.mp3", "category": "UAE" },
+{ "name": "Al Rabia FM 107.8", "url": "https://s2.radio.co/s770fa24b6/listen", "category": "UAE" },
+{ "name": "Radio Kerala", "url": "https://ice31.securenetsystems.net/RADIOKERAL", "category": "UAE" },
+{ "name": "Tamil FM 89.4", "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream", "category": "UAE" },
+{ "name": "Radio Khushi 92.2 FM", "url": "https://centova.aarenworld.com/proxy/radiokushi/stream", "category": "UAE" },
+{ "name": "Volna 103.2 FM", "url": "https://de1.streamingpulse.com/ssl/radiovolna", "category": "UAE" },
+{ "name": "Sky News Arabia FM 90.5", "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia", "category": "UAE" },
+{ "name": "RAK Radio", "url": "https://stream.chiliradio.app/gulfradio", "category": "UAE" },
+{ "name": "RAK Radio Gold", "url": "https://stream.chiliradio.app/rakgold", "category": "UAE" },
 
-  { "name": "City FM 89", "url": "https://radio.cityfm89.com/stream", "category": "Pakistan" },
-  { "name": "Jeay FM 88", "url": "https://ssl.rockhost.com/proxy/sukkur?mp=/stream", "category": "Pakistan" },
-  { "name": "Hot Fm", "url": "https://cc.vmakerhost.com/proxy/sc_khi1?mp=/stream", "category": "Pakistan" },
-  { "name": "Hum FM 106", "url": "https://server.mediacast4u.stream/8002/stream/;", "category": "Pakistan" },
-  { "name": "Mera FM", "url": "https://samaalhr107-itelservices.radioca.st/stream", "category": "Pakistan" },
-  { "name": "Radio FM World", "url": "https://stream.zeno.fm/tty4gmu30ehvv", "category": "Pakistan" },
-  { "name": "Radio Karachi FM 96", "url": "https://cast5.asurahosting.com/proxy/imran/stream", "category": "Pakistan" },
-  { "name": "Shopen Anime Radio", "url": "https://s97.radiolize.com:8040/radio.mp3/;", "category": "Pakistan" },
-  { "name": "FM 101 Islamabad", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12;", "category": "Pakistan" },
-  { "name": "Planet FM 87.6", "url": "https://whmsonic.radio.gov.pk:7042/stream?type=http&nocache=12;", "category": "Pakistan" },
-  { "name": "Hyderabad MW 1008KHz", "url": "https://whmsonic.radio.gov.pk:8042/stream?type=http&nocache=12;", "category": "Pakistan" },
-  { "name": "FM 101 Abbotabad", "url": "https://whmsonic.radio.gov.pk:8064/relay?type=http&nocache=9;", "category": "Pakistan" },
-  { "name": "FM 101 Mirpur", "url": "https://whmsonic.radio.gov.pk:8078/relay?type=http&nocache=9;", "category": "Pakistan" },
-  { "name": "FM 93 Rawalpindi", "url": "https://whmsonic.radio.gov.pk:8036/relay?type=http&nocache=9;", "category": "Pakistan" },
-  { "name": "FM 101 Multan", "url": "https://whmsonic.radio.gov.pk:8032/stream?type=http&nocache=12;", "category": "Pakistan" },
-  { "name": "Chalte Chalte", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12;", "category": "Pakistan" },
-  { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
 
-  { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
+
+
+
+
+
+{ "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
+{ "name": "Legacy 90.1 FM", "url": "https://live.sarc.co.uk/listen/legacy/radio.mp3", "category": "UK" },
+{ "name": "Dance UK", "url": "https://dancestream.danceradiouk.com/stream", "category": "UK" },
+{ "name": "Box UK", "url": "https://boxstream.danceradiouk.com/stream", "category": "UK" },
+{ "name": "BritAsia Radio Punjabi", "url": "https://s4.radio.co/sfefce156f/listen", "category": "UK" },
+{ "name": "Punjab Radio", "url": "https://lunar.citrus3.com:8016/stream", "category": "UK" },
+{ "name": "Afghan Beats Radio", "url": "https://solid41.streamupsolutions.com/proxy/rvfskeow?", "category": "UK" },
+{ "name": "BBC World Service", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aksgc/bbc_world_service_news_internet.mpd", "category": "UK" },
+{ "name": "SPICE FM Hindi", "url": "https://spice988fm.radioca.st/stream", "category": "UK" },
+{ "name": "Diverse FM Hindi", "url": "https://carol.epichosts.co.uk:8570/;", "category": "UK" },
+{ "name": "Radio 4", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfsgc/bbc_radio_fourfm.mpd", "category": "UK" },
+{ "name": "Boom Radio", "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128", "category": "UK" },
+{ "name": "Boom Radio Light", "url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3", "category": "UK" },
+{ "name": "Boom Radio Rock", "url": "https://listen-boomradio.sharp-stream.com/65_boom_rock_128_mp3", "category": "UK" },
+{ "name": "Energy 106 FM", "url": "https://stream1.hippynet.co.uk/stream/energy106/Studio", "category": "UK" },
+{ "name": "Caithness FM 106.5", "url": "https://streamer.radio.co/s2b0b90cfe/listen", "category": "UK" },
+{ "name": "Centreforce 88.3 DAB", "url": "https://listen2.centreforceradio.com:8830/192", "category": "UK" },
+{ "name": "Deepness Dementia Radio", "url": "https://s3.radio.co/s6503b8fbd/listen", "category": "UK" },
+{ "name": "GB News", "url": "https://tunein.cdnstream1.com/4994_128.mp3", "category": "UK" },
+{ "name": "Greatest Hits Non-Stop", "url": "https://strw3.openstream.co/422?aw_0_1st.collectionid%3D7465%26stationId%3D7465%26publisherId%3D242%26k%3D1775128874", "category": "UK" },
+{ "name": "Islands FM 107.9", "url": "https://radio.canstream.co.uk:8040/live.mp3", "category": "UK" },
+{ "name": "Lyca Radio", "url": "https://listen-lycaradio.sharp-stream.com/1458.mp3", "category": "UK" },
+{ "name": "Lyca Gold", "url": "https://listen-lycaradio.sharp-stream.com/1035.mp3", "category": "UK" },
+{ "name": "Lyca Radio Manchester", "url": "https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3", "category": "UK" },
+{ "name": "Mi-Soul", "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_48_aac", "category": "UK" },
+{ "name": "Radio Caroline", "url": "https://stream.radiocaroline.net/rc128/;stream.mp3", "category": "UK" },
+{ "name": "Radio Caroline Flashback", "url": "https://stream.radiocaroline.net/fb128/;?", "category": "UK" },
+{ "name": "Real Roots Radio", "url": "https://streams.radio.co/s1df61e0af/listen", "category": "UK" },
+{ "name": "Unique Radio", "url": "https://securestreams.autopo.st:2530/;", "category": "UK" },
+{ "name": "Cleanzing Light Radio", "url": "https://securestreams.autopo.st:2529/cleanzinglight", "category": "UK" },
+{ "name": "Radio Insight", "url": "https://n02.radiojar.com/u77fa6dgtqzuv.m4a", "category": "UK" },
+{ "name": "Together Radio", "url": "https://n06.rcs.revma.com/293zut958yuvv?", "category": "UK" },
+{ "name": "Back2house Radio", "url": "https://back2house.radioca.st/stream", "category": "UK" },
+{ "name": "Bostin Radio", "url": "https://broadcast.shoutstream.co.uk:8044/stream", "category": "UK" },
+{ "name": "Brum Radio", "url": "https://radio.canstream.co.uk:8147/live.mp3?", "category": "UK" },
+{ "name": "Unity FM 93.5", "url": "https://audio.mixcloud.stream/secure/hls/6/8/9/9/f666-aaf7-461e-8f62-04224b5171ff-192K.m4a/streamindex-a1.m3u8", "category": "UK" },
+{ "name": "Beatles Radio", "url": "https://strw3.openstream.co/981?", "category": "UK" },
+{ "name": "Radio Lime Malayalam", "url": "https://s5.radio.co/s6e27496ef/listen", "category": "UK" },
+{ "name": "Radio Lime Tamil", "url": "https://s5.radio.co/sa8b2e14b5/listen", "category": "UK" },
+{ "name": "Afghan Voice Plus", "url": "https://solid41.streamupsolutions.com/proxy/lmuespnh?", "category": "UK" },
+{ "name": "Afghan Voice Kabulistan", "url": "https://solid24.streamupsolutions.com/proxy/uqlpzxck?", "category": "UK" },
+
+{ "name": "Radio Africana", "url": "https://radioafricana.radioca.st/;", "category": "UK" },
+{ "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Two", "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Fourfm", "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8", "category": "UK" },
+{ "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "UK" },
+
+
+
+ 
+
+
+
+
+
+
+ { "name": "City FM 89", "url": "https://radio.cityfm89.com/stream", "category": "Pakistan" },
+{ "name": "Jeay FM 88", "url": "https://ssl.rockhost.com/proxy/sukkur?mp=/stream", "category": "Pakistan" },
+{ "name": "Hot Fm", "url": "https://cc.vmakerhost.com/proxy/sc_khi1?mp=/stream", "category": "Pakistan" },
+{ "name": "Hum FM 106", "url": "https://server.mediacast4u.stream/8002/stream", "category": "Pakistan" },
+{ "name": "Mera FM", "url": "https://samaalhr107-itelservices.radioca.st/stream", "category": "Pakistan" },
+{ "name": "Radio FM World", "url": "https://stream.zeno.fm/tty4gmu30ehvv", "category": "Pakistan" },
+{ "name": "Radio Karachi FM 96", "url": "https://cast5.asurahosting.com/proxy/imran/stream", "category": "Pakistan" },
+{ "name": "Shopen Anime Radio", "url": "https://s97.radiolize.com:8040/radio.mp3", "category": "Pakistan" },
+{ "name": "FM 101 Islamabad", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12", "category": "Pakistan" },
+{ "name": "Planet FM 87.6", "url": "https://whmsonic.radio.gov.pk:7042/stream?type=http&nocache=12", "category": "Pakistan" },
+{ "name": "Hyderabad MW 1008KHz", "url": "https://whmsonic.radio.gov.pk:8042/stream?type=http&nocache=12", "category": "Pakistan" },
+{ "name": "FM 101 Abbotabad", "url": "https://whmsonic.radio.gov.pk:8064/relay?type=http&nocache=9", "category": "Pakistan" },
+{ "name": "FM 101 Mirpur", "url": "https://whmsonic.radio.gov.pk:8078/relay?type=http&nocache=9", "category": "Pakistan" },
+{ "name": "FM 93 Rawalpindi", "url": "https://whmsonic.radio.gov.pk:8036/relay?type=http&nocache=9", "category": "Pakistan" },
+{ "name": "FM 101 Multan", "url": "https://whmsonic.radio.gov.pk:8032/stream?type=http&nocache=12", "category": "Pakistan" },
+{ "name": "Chalte Chalte", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12", "category": "Pakistan" },
+   { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
+
+ 
+
+
+ 
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
   { "name": "RP MELLOW", "url": "http://stream.radioparadise.com/mellow-flacm", "category": "Music" },
   { "name": "RP ROCK", "url": "http://stream.radioparadise.com/rock-flacm", "category": "Music" },
   { "name": "RP MAIN", "url": "http://stream.radioparadise.com/flacm", "category": "Music" },
   { "name": "RP BEYOND", "url": "http://stream.radioparadise.com/beyond-flacm", "category": "Music" },
   { "name": "Radio Paradise 2050", "url": "http://stream.radioparadise.com/radio2050-flacm", "category": "Music" },
   { "name": "Radio Paradise Serenity", "url": "http://stream.radioparadise.com/serenity", "category": "Music" },
-  { "name": "NEW CLEAR RADIO", "url": "http://live.ncradio.fm/320/;", "category": "Music" },
+  { "name": "NEW CLEAR RADIO", "url": "http://live.ncradio.fm/320", "category": "Music" },
   { "name": "NME 1", "url": "http://listen-nme.sharp-stream.com/nme1high.mp3", "category": "Music" },
   { "name": "NME 2", "url": "http://listen-nme.sharp-stream.com/nme2high.mp3", "category": "Music" },
-  { "name": "timewarp ireland", "url": "http://141.94.205.245:8052/stream/;", "category": "Music" },
-  { "name": "JB Radio 2", "url": "http://161.97.135.80:8001/flac/;", "category": "Music" },
-  { "name": "Naim Radio Flac", "url": "http://mscp3.live-streams.nl:8360/flac.flac/;", "category": "Music" },
+  { "name": "timewarp ireland", "url": "http://141.94.205.245:8052/stream", "category": "Music" },
+  { "name": "JB Radio 2", "url": "http://161.97.135.80:8001/flac", "category": "Music" },
+  { "name": "Naim Radio Flac", "url": "http://mscp3.live-streams.nl:8360/flac.flac", "category": "Music" },
   { "name": "Radio Caroline", "url": "http://78.129.202.200:8030/;", "category": "Music" },
-  { "name": "Linn Radio", "url": "http://radio.linn.co.uk:8003/stream/;", "category": "Music" },
-  { "name": "HILINE FLAC", "url": "http://mscp2.live-streams.nl:8100/flac.flac/;", "category": "Music" },
-  { "name": "HILINE POP", "url": "http://mediaserv30.live-streams.nl:8086/live/;", "category": "Music" },
-  { "name": "HILINE WORLD", "url": "http://mediaserv38.live-streams.nl:8027/live/;", "category": "Music" },
-  { "name": "HILINE GOLD", "url": "http://mediaserv30.live-streams.nl:8000/live/;", "category": "Music" },
-  { "name": "HILINE CLASSICAL", "url": "http://mediaserv30.live-streams.nl:8088/live/;", "category": "Music" },
-  { "name": "HILINE LATIN", "url": "http://mediaserv33.live-streams.nl:8034/stream/;", "category": "Music" },
-  { "name": "HILINE LOUNGE", "url": "http://mediaserv33.live-streams.nl:8036/stream/;", "category": "Music" },
-  { "name": "RADIO SINGSING", "url": "http://stream.sing-sing-bis.org:8000/singsingFlac/;", "category": "Music" },
+  { "name": "Linn Radio", "url": "http://radio.linn.co.uk:8003/stream", "category": "Music" },
+  { "name": "HILINE FLAC", "url": "http://mscp2.live-streams.nl:8100/flac.flac", "category": "Music" },
+  { "name": "HILINE POP", "url": "http://mediaserv30.live-streams.nl:8086/live", "category": "Music" },
+  { "name": "HILINE WORLD", "url": "http://mediaserv38.live-streams.nl:8027/live", "category": "Music" },
+  { "name": "HILINE GOLD", "url": "http://mediaserv30.live-streams.nl:8000/live", "category": "Music" },
+  { "name": "HILINE CLASSICAL", "url": "http://mediaserv30.live-streams.nl:8088/live", "category": "Music" },
+  { "name": "HILINE LATIN", "url": "http://mediaserv33.live-streams.nl:8034/stream", "category": "Music" },
+  { "name": "HILINE LOUNGE", "url": "http://mediaserv33.live-streams.nl:8036/stream", "category": "Music" },
+  { "name": "RADIO SINGSING", "url": "http://stream.sing-sing-bis.org:8000/singsingFlac", "category": "Music" },
   { "name": "Motherearth Flac-Lo", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth.flac-lo", "category": "Music" },
   { "name": "Motherearth 192", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth", "category": "Music" },
   { "name": "Mother Earth Instrumental", "url": "https://stream.motherearthradio.de/listen/motherearth/instrumental.flac", "category": "Music" },
@@ -123,5 +167,16 @@
   { "name": "SOMA COUNTRY", "url": "http://ice2.somafm.com/bootliquor-320-mp3", "category": "Music" },
   { "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "Music" },
   
-  { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "Music" }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "Music" }
+
+  
 ]
