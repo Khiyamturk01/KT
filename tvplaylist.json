@@ -989,6 +989,236 @@
 
 
 
+  [
+  {
+    "name": "The Voice TV",
+    "url": "https://bss1.neterra.tv/thevoice/stream_0.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Balle Balle Punjabi",
+    "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Melody Hits Hindi",
+    "url": "https://mumt03.tangotv.in/MELODYHITS/tracks-v2a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "PTC Punjabi",
+    "url": "https://cdn-1.pishow.tv/live/449/449_1.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "PTC 2 Punjabi",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_4.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Punjabi Hits",
+    "url": "https://stream.ottlive.co.in/punjabihits/tracks-v1a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "4 Kurd Music",
+    "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "7 Radio Vision",
+    "url": "https://stream10.xdevel.com/video1s976543-1932/stream/chunks.m3u8?nimblesessionid=341679683",
+    "category": "Music"
+  },
+  {
+    "name": "7 You & Me",
+    "url": "https://stream10.xdevel.com/video0s977798-2239/stream/chunks.m3u8?nimblesessionid=341680460",
+    "category": "Music"
+  },
+  {
+    "name": "7S Music Tamil",
+    "url": "https://mumt03.tangotv.in/7SMUSIC/tracks-v2a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "9X Jalwa",
+    "url": "https://mumt03.tangotv.in/9XJALWA/tracks-v2a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "13 Festival",
+    "url": "https://dai.google.com/linear/hls/pa/event/Nftd0fM2SXasfDlRphvUsg/stream/c028d67a-27d5-4450-a140-12c14757b613:ATL/variant/e5d224becd47a9ed79d9ffe5db8ccf26/bandwidth/5205702.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "15+ Russia Music",
+    "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d_output_0.m3u8?session=meXdVRzkjRozWbHw9PokUJ",
+    "category": "Music"
+  },
+  {
+    "name": "51 Radio Music",
+    "url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1755791953.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "70-80 Music",
+    "url": "https://585b674743bbb.streamlock.net/9050/9050/chunklist_w121241109.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Arabiv Music",
+    "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index_6.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Active Music",
+    "url": "https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8?tkn=2035353272",
+    "category": "Music"
+  },
+  {
+    "name": "Afrobeats",
+    "url": "https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Aghani Music",
+    "url": "https://cdn.streamlane.tv/hls/aghanitv/1_0/index.m3u8?tkn=3408504126",
+    "category": "Music"
+  },
+  {
+    "name": "Deep House Music",
+    "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w1474208380.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Dance Music",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "California Music",
+    "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist1080_p.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Deluxe Dance",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/69d070b76e4e3_13358807_2604040200_1.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Tamil Music",
+    "url": "https://segment.yuppcdn.net/140622/isaiaruvi/140622/isaiaruvi_1800/chunks.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Kpop Music",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Now Rock",
+    "url": "https://lightning-now90s-rakuten.amagi.tv/playlist1080.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "N1 Music",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "N1 Dance",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "N1 Damar",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/chunklist.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Expres Music",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+    "category": "Music"
+  },
+  {
+    "name": "Malayalam Music India",
+    "url": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/tracks-v2a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Kannada Music India",
+    "url": "https://mumt01.tangotv.in/RAJMUSIXKANDA/tracks-v2a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Telugu Music India",
+    "url": "https://cdn-1.pishow.tv/live/1213/1213_1.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Bhojpuri Music India",
+    "url": "https://cdn-4.pishow.tv/live/1293/1293_1.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Marathi Music India",
+    "url": "https://cdn-3.pishow.tv/live/1229/1229_1.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Tunes Tamil India",
+    "url": "https://stream.d6-pro.com/tunes6music/live/tracks-v1a1/mono.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Vaanavil Tamil India",
+    "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Zoom Music",
+    "url": "https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/3e554169-9e90-4130-9cda-e217687c11df:GRQ/variant/b747bf7f16eca8387cf3b154486dd818/bandwidth/1628000.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Steelmird Music",
+    "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Retro Music",
+    "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1798598926.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Rock TV",
+    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "RTL Italy",
+    "url": "https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Total Dance",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8",
+    "category": "Music"
+  },
+  {
+    "name": "Tropical Music",
+    "url": "https://59a564764e2b6.streamlock.net/vallenato/tropical/chunklist_w607387835.m3u8",
+    "category": "Music"
+  },
+
+
+
+
+    
+
+
+
+
 
 
 
