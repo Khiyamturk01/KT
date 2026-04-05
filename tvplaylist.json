@@ -2060,20 +2060,107 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    [
+  {
+    "name": "ACCDN UK",
+    "url": "https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ACI Sports Italy",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=n5q8VER9rpVu24967o3LXJ",
+    "category": "Sports"
+  },
+  {
+    "name": "Africa 24",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1067246909.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "https://famelack.com/tv/sports/hliOSpRjIJIon0",
+    "url": "https://famelack.com/tv/sports/hliOSpRjIJIon0",
+    "category": "Sports"
+  },
+  {
+    "name": "Bahrain Sports 1",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w41741044_b1307000.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "FB Sports",
+    "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1696000_sltur.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Fight Network CAN",
+    "url": "https://a-cdn.klowdtv.com/live2/fight_720p/chunks.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "GEM FIT",
+    "url": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
+    "category": "Sports"
+  },
+  {
+    "name": "Hard Knock",
+    "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/2ab24abe-fdde-4ef0-90c7-80b948cb0f86/0.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Kuwait Sports",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Oman Sports",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Persiana Fight",
+    "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "PGA Tour",
+    "url": "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist_1920x1080.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "PRO Sports",
+    "url": "https://proshls.wns.live/hls/stream.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "TR Sports",
+    "url": "https://livetr.teleromagna.it/mia/live/live/mia480/chunks.m3u8?nimblesessionid=147478162",
+    "category": "Sports"
+  },
+  {
+    "name": "ESPN 8",
+    "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/41633ba3-b243-4b47-af8e-af779758d848/3.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Unbeaten Sports",
+    "url": "https://d1t5afz6qed3xk.cloudfront.net/480p-vtt/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Vital Drive",
+    "url": "https://tv.a21network.ru/content/37909/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Russia 5 Sports",
+    "url": "https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w502244289_b1010000_sleng.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "A Sports Turkiya YT",
+    "url": "https://www.youtube.com/embed/mgeW8Qm8-SY?si=yNZFs6k-s4JJrzE4",
+    "category": "Sports"
+  },
 
 
 
