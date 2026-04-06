@@ -1,12 +1,11 @@
 [
 
  
-  { "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "UAE" },
-  { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
-   { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
-   { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
-
- { "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
+{ "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "UAE" },
+{ "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
+{ "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
+{ "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
+{ "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
 { "name": "Talk 100.3", "url": "https://funasia.streamguys1.com/live13", "category": "UAE" },
 { "name": "Big FM 106.2", "url": "https://funasia.streamguys1.com/live4", "category": "UAE" },
 { "name": "Channel 4 FM 104.8", "url": "https://streams.radio.co/sce558c2e6/listen", "category": "UAE" },
@@ -18,7 +17,6 @@
 { "name": "Radio Khushi 92.2 FM", "url": "https://centova.aarenworld.com/proxy/radiokushi/stream", "category": "UAE" },
 { "name": "Volna 103.2 FM", "url": "https://de1.streamingpulse.com/ssl/radiovolna", "category": "UAE" },
 { "name": "Sky News Arabia FM 90.5", "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia", "category": "UAE" },
- 
 { "name": "Dubai 92.0", "url": "https://n08.radiojar.com/6ty5rrkerxquv?_=143554&rj-tok=AAABnWEn6LQAmIanZFaZKCamdg&rj-ttl=5", "category": "UAE" },
 { "name": "Virgin Radio 104.4", "url": "https://n0c.radiojar.com/nhq0vcqwuueuv?_=350670&rj-tok=AAABnWEjNKwA3C9NG2rVxnV-sw&rj-ttl=5", "category": "UAE" },
 { "name": "Dubai Eye 103.8", "url": "https://n01.radiojar.com/shcthrfbsxquv?_=199079&rj-tok=AAABnWEl4twAF0Gf1cB_iHiCMg&rj-ttl=5", "category": "UAE" },
@@ -69,7 +67,6 @@
 { "name": "Radio Lime Tamil", "url": "https://s5.radio.co/sa8b2e14b5/listen", "category": "UK" },
 { "name": "Afghan Voice Plus", "url": "https://solid41.streamupsolutions.com/proxy/lmuespnh?", "category": "UK" },
 { "name": "Afghan Voice Kabulistan", "url": "https://solid24.streamupsolutions.com/proxy/uqlpzxck?", "category": "UK" },
-
 { "name": "Radio Africana", "url": "https://radioafricana.radioca.st/;", "category": "UK" },
 { "name": "BBC Radio 6 Music", "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UK" },
 { "name": "BBC Radio One", "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8", "category": "UK" },
@@ -77,10 +74,6 @@
 { "name": "BBC Radio Three", "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8", "category": "UK" },
 { "name": "BBC Radio Fourfm", "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8", "category": "UK" },
 { "name": "BBC Radio Five Live", "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8", "category": "UK" },
-
-
-
- 
 
 
 
@@ -105,23 +98,30 @@
 { "name": "Chalte Chalte", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12", "category": "Pakistan" },
    { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
 
- 
 
 
  
- 
 
 
-  
-
-
-
-
-
-
-
-
-
+ [
+  { "name": "FM 24", "url": "https://streamasiacdn.atc-labs.com/24network.aac", "category": "India" },
+  { "name": "Radio Manavracha", "url": "https://streamasiacdn.atc-labs.com/manavrachna.aac", "category": "India" },
+  { "name": "Inner Voice FM", "url": "https://d1ns0xege3ef9w.cloudfront.net/niscortradio.m3u8", "category": "India" },
+  { "name": "Hindi Tarang", "url": "https://a1.asurahosting.com/listen/hindi_tarang/radio.mp3", "category": "India" },
+  { "name": "Radio Retro Bollywood", "url": "https://stream.radio.co/sf55ced545/listen", "category": "India" },
+  { "name": "BBM Radio", "url": "https://gains.reviveradio.net/proxy/bbmradio/stream", "category": "India" },
+  { "name": "Global FM 92.3", "url": "https://centova71.instainternet.com/proxy/globalfm?mp=/stream", "category": "India" },
+  { "name": "Hits Of Asha Bhosle", "url": "https://stream-161.zeno.fm/qd0ddu5qrdktv?", "category": "India" },
+  { "name": "Hits Of Bollywood", "url": "https://stream-165.zeno.fm/q9xkvxc2tfeuv?", "category": "India" },
+  { "name": "Desi World Radio", "url": "https://stream-154.zeno.fm/4mbfcn4mf24tv?", "category": "India" },
+  { "name": "Radi Maharani", "url": "https://streamasiacdn.atc-labs.com/radiomaharani.aac", "category": "India" },
+  { "name": "Radio Manavrachna 107.8 FM", "url": "https://streamasiacdn.atc-labs.com/manavrachna.aac", "category": "India" },
+  { "name": "Divine FM", "url": "https://phoebe.streamerr.co:1470/;stream.mp3", "category": "India" },
+  { "name": "Vani Radio", "url": "https://cast6.asurahosting.com/proxy/vaniradi/stream", "category": "India" },
+  { "name": "Kodai City FM", "url": "https://strw3.openstream.co/786?aw_0_1st.collectionid%3D6812%26stationId%3D6812%26publisherId%3D810%26k%3D1775461800", "category": "India" },
+  { "name": "Vaigai FM", "url": "https://cast1.my-control-panel.com/proxy/geethan3/stream?t=1775461750546", "category": "India" },
+  { "name": "Maha FM", "url": "https://cast6.asurahosting.com/proxy/vaniradi/stream", "category": "India" },
+  { "name": "Radio Haryanvi", "url": "https://listen.weareharyanvi.com/listen", "category": "India" },
 
 
 
@@ -169,11 +169,8 @@
   { "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "Music" },
   
  
- 
- 
- 
- 
- 
+  
+  
  
  
  
