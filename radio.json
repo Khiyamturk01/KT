@@ -123,7 +123,40 @@
   { "name": "Radio Haryanvi", "url": "https://listen.weareharyanvi.com/listen", "category": "India" },
 
 
+ 
 
+
+
+{ "name": "Love Radio FM 90.7", "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3", "category": "Philippines" },
+{ "name": "Monster BT105.9", "url": "https://in-icecast.eradioportal.com:8443/rxcebu", "category": "Philippines" },
+{ "name": "Monster RX93.1", "url": "https://in-icecast.eradioportal.com:8443/monsterrrx", "category": "Philippines" },
+{ "name": "Yes! FM 101.1", "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3", "category": "Philippines" },
+{ "name": "Pines FM Bataraza", "url": "https://broadcast.shoutcheap.com/proxy/morong/stream", "category": "Philippines" },
+{ "name": "POP Radio", "url": "https://broadcast.shoutcheap.com/proxy/morong/stream", "category": "Philippines" },
+{ "name": "Radio NE FM 100.3", "url": "https://broadcast.shoutcheap.com/proxy/morong/stream", "category": "Philippines" },
+{ "name": "Star FM 102.7", "url": "https://stream-141.zeno.fm/536cwdq78heuv?", "category": "Philippines" },
+{ "name": "Y 101 FM", "url": "https://us1.amfmph.com/ssl/y101cebu?mp=/stream", "category": "Philippines" },
+{ "name": "101.7 Your Love FM", "url": "https://chloreign.com/listen/sanibpwersa/radio.mp3", "category": "Philippines" },
+{ "name": "105.7 Love Radio Roxas", "url": "https://loveradioroxas.radioca.st/;", "category": "Philippines" },
+{ "name": "90.7 Love Radio Laoag", "url": "https://loveradiolaoag.radioca.st/;", "category": "Philippines" },
+{ "name": "91.1 Love Radio", "url": "https://lovetacloban.radioca.st/;", "category": "Philippines" },
+{ "name": "91.5 Yes The Best Cebu", "url": "https://yesfmcebu.radioca.st/;", "category": "Philippines" },
+{ "name": "94.1 Love Radio Tuguegarao", "url": "https://lovetuguegarao.radioca.st/;", "category": "Philippines" },
+{ "name": "96.3 WRocK", "url": "https://wrockceb-iradioph.radioca.st/;", "category": "Philippines" },
+{ "name": "97.5 Love Radio Iloilo", "url": "https://loveradioiloilo.radioca.st/;", "category": "Philippines" },
+{ "name": "97.9 Love Radio Cebu", "url": "https://loveradiocebu.radioca.st/;", "category": "Philippines" },
+{ "name": "99.3 Yes The Best Iligan", "url": "https://yesfmiligan.radioca.st/;", "category": "Philippines" },
+{ "name": "DWWW AM 774", "url": "https://stream-164.zeno.fm/8v95b64qbxquv?", "category": "Philippines" },
+{ "name": "KISS FM 102.7", "url": "https://sc.kissfmkilig.net/proxy/kissfmkilig/stream", "category": "Philippines" },
+{ "name": "Love Radio 90.7 FM Davao City", "url": "https://loveradiodavao.radioca.st/;", "category": "Philippines" },
+{ "name": "Yes the Best 106.3", "url": "https://yesfmdumaguete.radioca.st/;", "category": "Philippines" },
+
+
+ 
+
+
+
+ 
 
 
 
