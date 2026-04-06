@@ -159,7 +159,7 @@
 
 
 { "name": "Radio Mega Mix", "url": "https://c36.radioboss.fm:8135/stream", "category": "Japan" },
-{ "name": "Listen MOE", "url": "https://listen.moe/fallback", "category": "Japan" },
+{ "name": "Listen MOE", "url": "https://listen.moe/stream", "category": "Japan" },
 { "name": "RAD IO", "url": "https://stream.r-a-d.io/main.mp3", "category": "Japan" },
 { "name": "NFRS Radio", "url": "https://securestreams.autopo.st:2592/stream", "category": "Japan" },
 { "name": "Nonstop Casiopea", "url": "https://nonstopcasiopea.radioca.st/;", "category": "Japan" },
