@@ -20,8 +20,11 @@
 { "name": "Sky News Arabia FM 90.5", "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia", "category": "UAE" },
 { "name": "RAK Radio", "url": "https://stream.chiliradio.app/gulfradio", "category": "UAE" },
 { "name": "RAK Radio Gold", "url": "https://stream.chiliradio.app/rakgold", "category": "UAE" },
-
-
+ 
+{ "name": "Dubai 92.0", "url": "https://n08.radiojar.com/6ty5rrkerxquv?_=143554&rj-tok=AAABnWEn6LQAmIanZFaZKCamdg&rj-ttl=5", "category": "UAE" },
+{ "name": "Virgin Radio 104.4", "url": "https://n0c.radiojar.com/nhq0vcqwuueuv?_=350670&rj-tok=AAABnWEjNKwA3C9NG2rVxnV-sw&rj-ttl=5", "category": "UAE" },
+{ "name": "Dubai Eye 103.8", "url": "https://n01.radiojar.com/shcthrfbsxquv?_=199079&rj-tok=AAABnWEl4twAF0Gf1cB_iHiCMg&rj-ttl=5", "category": "UAE" },
+{ "name": "Hit 96.7", "url": "https://n12.radiojar.com/3yygc0pwuueuv?_=829236&rj-tok=AAABnWE0BikADOb6jcsGSKcV1A&rj-ttl=5", "category": "UAE" },
 
 
 
