@@ -1,10 +1,8 @@
 [
 
-{ "name": "BBC Radio 6 Music", "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UK" },
- 
-{ "name": "TestE", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_6music.mpd", "category": "UAE" },
- 
- { "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "UAE" },
+{ "name": "BBC Radio 6 Music", "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UAE" },
+  
+{ "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "UAE" },
 { "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
 { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
 { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
@@ -25,8 +23,8 @@
 { "name": "Dubai Eye 103.8", "url": "https://n01.radiojar.com/shcthrfbsxquv?_=199079&rj-tok=AAABnWEl4twAF0Gf1cB_iHiCMg&rj-ttl=5", "category": "UAE" },
 { "name": "Hit 96.7", "url": "https://n12.radiojar.com/3yygc0pwuueuv?_=829236&rj-tok=AAABnWE0BikADOb6jcsGSKcV1A&rj-ttl=5", "category": "UAE" },
 
+ 
 { "name": "CNN News", "url": "https://tunein.cdnstream1.com/3519_96.mp3?", "category": "UK" },
-
 
 { "name": "Truckers FM", "url": "https://live.truckers.fm/", "category": "UK" },
 { "name": "Legacy 90.1 FM", "url": "https://live.sarc.co.uk/listen/legacy/radio.mp3", "category": "UK" },
