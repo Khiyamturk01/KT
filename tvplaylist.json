@@ -1266,11 +1266,6 @@
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8",
     "category": "Entertainment"
   },
-    {
-    "name": "OMID Iran",
-    "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8",
-    "category": "Entertainment"
-  },
   {
     "name": "Roar TV",
     "url": "https://fast-channels.sinclairstoryline.com/TBD/index_1.m3u8",
@@ -1309,11 +1304,6 @@
   {
     "name": "Persiana Plus",
     "url": "https://euhls.persiana.live/hls/stream.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Latino TV",
-    "url": "https://latinohls.persiana.live/hls/stream.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1392,36 +1382,6 @@
     "category": "Entertainment"
   },
   {
-    "name": "Aspire TV",
-    "url": "https://fl3.moveonjoy.com/Aspire/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "BBC America",
-    "url": "https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "BET HER",
-    "url": "https://fl3.moveonjoy.com/BET_HER/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Buzzr TV",
-    "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Demand Africa",
-    "url": "https://demandafrica-xumo-us.amagi.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "EL East",
-    "url": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Electric Now",
     "url": "https://elec-en.otteravision.com/elec/en/elec_en.m3u8",
     "category": "Entertainment"
@@ -1442,18 +1402,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Global World TV",
-    "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Holly Wire",
     "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "ITV Life",
-    "url": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1462,33 +1412,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "ION TV",
-    "url": "https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Life Time TV",
-    "url": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "MBC Persia",
     "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "MTV 2",
-    "url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Iran Namayesh TV",
-    "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Oxygen TV",
-    "url": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8",
     "category": "Entertainment"
   },
   {
@@ -1497,23 +1422,8 @@
     "category": "Entertainment"
   },
   {
-    "name": "Popstar TV",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Right Now TV",
     "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
-    "category": "Entertainment"
-  },
-  {
-    "name": "Wipeout Xtra",
-    "url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Sindh TV",
-    "url": "https://stream717.duckdns.org/hls/stream1.m3u8",
     "category": "Entertainment"
   },
  {
@@ -1554,11 +1464,6 @@
  {
     "name": "Revry TV",
     "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Shots! UK",
-    "url": "https://live-nationalworld-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/shotstv-live/index.m3u8",
     "category": "Entertainment"
   },
  {
@@ -1807,11 +1712,6 @@
     "category": "Sports"
   },
   {
-    "name": "MAV",
-    "url": "https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8",
-    "category": "Sports"
-  },
-  {
     "name": "MAV 2",
     "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
     "category": "Sports"
@@ -1824,11 +1724,6 @@
   {
     "name": "Poker TV",
     "url": "https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Racing US",
-    "url": "https://livetv-fa.tubi.video/racing-america/playlist.m3u8",
     "category": "Sports"
   },
   {
@@ -1919,11 +1814,6 @@
   {
     "name": "Tennis+",
     "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Fox Sports 1",
-    "url": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
     "category": "Sports"
   },
   {
