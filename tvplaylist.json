@@ -20,9 +20,7 @@
 
     { "name": "DW News", "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8", "category": "News" },
 
- 
-
-  {
+   {
     "name": "Sky News",
     "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8",
     "category": "News"
@@ -51,17 +49,17 @@
     "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
     "category": "News"
   },
-  
-  {
+    {
+    "name": "TRT News",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8",
+    "category": "News"
+  },
+    {
     "name": "AL Jazeera YT",
     "url": "https://www.youtube.com/embed/gCNeDWCI0vo",
     "category": "News"
   },
-  {
-    "name": "TRT News YT",
-    "url": "https://www.youtube.com/embed/ABfFhWzWs0s?si=nQn6VXu2kOafz0h9",
-    "category": "News"
-  },
+
   {
     "name": "France News YT",
     "url": "https://www.youtube.com/embed/Ap-UM1O9RBU?si=l0huz6xfa8zM30OU",
@@ -212,13 +210,7 @@
   },
 
 
-  
-  
-  {
-    "name": "CNN News YT",
-    "url": "https://www.youtube.com/embed/cK5uQQf-d04?si=HsakfDqMx6HJclef",
-    "category": "News"
-  },
+
     {
     "name": "ARY News YT",
     "url": "https://www.youtube.com/embed/vYTfRrA0rBw?si=u0v4MLCRJiINT_0A",
@@ -231,7 +223,7 @@
   },
   {
     "name": "GNN News YT",
-    "url": "https://www.youtube.com/embed/8mhPYTm3kEs?si=_yb44X0amVZaH8J4",
+    "url": "https://www.youtube.com/embed/Pzv58lUgiVo?si=FeXF-1jQ8lEAiBpg",
     "category": "News"
   },
     {
@@ -244,11 +236,7 @@
     "url": "https://www.youtube.com/embed/sYZtOFzM78M?si=VgaHX2pWTd8FKwGY",
     "category": "News"
   },
-    {
-    "name": "Fox News YT",
-    "url": "https://www.youtube.com/embed/ZvdiJUYGBis?si=h5DyGeBUKc_F8RrZ",
-    "category": "News"
-  },
+
   {
     "name": "Malayalam News YT",
     "url": "https://www.youtube.com/embed/1wECsnGZcfc?si=CPN7Q1ALfFfnqDmQ",
@@ -291,23 +279,13 @@
     "category": "News"
   },
   {
-    "name": "GNT News YT",
-    "url": "https://www.youtube.com/embed/MeX_7g4na3o",
-    "category": "News"
-  },
-  {
     "name": "Lahore News YT",
-    "url": "https://www.youtube.com/embed/Tr8VGrr3sms",
+    "url": "https://www.youtube.com/embed/oNmpw-x06dY?si=7uK-9oluhFZ-L2Qz",
     "category": "News"
   },
   {
     "name": "News 12 US YT",
-    "url": "https://www.youtube.com/embed/1GkcsMJTFiI",
-    "category": "News"
-  },
-  {
-    "name": "Venezuela News YT",
-    "url": "https://www.youtube.com/embed/qP2Gnp8I9sY",
+    "url": "https://www.youtube.com/embed/JEtvLd4B-AY?si=70wSlAzOD1p_nSDG",
     "category": "News"
   },
   {
@@ -2204,11 +2182,6 @@
     "url": "https://live20.bozztv.com/dvrfl06/astv/astv-actionhd/index.m3u8",
     "category": "Movies"
   },
-  {
-    "name": "ME TV 1",
-    "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8",
-    "category": "Movies"
-  },
  {
     "name": "Aflam",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
@@ -2267,11 +2240,6 @@
  {
     "name": "Discover Film",
     "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Dunia Sinema",
-    "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
     "category": "Movies"
   },
  {
@@ -2359,21 +2327,6 @@
     "url": "http://194.143.148.28:8080/KINEKO/index.m3u8",
     "category": "Movies"
   },
- {
-    "name": "Lifetime Movies East",
-    "url": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "MGM+ Marquee",
-    "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "Movie Box",
-    "url": "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8",
-    "category": "Movies"
-  },
 {
     "name": "Movies Action",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
@@ -2382,11 +2335,6 @@
 {
     "name": "Movies Thrille",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "Movies!",
-    "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8",
     "category": "Movies"
   },
 {
@@ -2412,21 +2360,6 @@
 {
     "name": "MyTime Movie Spain",
     "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "NETV Toronto",
-    "url": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "OuterMax East",
-    "url": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "Paramount Network",
-    "url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
     "category": "Movies"
   },
 {
@@ -2489,34 +2422,14 @@
     "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
     "category": "Movies"
   },
-    {
-    "name": "Anteena TV",
-    "url": "https://fl3.moveonjoy.com/Antenna_TV/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "Sundance TV East",
-    "url": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
-    "category": "Movies"
-  },
    {
     "name": "ION TV",
     "url": "https://fl3.moveonjoy.com/ION_TV/index.m3u8",
     "category": "Movies"
   },
  {
-    "name": "ION Plus",
-    "url": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8",
-    "category": "Movies"
-  },
- {
     "name": "Grit",
     "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Grit Xtra",
-    "url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
     "category": "Movies"
   },
  {
@@ -2723,11 +2636,6 @@
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
     "category": "Science & Nature"
   },
-    {
-    "name": "TLC Turk",
-    "url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
-    "category": "Science & Nature"
-  },
   {
     "name": "EBS Korea",
     "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8",
@@ -2806,11 +2714,6 @@
   {
     "name": "In Travel",
     "url": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
-    "category": "Science & Nature"
-  },
-  {
-    "name": "Mr. Beast",
-    "url": "https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8",
     "category": "Science & Nature"
   },
   {
