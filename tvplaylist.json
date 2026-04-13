@@ -434,12 +434,6 @@
     "category": "Kids"
   },
   {
-    "name": "Space Toon AE",
-    "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1804416525_b1296000_slAR.m3u8",
-    "category": "Kids"
-  },
-
-  {
     "name": "ESports Kids",
     "url": "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
     "category": "Kids"
@@ -477,11 +471,6 @@
     "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8",
     "category": "Kids"
   },
-    {
-    "name": "Koogi TV",
-    "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
-    "category": "Kids"
-  },
   {
     "name": "Kuriakos Kids",
     "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
@@ -495,11 +484,6 @@
   {
     "name": "MBC KSA Kids",
     "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
-    "category": "Kids"
-  },
-  {
-    "name": "Nick Jr",
-    "url": "https://fl3.moveonjoy.com/NICK_JR/index.m3u8",
     "category": "Kids"
   },
   {
@@ -558,11 +542,6 @@
     "category": "Kids"
   },
   {
-    "name": "Teen Nick",
-    "url": "https://fl3.moveonjoy.com/Teen_Nick/index.m3u8",
-    "category": "Kids"
-  },
-  {
     "name": "TRT Cocuk",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
     "category": "Kids"
@@ -580,11 +559,6 @@
   {
     "name": "ZB Cartoon",
     "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "category": "Kids"
-  },
-    {
-    "name": "MUP Cartoon",
-    "url": "https://fl1003.bozztv.com/ushba80/tracks-v1a1/mono.m3u8",
     "category": "Kids"
   },
 
@@ -625,11 +599,6 @@
     "category": "Religion"
   },
   {
-    "name": "Eman TV",
-    "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
-    "category": "Religion"
-  },
-  {
     "name": "Madani Channel ENG",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
     "category": "Religion"
@@ -645,18 +614,8 @@
     "category": "Religion"
   },
   {
-    "name": "Deen TV",
-    "url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8",
-    "category": "Religion"
-  },
-  {
     "name": "iON TV",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8",
-    "category": "Religion"
-  },
-  {
-    "name": "Iqra TV",
-    "url": "https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8",
     "category": "Religion"
   },
   {
@@ -664,16 +623,7 @@
     "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
     "category": "Religion"
   },
-  {
-    "name": "Takbeer TV",
-    "url": "https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8",
-    "category": "Religion"
-  },
-  {
-    "name": "Iman TV",
-    "url": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8",
-    "category": "Religion"
-  },
+
 
 
 
@@ -750,12 +700,6 @@
   "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
   "category": "Music"
 },
-{
-  "name": "USSR Music",
-  "url": "https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8",
-  "category": "Music"
-},
-
 {
   "name": "Qoob Music",
   "url": "https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3376765.m3u8",
@@ -858,12 +802,6 @@
   "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8",
   "category": "Music"
 },
-  
-{
-  "name": "B4U Music",
-  "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
-  "category": "Music"
-},
 {
   "name": "ETV South Indian Music",
   "url": "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
@@ -872,12 +810,6 @@
 {
   "name": "Feva Music",
   "url": "https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8",
-  "category": "Music"
-},
-
-{
-  "name": "iTV Afrobeats Music",
-  "url": "https://gg.hls2.xyz/live/AP%20AFN%20Music/chunks.m3u8",
   "category": "Music"
 },
 {
@@ -896,22 +828,11 @@
   "category": "Music"
 },
 {
-  "name": "iTV Persian Music",
-  "url": "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8",
-  "category": "Music"
-},
-{
   "name": "Oxygen Music",
   "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
   "category": "Music"
 },
 {
-  "name": "Frecuencia F TV",
-  "url": "https://tv.frecuenciaf.com/live/envivo.m3u8",
-  "category": "Music"
-},
-
-  {
   "name": "Shanson TV Music",
   "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8",
   "category": "Music"
@@ -961,12 +882,6 @@
     "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1694810538_b1428000.m3u8",
     "category": "Music"
   },
-
-   {
-    "name": "Buzzr Music",
-    "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
-    "category": "Music"
-  },
   {
     "name": "Salto Music",
     "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8",
@@ -975,11 +890,6 @@
     {
     "name": "K POP YT",
     "url": "https://www.youtube.com/embed/JVocS7Yftw8",
-    "category": "Music"
-  },
-   {
-    "name": "Song TV Armenia",
-    "url": "https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8",
     "category": "Music"
   },
 
@@ -1203,11 +1113,6 @@
     "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8",
     "category": "Music"
   },
-  {
-    "name": "Tropical Music",
-    "url": "https://59a564764e2b6.streamlock.net/vallenato/tropical/chunklist_w607387835.m3u8",
-    "category": "Music"
-  },
 
 
 
@@ -1301,23 +1206,13 @@
     "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
     "category": "Entertainment"
   },
-    {
-    "name": "E24",
-    "url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
-    "category": "Entertainment"
-  },
- {
-    "name": "Just for Laughs",
-    "url": "https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8",
-    "category": "Entertainment"
-  },
   {
     "name": "YAAAS!",
     "url": "https://jmp2.uk/sam-GB340000289.m3u8",
     "category": "Entertainment"
   },
     {
-    "name": "Iran Tv",
+    "name": "PBC Tv",
     "url": "https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8",
     "category": "Entertainment"
   },
@@ -1347,11 +1242,6 @@
     "category": "Entertainment"
   },
   {
-    "name": "SS TV",
-    "url": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
-    "category": "Entertainment"
-  },
-  {
     "name": "Nepal TV",
     "url": "https://streaming.tvnepal.com:19360/capitaltv/1080p.m3u8",
     "category": "Entertainment"
@@ -1362,7 +1252,7 @@
     "category": "Entertainment"
   },
   {
-    "name": "Kazakhstan TV",
+    "name": "Kazakhstan TV 1",
     "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8",
     "category": "Entertainment"
   },
@@ -1749,11 +1639,6 @@
 {
   "name": "Afghan TV",
   "url": "https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8",
-  "category": "Entertainment"
-},
-{
-  "name": "Kazakhstan TV",
-  "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8",
   "category": "Entertainment"
 },
 {
