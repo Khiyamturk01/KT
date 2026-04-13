@@ -1762,11 +1762,6 @@
     "category": "Sports"
   },
  {
-    "name": "T Sports",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
-    "category": "Sports"
-  },
- {
     "name": "W Free Sports",
     "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
     "category": "Sports"
@@ -1840,7 +1835,7 @@
   },
   {
     "name": "ACI Sports Italy",
-    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=n5q8VER9rpVu24967o3LXJ",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8",
     "category": "Sports"
   },
   {
@@ -2026,11 +2021,6 @@
 },
 
 
-
-
-  
-
-
   
 {
   "name": "Sony One Hits Action",
@@ -2095,16 +2085,6 @@
   "category": "Movies"
 },
 {
-  "name": "Paramount Channel",
-  "url": "https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8",
-  "category": "Movies"
-},
-{
-  "name": "Rakuten Top Movies UK",
-  "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-",
-  "category": "Movies"
-},
-{
   "name": "24 Hours Movies",
   "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
   "category": "Movies"
@@ -2130,31 +2110,6 @@
   "category": "Movies"
 },
 {
-  "name": "Hallmark Movies",
-  "url": "https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
-  "category": "Movies"
-},
-{
-  "name": "J Movie",
-  "url": "http://103.140.254.2:3500/live/417.m3u8",
-  "category": "Movies"
-},
-{
-  "name": "Lifetime Movies East",
-  "url": "https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
-  "category": "Movies"
-},
-{
-  "name": "Maha Movie",
-  "url": "https://cdn-6.pishow.tv/live/10007/master.m3u8",
-  "category": "Movies"
-},
-{
-  "name": "Movie Box",
-  "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
-  "category": "Movies"
-},
-{
   "name": "T2 Movies Farsi",
   "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8",
   "category": "Movies"
@@ -2169,29 +2124,6 @@
   "url": "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
   "category": "Movies"
 },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   
 
@@ -2241,19 +2173,10 @@
     "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
     "category": "Movies"
   },
- {
-    "name": "Nobel Movies",
-    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
-    "category": "Movies"
-  },
+
  {
     "name": "Aflam",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Aflam HD",
-    "url": "https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8",
     "category": "Movies"
   },
    {
@@ -2276,11 +2199,6 @@
     "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
     "category": "Movies"
   },
-    {
-    "name": "Grit TV",
-    "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
-    "category": "Movies"
-  },
  {
     "name": "Action TV",
     "url": "https://live20.bozztv.com/dvrfl06/astv/astv-actionhd/index.m3u8",
@@ -2292,23 +2210,8 @@
     "category": "Movies"
   },
  {
-    "name": "Nobel Movies",
-    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
-    "category": "Movies"
-  },
- {
     "name": "Aflam",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "AMC East",
-    "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "AMC Europe",
-    "url": "http://vegafibratv.com:8085/AMC/index.m3u8",
     "category": "Movies"
   },
  {
@@ -2329,26 +2232,6 @@
  {
     "name": "AXN Asia",
     "url": "http://125hvt.ddns.net:21585/axn/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Black Cinema",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9",
-    "category": "Movies"
-  },
- {
-    "name": "BOLT",
-    "url": "http://95.142.88.250:80/Bolt/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Bom Cine",
-    "url": "http://185.189.225.150:85/BOM/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Bravo Farsi",
-    "url": "https://bravoohls.wns.live/hls/stream.m3u8",
     "category": "Movies"
   },
  {
@@ -2382,21 +2265,6 @@
     "category": "Movies"
   },
  {
-    "name": "Cosmos TV",
-    "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Crave 2",
-    "url": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Crave 4",
-    "url": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8",
-    "category": "Movies"
-  },
- {
     "name": "Discover Film",
     "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
     "category": "Movies"
@@ -2424,11 +2292,6 @@
  {
     "name": "Feniks Plus Kino",
     "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "FXM East",
-    "url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
     "category": "Movies"
   },
  {
@@ -2468,12 +2331,7 @@
   },
  {
     "name": "Hallmark Movies",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a",
-    "category": "Movies"
-  },
- {
-    "name": "Hallmark Movies Mysteries",
-    "url": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8",
     "category": "Movies"
   },
  {
@@ -2497,58 +2355,13 @@
     "category": "Movies"
   },
  {
-    "name": "Jiangxi Movie",
-    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8",
-    "category": "Movies"
-  },
- {
     "name": "Kineko",
     "url": "http://194.143.148.28:8080/KINEKO/index.m3u8",
     "category": "Movies"
   },
  {
-    "name": "Kino TV",
-    "url": "https://vod.tuva.ru/kinotv/index.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Kuriakos Cine",
-    "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
-    "category": "Movies"
-  },
- {
     "name": "Lifetime Movies East",
     "url": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "Maah TV",
-    "url": "https://hls.maahtv.live/hls/stream.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Made In Hollywood",
-    "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
-    "category": "Movies"
-  },
- {
-    "name": "Maverick Black Cinema",
-    "url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
-    "category": "Movies"
-  }, 
-{
-    "name": "MBC 2",
-    "url": "https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "MBC Bollywood",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
-    "category": "Movies"
-  },
-{
-    "name": "MGM+ East",
-    "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
     "category": "Movies"
   },
 {
