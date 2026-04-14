@@ -125,6 +125,40 @@
 { "name": "Chalte Chalte", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12", "category": "Pakistan" },
    { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
 
+
+
+
+
+{ "name": "Dost FM", "url": "https://dost.stream.emsal.im/fm/", "category": "Türkiye" },
+{ "name": "Radyo 100.4 FM", "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio", "category": "Türkiye" },
+{ "name": "Radyo FM 103.1", "url": "https://stream3.radyoodtu.com.tr:8000/canli;", "category": "Türkiye" },
+{ "name": "Radio 95.1 FM", "url": "https://sslyayin.netyayin.net/1215/tempo", "category": "Türkiye" },
+{ "name": "Radyo FM 92.2", "url": "https://stream2.rtvtakip.com:7005/;stream.mp3", "category": "Türkiye" },
+{ "name": "Sahin FM 104", "url": "https://yayin2.canliyayin.org:7200/1", "category": "Türkiye" },
+{ "name": "Sarsikla FM 105.4", "url": "https://radyo.yayin.com.tr:5858/stream", "category": "Türkiye" },
+{ "name": "Slow Turk", "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk", "category": "Türkiye" },
+{ "name": "TRT FM", "url": "https://trt.radyotvonline.net/trtfm", "category": "Türkiye" },
+{ "name": "Aksaray FM 99.5", "url": "https://sssx.radyosfer.com/aksarayfm/stream//;", "category": "Türkiye" },
+{ "name": "Bogazlyan FM 100.1", "url": "https://radyo.radyoimza.com:8008/stream/;", "category": "Türkiye" },
+{ "name": "Alem FM 89.2", "url": "https://turkmedya.radyotvonline.net/alemfmaac", "category": "Türkiye" },
+{ "name": "Arabesk FM", "url": "https://yayin.arabeskfm.biz:8042/stream/;", "category": "Türkiye" },
+{ "name": "Damar Turk FM", "url": "https://live.radyositesihazir.com/7000/stream", "category": "Türkiye" },
+{ "name": "Gozde FM 92.2", "url": "https://gozdefm.80.yayin.com.tr/stream/1/", "category": "Türkiye" },
+{ "name": "Gun FM", "url": "https://ssl120.radyotelekom.com.tr/8130/stream", "category": "Türkiye" },
+{ "name": "Harran FM 107", "url": "https://dinle.harranfm.com/8026/stream", "category": "Türkiye" },
+{ "name": "Imbar FM 90.0", "url": "https://radyo.medyahost.com.tr:8034/;", "category": "Türkiye" },
+{ "name": "Joy Turk FM 89.0", "url": "https://25453.live.streamtheworld.com/JOY_TURKAAC.aac", "category": "Türkiye" },
+{ "name": "Kupe FM 89.7", "url": "https://icecast.netmedya.net/kupefm", "category": "Türkiye" },
+{ "name": "Mega FM 97.7", "url": "https://dinle.megaradyoiskenderun.com/8024/stream", "category": "Türkiye" },
+{ "name": "Olay FM 93.5", "url": "https://netyayin.jsproduksiyon.com:9010/olayfm", "category": "Türkiye" },
+{ "name": "Power FM 100", "url": "https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio", "category": "Türkiye" },
+{ "name": "Power Turk Taptaze", "url": "https://listen.powerapp.com.tr/powerturktaptaze/mpeg/icecast.audio", "category": "Türkiye" },
+{ "name": "Radyo 89.0 FM", "url": "https://yayin.turkhosted.com:6012/;", "category": "Türkiye" },
+
+
+
+  
+
  
 
 
