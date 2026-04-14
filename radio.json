@@ -284,6 +284,36 @@
 
 
 
+
+
+
+
+{ "name": "ABC News", "url": "[https://abc.streamguys1.com/live/newsradio/icecast.audio](https://abc.streamguys1.com/live/newsradio/icecast.audio)", "category": "Australia" },
+{ "name": "105.7 ABC", "url": "[https://abc.streamguys1.com/live/localdarwin/icecast.audio](https://abc.streamguys1.com/live/localdarwin/icecast.audio)", "category": "Australia" },
+{ "name": "2GB 873", "url": "[https://23153.live.streamtheworld.com/2GB.mp3](https://23153.live.streamtheworld.com/2GB.mp3)", "category": "Australia" },
+{ "name": "4BC 882", "url": "[https://14533.live.streamtheworld.com/4BC_O_ADP.aac](https://14533.live.streamtheworld.com/4BC_O_ADP.aac)", "category": "Australia" },
+{ "name": "4zzz 102 FM", "url": "[https://iheart.4zzz.org.au/4zzz](https://iheart.4zzz.org.au/4zzz)", "category": "Australia" },
+{ "name": "96 FM", "url": "[https://28893.live.streamtheworld.com/ARN_96FMAAC.aac](https://28893.live.streamtheworld.com/ARN_96FMAAC.aac)", "category": "Australia" },
+{ "name": "FM 100.5", "url": "[https://abc.streamguys1.com/live/localadelaide/icecast.audio](https://abc.streamguys1.com/live/localadelaide/icecast.audio)", "category": "Australia" },
+{ "name": "FM 97.3", "url": "[https://tls1.coastdev.net/coast-mp3](https://tls1.coastdev.net/coast-mp3)", "category": "Australia" },
+{ "name": "Fresh FM 92.7", "url": "[https://live.fresh927.com.au/freshaac](https://live.fresh927.com.au/freshaac)", "category": "Australia" },
+{ "name": "Kiss FM 87.8", "url": "[https://s9.nexuscast.com:9565/kissfm.aac](https://s9.nexuscast.com:9565/kissfm.aac)", "category": "Australia" },
+{ "name": "FM 101.3", "url": "[https://memphis.radioca.st/](https://memphis.radioca.st/);", "category": "Australia" },
+{ "name": "Nova FM 100.3", "url": "[https://23193.live.streamtheworld.com/NOVA_100_AAC48.aac](https://23193.live.streamtheworld.com/NOVA_100_AAC48.aac)", "category": "Australia" },
+{ "name": "Nova 96.9", "url": "[https://28893.live.streamtheworld.com/NOVA_969_AAC320.aac](https://28893.live.streamtheworld.com/NOVA_969_AAC320.aac)", "category": "Australia" },
+{ "name": "Nova FM 106.9", "url": "[https://28893.live.streamtheworld.com/NOVA_1069_AAC48.aac](https://28893.live.streamtheworld.com/NOVA_1069_AAC48.aac)", "category": "Australia" },
+{ "name": "Nova FM 93.7", "url": "[https://28863.live.streamtheworld.com/NOVA_937_AAC48.aac](https://28863.live.streamtheworld.com/NOVA_937_AAC48.aac)", "category": "Australia" },
+{ "name": "Outback Radio 2WEB", "url": "[https://ssl1.viastreaming.net:7230/stream](https://ssl1.viastreaming.net:7230/stream)", "category": "Australia" },
+{ "name": "PBS FM 106.7", "url": "[https://14533.live.streamtheworld.com/3PBS_FMAACHIGH.aac](https://14533.live.streamtheworld.com/3PBS_FMAACHIGH.aac)", "category": "Australia" },
+{ "name": "RRR FM 102.7", "url": "[https://realtime.rrr.org.au/p13](https://realtime.rrr.org.au/p13)", "category": "Australia" },
+{ "name": "RTR 92.1 FM", "url": "[https://live.rtrfm.com.au/stream1](https://live.rtrfm.com.au/stream1)", "category": "Australia" },
+{ "name": "Sunshine 98.5 FM", "url": "[https://28803.live.streamtheworld.com/6SONAAC.aac](https://28803.live.streamtheworld.com/6SONAAC.aac)", "category": "Australia" },
+
+
+  
+
+
+
   
  { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
   { "name": "RP MELLOW", "url": "http://stream.radioparadise.com/mellow-flacm", "category": "Music" },
