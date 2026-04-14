@@ -3,13 +3,14 @@
 { "name": "BBC Radio 6 Music", "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8", "category": "UAE" },
   
 { "name": "KADAK FM AE", "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/kadak/kadak_hls_nd/index_kadakfm_video_enc_360p25.m3u8", "category": "UAE" },
-{ "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
 { "name": "Gold 101.3 FM UAE", "url": "https://stream.radio.co/s00240810b/listen", "category": "UAE" },
+{ "name": "JEI FM Malayalam", "url": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1", "category": "UAE" },
 { "name": "Radio 4 89.1 FM UAE", "url": "https://stream.radio.co/s6004eac2f/listen", "category": "UAE" },
 { "name": "Luv FM 107.1", "url": "https://funasia.streamguys1.com/live2?_ic2=1773251995892", "category": "UAE" },
 { "name": "Talk 100.3", "url": "https://funasia.streamguys1.com/live13", "category": "UAE" },
 { "name": "Big FM 106.2", "url": "https://funasia.streamguys1.com/live4", "category": "UAE" },
 { "name": "Channel 4 FM 104.8", "url": "https://streams.radio.co/sce558c2e6/listen", "category": "UAE" },
+{ "name": "Russian Emirates AE", "url": "http://a4.radioheart.io:8041/RH32763", "category": "UAE" },
 { "name": "Al Khaleejiya 100.9 FM", "url": "https://n0d.radiojar.com/5wpf9e4erxquv?_=527307&rj-tok=AAABnUyBRpAAShTXVcuksuzn4w&rj-ttl=5", "category": "UAE" },
 { "name": "Mirchi FM 102.4", "url": "https://28573.live.streamtheworld.com/DUB_HIN_GST.mp3", "category": "UAE" },
 { "name": "Al Rabia FM 107.8", "url": "https://s2.radio.co/s770fa24b6/listen", "category": "UAE" },
@@ -221,7 +222,7 @@
 { "name": "FM99.1", "url": "https://lhttp.qingting.fm/live/20160/64k.mp3", "category": "China" },
 
 
-{ "name": "JEI FM", "url": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1", "category": "Malaysia" },
+
 { "name": "Ai FM 89.3", "url": "https://22283.live.streamtheworld.com/AI_FMAAC.aac", "category": "Malaysia" },
 { "name": "Asyik FM", "url": "https://22253.live.streamtheworld.com/ASYIK_FMAAC.aac", "category": "Malaysia" },
 { "name": "Best FM", "url": "https://n42a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a?rj-ttl=5&rj-tok=AAABnWfljPsA0fqFLJTCDR98-Q", "category": "Malaysia" },
