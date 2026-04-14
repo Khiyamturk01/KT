@@ -74,8 +74,6 @@
 
 
 
-
-
 { "name": "Fox News Radio", "url": "https://prod-54-86-8-179.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=a07e3aaf31ee2964ed2ea4ea0adce6b2", "category": "USA" },
 { "name": "WNYC FM 93.9", "url": "https://fm939.wnyc.org/wnycfm.aac", "category": "USA" },
 { "name": "Electric FM", "url": "https://live.electricfm.com/electricfm", "category": "USA" },
@@ -101,10 +99,6 @@
 { "name": "Hit The Beatz", "url": "https://das-edge16-live365-dal02.cdnstream.com/a09460", "category": "USA" },
 
 
-
-
-
-
  
 
  { "name": "City FM 89", "url": "https://radio.cityfm89.com/stream", "category": "Pakistan" },
@@ -123,7 +117,7 @@
 { "name": "FM 93 Rawalpindi", "url": "https://whmsonic.radio.gov.pk:8036/relay?type=http&nocache=9", "category": "Pakistan" },
 { "name": "FM 101 Multan", "url": "https://whmsonic.radio.gov.pk:8032/stream?type=http&nocache=12", "category": "Pakistan" },
 { "name": "Chalte Chalte", "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12", "category": "Pakistan" },
-   { "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
+{ "name": "FM 101 ATD PAK", "url": "https://whmsonic.radio.gov.pk:8064/;", "category": "Pakistan" },
 
 
 
@@ -155,9 +149,6 @@
 { "name": "Power Turk Taptaze", "url": "https://listen.powerapp.com.tr/powerturktaptaze/mpeg/icecast.audio", "category": "Türkiye" },
 { "name": "Radyo 89.0 FM", "url": "https://yayin.turkhosted.com:6012/;", "category": "Türkiye" },
 
-
-
-  
 
  
 
@@ -214,10 +205,6 @@
 { "name": "Tannan FM 79.1", "url": "https://tannan.mediaservice.jp:7910/;", "category": "Japan" },
 { "name": "WREP Live", "url": "https://c13.radioboss.fm:8200/stream", "category": "Japan" },
 { "name": "Hitsujikai Radio", "url": "https://streaming.radio.co/se4a8e6a93/listen", "category": "Japan" },
-
-
-
-
 
 
 
@@ -319,8 +306,6 @@
 
 
 
-
-
 { "name": "ABC News", "url": "https://abc.streamguys1.com/live/newsradio/icecast.audio", "category": "Australia" },
 { "name": "105.7 ABC", "url": "https://abc.streamguys1.com/live/localdarwin/icecast.audio", "category": "Australia" },
 { "name": "2GB 873", "url": "https://23153.live.streamtheworld.com/2GB.mp3", "category": "Australia" },
@@ -344,9 +329,6 @@
 
 
 
-
-
-
 { "name": "NRJ FM 92.1", "url": "https://nrjstreaming.ahmed-melege.com/nrjegypt", "category": "Egypt" },
 { "name": "Radio Hits FM 88.2", "url": "https://radiohits882.radioca.st/;", "category": "Egypt" },
 { "name": "90s FM", "url": "https://eu1.fastcast4u.com/proxy/prontofm?mp=/1", "category": "Egypt" },
@@ -357,56 +339,52 @@
 { "name": "111 FM Online", "url": "https://stream-178.zeno.fm/a49vayexcg0uv?", "category": "Egypt" },
 
   
- 
-
-
 
   
- { "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "Music" },
-  { "name": "RP MELLOW", "url": "http://stream.radioparadise.com/mellow-flacm", "category": "Music" },
-  { "name": "RP ROCK", "url": "http://stream.radioparadise.com/rock-flacm", "category": "Music" },
-  { "name": "RP MAIN", "url": "http://stream.radioparadise.com/flacm", "category": "Music" },
-  { "name": "RP BEYOND", "url": "http://stream.radioparadise.com/beyond-flacm", "category": "Music" },
-  { "name": "Radio Paradise 2050", "url": "http://stream.radioparadise.com/radio2050-flacm", "category": "Music" },
-  { "name": "Radio Paradise Serenity", "url": "http://stream.radioparadise.com/serenity", "category": "Music" },
-  { "name": "NEW CLEAR RADIO", "url": "http://live.ncradio.fm/320", "category": "Music" },
-  { "name": "NME 1", "url": "http://listen-nme.sharp-stream.com/nme1high.mp3", "category": "Music" },
-  { "name": "NME 2", "url": "http://listen-nme.sharp-stream.com/nme2high.mp3", "category": "Music" },
-  { "name": "timewarp ireland", "url": "http://141.94.205.245:8052/stream", "category": "Music" },
-  { "name": "JB Radio 2", "url": "http://161.97.135.80:8001/flac", "category": "Music" },
-  { "name": "Naim Radio Flac", "url": "http://mscp3.live-streams.nl:8360/flac.flac", "category": "Music" },
-  { "name": "Radio Caroline", "url": "http://78.129.202.200:8030/;", "category": "Music" },
-  { "name": "Linn Radio", "url": "http://radio.linn.co.uk:8003/stream", "category": "Music" },
-  { "name": "HILINE FLAC", "url": "http://mscp2.live-streams.nl:8100/flac.flac", "category": "Music" },
-  { "name": "HILINE POP", "url": "http://mediaserv30.live-streams.nl:8086/live", "category": "Music" },
-  { "name": "HILINE WORLD", "url": "http://mediaserv38.live-streams.nl:8027/live", "category": "Music" },
-  { "name": "HILINE GOLD", "url": "http://mediaserv30.live-streams.nl:8000/live", "category": "Music" },
-  { "name": "HILINE CLASSICAL", "url": "http://mediaserv30.live-streams.nl:8088/live", "category": "Music" },
-  { "name": "HILINE LATIN", "url": "http://mediaserv33.live-streams.nl:8034/stream", "category": "Music" },
-  { "name": "HILINE LOUNGE", "url": "http://mediaserv33.live-streams.nl:8036/stream", "category": "Music" },
-  { "name": "RADIO SINGSING", "url": "http://stream.sing-sing-bis.org:8000/singsingFlac", "category": "Music" },
-  { "name": "Motherearth Flac-Lo", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth.flac-lo", "category": "Music" },
-  { "name": "Motherearth 192", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth", "category": "Music" },
-  { "name": "Mother Earth Instrumental", "url": "https://stream.motherearthradio.de/listen/motherearth/instrumental.flac", "category": "Music" },
-  { "name": "Mother Earth Jazz", "url": "https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz", "category": "Music" },
-  { "name": "SOMA FOLK", "url": "http://ice2.somafm.com/folkfwd-128-aac", "category": "Music" },
-  { "name": "Soma Groove Salad Flac HLS", "url": "https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8", "category": "Music" },
-  { "name": "SOMA DRONE ZONE", "url": "http://ice2.somafm.com/dronezone-256-mp3", "category": "Music" },
-  { "name": "SOMA SECRET AGENT", "url": "http://ice2.somafm.com/secretagent-128-aac", "category": "Music" },
-  { "name": "SOMA DEEP SPACE ONE", "url": "http://ice2.somafm.com/deepspaceone-128-aac", "category": "Music" },
-  { "name": "SOMA REGGAE", "url": "http://ice6.somafm.com/reggae-256-mp3", "category": "Music" },
-  { "name": "SOMA 70s", "url": "http://ice4.somafm.com/seventies-320-mp3", "category": "Music" },
-  { "name": "SOMA 80s", "url": "http://ice6.somafm.com/u80s-256-mp3", "category": "Music" },
-  { "name": "SOMA COUNTRY", "url": "http://ice2.somafm.com/bootliquor-320-mp3", "category": "Music" },
-  { "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "Music" },
+{ "name": "Hit FM", "url": "https://a13.asurahosting.com/listen/record_fm_105.2/radio.mp3", "category": "MIX" },
+{ "name": "DJ FM 96.8", "url": "https://cast.brg.ua/djfm_main_public_mp3_hq", "category": "MIX" },
+  
+{ "name": "RP GLOBAL", "url": "http://stream.radioparadise.com/global-flacm", "category": "MIX" },
+{ "name": "RP MELLOW", "url": "http://stream.radioparadise.com/mellow-flacm", "category": "MIX" },
+{ "name": "RP ROCK", "url": "http://stream.radioparadise.com/rock-flacm", "category": "MIX" },
+{ "name": "RP MAIN", "url": "http://stream.radioparadise.com/flacm", "category": "MIX" },
+{ "name": "RP BEYOND", "url": "http://stream.radioparadise.com/beyond-flacm", "category": "MIX" },
+{ "name": "Radio Paradise 2050", "url": "http://stream.radioparadise.com/radio2050-flacm", "category": "MIX" },
+{ "name": "Radio Paradise Serenity", "url": "http://stream.radioparadise.com/serenity", "category": "MIX" },
+{ "name": "NEW CLEAR RADIO", "url": "http://live.ncradio.fm/320", "category": "MIX" },
+{ "name": "NME 1", "url": "http://listen-nme.sharp-stream.com/nme1high.mp3", "category": "MIX" },
+{ "name": "NME 2", "url": "http://listen-nme.sharp-stream.com/nme2high.mp3", "category": "MIX" },
+{ "name": "timewarp ireland", "url": "http://141.94.205.245:8052/stream", "category": "MIX" },
+{ "name": "JB Radio 2", "url": "http://161.97.135.80:8001/flac", "category": "MIX" },
+{ "name": "Naim Radio Flac", "url": "http://mscp3.live-streams.nl:8360/flac.flac", "category": "MIX" },
+{ "name": "Radio Caroline", "url": "http://78.129.202.200:8030/;", "category": "MIX" },
+{ "name": "Linn Radio", "url": "http://radio.linn.co.uk:8003/stream", "category": "MIX" },
+{ "name": "HILINE FLAC", "url": "http://mscp2.live-streams.nl:8100/flac.flac", "category": "MIX" },
+{ "name": "HILINE POP", "url": "http://mediaserv30.live-streams.nl:8086/live", "category": "MIX" },
+{ "name": "HILINE WORLD", "url": "http://mediaserv38.live-streams.nl:8027/live", "category": "MIX" },
+{ "name": "HILINE GOLD", "url": "http://mediaserv30.live-streams.nl:8000/live", "category": "MIX" },
+{ "name": "HILINE CLASSICAL", "url": "http://mediaserv30.live-streams.nl:8088/live", "category": "MIX" },
+{ "name": "HILINE LATIN", "url": "http://mediaserv33.live-streams.nl:8034/stream", "category": "MIX" },
+{ "name": "HILINE LOUNGE", "url": "http://mediaserv33.live-streams.nl:8036/stream", "category": "MIX" },
+{ "name": "RADIO SINGSING", "url": "http://stream.sing-sing-bis.org:8000/singsingFlac", "category": "MIX" },
+{ "name": "Motherearth Flac-Lo", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth.flac-lo", "category": "MIX" },
+{ "name": "Motherearth 192", "url": "https://motherearth.streamserver24.com/listen/motherearth/motherearth", "category": "MIX" },
+{ "name": "Mother Earth Instrumental", "url": "https://stream.motherearthradio.de/listen/motherearth/instrumental.flac", "category": "MIX" },
+{ "name": "Mother Earth Jazz", "url": "https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz", "category": "MIX" },
+{ "name": "SOMA FOLK", "url": "http://ice2.somafm.com/folkfwd-128-aac", "category": "MIX" },
+{ "name": "Soma Groove Salad Flac HLS", "url": "https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8", "category": "MIX" },
+{ "name": "SOMA DRONE ZONE", "url": "http://ice2.somafm.com/dronezone-256-mp3", "category": "MIX" },
+{ "name": "SOMA SECRET AGENT", "url": "http://ice2.somafm.com/secretagent-128-aac", "category": "MIX" },
+{ "name": "SOMA DEEP SPACE ONE", "url": "http://ice2.somafm.com/deepspaceone-128-aac", "category": "MIX" },
+{ "name": "SOMA REGGAE", "url": "http://ice6.somafm.com/reggae-256-mp3", "category": "MIX" },
+{ "name": "SOMA 70s", "url": "http://ice4.somafm.com/seventies-320-mp3", "category": "MIX" },
+{ "name": "SOMA 80s", "url": "http://ice6.somafm.com/u80s-256-mp3", "category": "MIX" },
+{ "name": "SOMA COUNTRY", "url": "http://ice2.somafm.com/bootliquor-320-mp3", "category": "MIX" },
+{ "name": "SOMA INDIE", "url": "http://ice4.somafm.com/indiepop-128-aac", "category": "MIX" },
+  
   
  
-  
-  
- 
- 
- 
- { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "Music" }
+ { "name": "SOMA DUB", "url": "https://ice1.somafm.com/dubstep-128-aac", "category": "MIX" }
 
   
 ]
