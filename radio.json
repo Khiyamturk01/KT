@@ -295,7 +295,7 @@
 { "name": "FM 100.5", "url": "https://abc.streamguys1.com/live/localadelaide/icecast.audio", "category": "Australia" },
 { "name": "FM 97.3", "url": "https://sa47.scastream.com.au/live/6cst_128.stream/playlist.m3u8", "category": "Australia" },
 { "name": "Fresh FM 92.7", "url": "https://live.fresh927.com.au/freshaac", "category": "Australia" },
-{ "name": "Kiss FM 87.8", "url": "https://s9.nexuscast.com:9565/kissfm.aac", "category": "Australia" },
+
 { "name": "FM 101.3", "url": "https://memphis.radioca.st/;", "category": "Australia" },
 { "name": "Nova FM 100.3", "url": "https://23193.live.streamtheworld.com/NOVA_100_AAC48.aac", "category": "Australia" },
 { "name": "Nova 96.9", "url": "https://28893.live.streamtheworld.com/NOVA_969_AAC320.aac", "category": "Australia" },
@@ -307,7 +307,22 @@
 { "name": "RTR 92.1 FM", "url": "https://live.rtrfm.com.au/stream1", "category": "Australia" },
 { "name": "Sunshine 98.5 FM", "url": "https://28803.live.streamtheworld.com/6SONAAC.aac", "category": "Australia" },
 
+
+
+
+
+
+{ "name": "NRJ FM 92.1", "url": "https://nrjstreaming.ahmed-melege.com/nrjegypt", "category": "Egypt" },
+{ "name": "Radio Hits FM 88.2", "url": "https://radiohits882.radioca.st/;", "category": "Egypt" },
+{ "name": "90s FM", "url": "https://eu1.fastcast4u.com/proxy/prontofm?mp=/1", "category": "Egypt" },
+{ "name": "Al-Abd Hob Al Nabi", "url": "https://s1.reliastream.com/proxy/oelgendy?mp=/stream", "category": "Egypt" },
+{ "name": "Mega FM 92.7", "url": "https://megafm927.radioca.st/stream", "category": "Egypt" },
+{ "name": "Arab Mix FM", "url": "https://stream-159.zeno.fm/efx5psd00qruv?", "category": "Egypt" },
+{ "name": "Sha3by FM 95.0", "url": "https://radio95.radioca.st/;", "category": "Egypt" },
+{ "name": "111 FM Online", "url": "https://stream-178.zeno.fm/a49vayexcg0uv?", "category": "Egypt" },
+
   
+ 
 
 
 
