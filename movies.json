@@ -75,11 +75,13 @@
     "url": "https://archive.org/download/ht-2_20200805/Hotel%20Transylvania%202%202015%20x264%20720p%20%5BHindi%20%2B%20Eng%5D%20BluRay%20Exclusive%20By%20Maher.mp4",
     "category": "Kids Movies"
   },
-  {
-    "name": "How to Train Your Dragon",
-    "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/HOW%20TO%20TRAIN%20YOUR%20DRAGON%20%282010%29.mp4",
-    "category": "Kids Movies"
-  },
+
+
+{"name":"Hotel Transylvania 3","url":"https://archive.org/download/hotel.-transylvania.-3.-a.-monster.-vacation.-2018.720p.-hin.-eng.-vegamovies.is/Hotel.Transylvania.3.A.Monster.Vacation.2018.720p.Hin.Eng.Vegamovies.is.mp4","category":"Kids Movies"},
+{"name":"Hotel Transylvania 4","url":"https://archive.org/download/hotel-transylvania-4-transformania-2022-720p-hevc-hdrip-org-dual-x-265-esub-vegamovies.-nl/Hotel%20Transylvania%204%20Transformania%202022%20720p%20HEVC%20HDRip%20ORG%20Dual%20x265%20ESub%20Vegamovies.NL.mp4","category":"Kids Movies"},
+  
+  {"name": "How to Train Your Dragon","url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/HOW%20TO%20TRAIN%20YOUR%20DRAGON%20%282010%29.mp4","category": "Kids Movies"},
+  
   {
     "name": "How to Train Your Dragon 2",
     "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/HOW%20TO%20TRAIN%20YOUR%20DRAGON%202%20%282014%29.mp4",
@@ -2463,6 +2465,7 @@
 
 
 {"name":"Dhurandhar","url":"https://archive.org/download/dhurandhar-2025_202603/Dhurandhar.mp4","category":"2020-2030 Hindi Movies"},
+{"name":"Dhurandhar 2 The Revenge","url":"https://archive.org/download/dhurandhar-the-revenge-2026-hindi-hdtc-1080-p-x-264-avc-hc-esub.mkv/Dhurandhar_The_Revenge_2026_Hindi_Hdtc_1080P_X264_Avc_Hc-Esub.mkv.mp4","category":"2020-2030 Hindi Movies"},
 
 
 {"name":"Hit The Third Case","url":"https://archive.org/download/hit-the-third-case-2025-hdrip-720p-hindi-aac-x264/Hit%20The%20Third%20Case%20%282025%29%20HDRip%20720p%20Hindi%20AAC%20x264.mp4","category":"2020-2030 Hindi Movies"},
@@ -3310,6 +3313,15 @@
     "url": "https://archive.org/download/bhoot.-2003.1080p-z-flix-co/04%20-%20Bollywood%20-%202003/Munna%20Bhai%20M.B.B.S.%20%282003%29%20HDRip%20720p_zFlix%20CO.mp4",
     "category": "2000-2009 Hindi Movies"
   },
+
+    {
+    "name": "Lage Raho Munna Bhai",
+    "url": "https://archive.org/download/lage-raho-munna-bhai-2006-eros-dvdrip/Lage%20Raho%20Munna%20Bhai%20%282006%29%20EROS%20Dvdrip.mp4",
+    "category": "2000-2009 Hindi Movies"
+  },
+
+
+  
   {
     "name": "Aankhen",
     "url": "https://archive.org/download/aap-mujhe-achche-lagne-lage-2002-web-rip-1080p-z-flix-co/01%20-%20Bollywood%20-%202002/Aankhen%202002%20Hindi%201080p_zFlix%20CO.mp4",
