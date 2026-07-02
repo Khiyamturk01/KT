@@ -1599,6 +1599,13 @@
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     "category": "Sports"
   },
+
+
+    {
+    "name": "Brazil Football",
+    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    "category": "Sports"
+  },
   
   {
     "name": "MMA Sports",
