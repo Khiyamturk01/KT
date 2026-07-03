@@ -1606,6 +1606,127 @@
     "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
     "category": "Sports"
   },
+
+
+
+  
+
+  {
+    "name": "A Sports",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ACCDN Sports",
+    "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ACI Sport",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Africa Sports",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Iraqia Sports",
+    "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 1 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 2 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 3 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 4 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 5 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 6 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Alkass 7 Sports",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Bein Sports XTRA",
+    "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Bein Sports XTRA 2",
+    "url": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Bein Sports XTRA N",
+    "url": "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "AS3 Sports",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "ATG Sports",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Al Behrin Sports",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Al Behrin Sports 2",
+    "url": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "BEK Sports",
+    "url": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Danz Sports",
+    "url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
+    "category": "Sports"
+  },
+
+
+
+
+
+
+
+
+
+
+  
   
   {
     "name": "MMA Sports",
@@ -1919,6 +2040,10 @@
     "url": "https://www.youtube.com/embed/mgeW8Qm8-SY?si=yNZFs6k-s4JJrzE4",
     "category": "Sports"
   },
+
+
+
+  
 
 
 
